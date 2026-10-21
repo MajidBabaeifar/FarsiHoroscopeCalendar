@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>تقویم آسترولوژی</title>
+<style>
+  :root {
+    --bg: #f7f5f2; --card: #ffffff; --text: #1f1d1a; --muted: #6b665e;
+    --accent: #5b3fd1; --accent-text: #ffffff; --border: #e4e0d9;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #141312; --card: #1e1c1a; --text: #ece8e1; --muted: #a39d93;
+      --accent: #9c86ff; --accent-text: #141312; --border: #34312d;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font: 16px/1.7 system-ui, -apple-system, "Segoe UI", Tahoma, sans-serif;
+  }
+  main { max-width: 34rem; margin: 0 auto; padding: 2.5rem 16px 3rem; }
+  h1 { font-size: 1.6rem; margin: 0 0 .25rem; }
+  p { margin: .25rem 0 1rem; color: var(--muted); }
+  .card {
+    background: var(--card); border: 1px solid var(--border); border-radius: 14px;
+    padding: 1.25rem; margin: 1.25rem 0;
+  }
+  h2 { font-size: 1.05rem; margin: 0 0 .75rem; }
+  a.button {
+    display: block; text-align: center; text-decoration: none; font-weight: 600;
+    background: var(--accent); color: var(--accent-text);
+    padding: .8rem 1rem; border-radius: 10px;
+  }
+  .url {
+    display: flex; gap: .5rem; margin-top: .5rem;
+  }
+  .url input {
+    flex: 1; min-width: 0; direction: ltr; font: 14px ui-monospace, monospace;
+    padding: .6rem; border: 1px solid var(--border); border-radius: 8px;
+    background: var(--bg); color: var(--text);
+  }
+  .url button {
+    padding: .6rem .9rem; border: 1px solid var(--border); border-radius: 8px;
+    background: var(--card); color: var(--text); font: inherit; cursor: pointer;
+  }
+  ol { margin: .5rem 0 0; padding-inline-start: 1.25rem; color: var(--muted); }
+  .legend { color: var(--muted); font-size: .95rem; }
+</style>
+</head>
+<body>
+<main>
+  <h1>تقویم آسترولوژی</h1>
+  <p>روزهای مهمی که کانال @FarsiHoroscope اعلام می‌کند، در تقویم گوشی شما. یک بار مشترک شوید؛ تاریخ‌های تازه خودشان اضافه می‌شوند.</p>
+
+  <div class="card">
+    <h2>آیفون، آیپد و مک</h2>
+    <a class="button" id="apple" href="#">اشتراک در تقویم اپل</a>
+  </div>
+
+  <div class="card">
+    <h2>گوگل کلندر (اندروید و کامپیوتر)</h2>
+    <a class="button" id="google" href="#" target="_blank" rel="noopener">افزودن به گوگل کلندر</a>
+    <p style="margin-top:.75rem">در اندروید، این لینک را در مرورگر باز کنید؛ تقویم بعد از چند ساعت در برنامه گوگل کلندر هم دیده می‌شود.</p>
+  </div>
+
+  <div class="card">
+    <h2>تقویم‌های دیگر</h2>
+    <p>این آدرس را در بخش «افزودن تقویم از طریق URL» وارد کنید:</p>
+    <div class="url">
+      <input id="ics" readonly>
+      <button id="copy" type="button">کپی</button>
+    </div>
+    <ol>
+      <li>آیفون، اگر دکمه بالا کار نکرد: Settings ← Calendar ← Accounts ← Add Account ← Other ← Add Subscribed Calendar</li>
+    </ol>
+  </div>
+
+  <p class="legend">🟢 روز مناسب &nbsp; 🔴 روز پرچالش &nbsp; ⚪ خنثی &nbsp; 🟡 هر دو</p>
+</main>
+<script>
+  const ics = new URL("calendar.ics", location.href).href;
+  const webcal = ics.replace(/^https?:/, "webcal:");
+  document.getElementById("apple").href = webcal;
+  document.getElementById("google").href =
+    "https://calendar.google.com/calendar/render?cid=" + encodeURIComponent(webcal);
+  const input = document.getElementById("ics");
+  input.value = ics;
+  document.getElementById("copy").onclick = async (e) => {
+    try { await navigator.clipboard.writeText(ics); } catch { input.select(); document.execCommand("copy"); }
+    e.target.textContent = "کپی شد";
+  };
+</script>
+</body>
+</html>
