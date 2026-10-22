@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:⚪ ماه روشن شدن پنهان‌ها
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20261022T220228Z
+DTSTAMP:20261022T222645Z
 UID:2026-09-23_2026-10-22@astro-calendar
 SEQUENCE:1
 DESCRIPTION:۱ تا ۳۰ مهر (23 Sep – 22 Oct)\n\n⚪ ماه روشن
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 انرژی سنگین برای نشان‌های ثابت
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261021
-DTSTAMP:20261022T220228Z
+DTSTAMP:20261022T222645Z
 UID:2026-10-19_2026-10-20@astro-calendar
 SEQUENCE:1
 DESCRIPTION:۲۷ تا ۲۸ مهر (19–20 Oct)\n\n🔴 انرژی سنگ
@@ -34,7 +34,7 @@ SUMMARY:⚪ دوره درون‌نگری و مواجهه با زخم‌ه
  ا
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20261022T220228Z
+DTSTAMP:20261022T222645Z
 UID:2026-10-21_2026-11-15@astro-calendar
 SEQUENCE:1
 DESCRIPTION:۲۹ مهر تا ۲۴ آبان (21 Oct – 15 Nov)\n\n⚪ دو
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:⚪ آخرین روز خورشید در ترازو
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20261022T220228Z
+DTSTAMP:20261022T222645Z
 UID:2026-10-22_2026-10-22@astro-calendar
 SEQUENCE:1
 DESCRIPTION:۳۰ مهر (22 Oct)\n\n⚪ آخرین روز خورشید د
@@ -60,7 +60,7 @@ SUMMARY:🟡 روابط پرتنش و داغ · دوره پوست‌اند
  ازی و تخلیه درونی
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261022T220228Z
+DTSTAMP:20261022T222645Z
 UID:2026-10-22_2026-10-31@astro-calendar
 SEQUENCE:2
 DESCRIPTION:۳۰ مهر تا ۹ آبان (22–31 Oct)\n\n🔴 روابط 
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 دو هفته تنش بالقوه بالا
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20261022T220228Z
+DTSTAMP:20261022T222645Z
 UID:2026-10-22_2026-11-05@astro-calendar
 SEQUENCE:1
 DESCRIPTION:۳۰ مهر تا ۱۴ آبان (22 Oct – 5 Nov)\n\n🔴 دو
@@ -87,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 فوران موضوعات عقرب تا نیمه آبان
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20261022T220228Z
+DTSTAMP:20261022T222645Z
 UID:2026-10-22_2026-11-15@astro-calendar
 SEQUENCE:1
 DESCRIPTION:۳۰ مهر تا ۲۴ آبان (22 Oct – 15 Nov)\n\n🔴 ف
@@ -100,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 روزهای پرتنش و بی‌ثبات
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261201
-DTSTAMP:20261022T220228Z
+DTSTAMP:20261022T222645Z
 UID:2026-10-22_2026-11-30@astro-calendar
 SEQUENCE:1
 DESCRIPTION:۳۰ مهر تا ۹ آذر (22 Oct – 30 Nov)\n\n🔴 روز
@@ -110,10 +110,23 @@ DESCRIPTION:۳۰ مهر تا ۹ آذر (22 Oct – 30 Nov)\n\n🔴 روز
  e/FarsiHoroscope/23768
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:⚪ ورود خورشید به عقرب
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+DTSTAMP:20261022T222645Z
+UID:2026-10-23_2026-10-23@astro-calendar
+SEQUENCE:1
+DESCRIPTION:۱ آبان (23 Oct)\n\n⚪ ورود خورشید به عقر
+ ب (حمل، ثور، جوزا، سرطان، اسد، سنبله، میز
+ ان، عقرب، جدی، دلو)\nآغاز نشان عقرب؛ توجه 
+ به موضوعات عمیق، مشترک و احساسی.\nhttps://t.me/F
+ arsiHoroscope/23802
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🔴 فشار انرژی بسیار بالا
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20261022T220228Z
+DTSTAMP:20261022T222645Z
 UID:2026-10-23_2026-10-25@astro-calendar
 SEQUENCE:1
 DESCRIPTION:۱ تا ۳ آبان (23–25 Oct)\n\n🔴 فشار انرژی 
@@ -125,7 +138,7 @@ SUMMARY:⚪ فصل عقرب؛ تصمیم‌ها پس از آن قطعی م
  ی‌شود · فصل عقرب غیرعادی خواهد بود
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261022T220228Z
+DTSTAMP:20261022T222645Z
 UID:2026-10-23_2026-11-21@astro-calendar
 SEQUENCE:2
 DESCRIPTION:۱ تا ۳۰ آبان (23 Oct – 21 Nov)\n\n⚪ فصل عقر
@@ -139,10 +152,41 @@ DESCRIPTION:۱ تا ۳۰ آبان (23 Oct – 21 Nov)\n\n⚪ فصل عقر
  roscope/23800
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🟡 کازیمی ونوس در عقرب · آغاز مرکوری 
+ برگشتی
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+DTSTAMP:20261022T222645Z
+UID:2026-10-24_2026-10-24@astro-calendar
+SEQUENCE:2
+DESCRIPTION:۲ آبان (24 Oct)\n\n⚪ کازیمی ونوس در عقر
+ ب (حمل، ثور، جوزا، سرطان، اسد، سنبله، میز
+ ان، عقرب، جدی، دلو)\nآخرین نقطه ستاره‌ای 
+ ونوس؛ ارزش‌ها و روابط را بازبینی کنید.\nht
+ tps://t.me/FarsiHoroscope/23802\n\n🔴 آغاز مرکوری برگشتی
+  (حمل، ثور، جوزا، سرطان، اسد، سنبله، میزا
+ ن، عقرب، جدی، دلو)\nبا آغاز برگشتی مرکوری
+ ، قراردادها و تصمیم‌های حساس را با دقت ب
+ ررسی کنید.\nhttps://t.me/FarsiHoroscope/23802
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚪ ونوس برگشتی وارد ترازو
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+DTSTAMP:20261022T222645Z
+UID:2026-10-25_2026-10-25@astro-calendar
+SEQUENCE:1
+DESCRIPTION:۳ آبان (25 Oct)\n\n⚪ ونوس برگشتی وارد ت
+ رازو (حمل، ثور، جوزا، سرطان، اسد، سنبله، 
+ میزان، عقرب، جدی، دلو)\nبازگشت ونوس به تر
+ ازو؛ موضوعات رابطه‌ای و ارزش‌های شخصی د
+ وباره مطرح می‌شود.\nhttps://t.me/FarsiHoroscope/23802
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🔴 هفته سخت مرکوری برگشتی
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261022T220228Z
+DTSTAMP:20261022T222645Z
 UID:2026-10-25_2026-10-31@astro-calendar
 SEQUENCE:1
 DESCRIPTION:۳ تا ۹ آبان (25–31 Oct)\n\n🔴 هفته سخت مر
@@ -151,37 +195,60 @@ DESCRIPTION:۳ تا ۹ آبان (25–31 Oct)\n\n🔴 هفته سخت مر
  e/FarsiHoroscope/23790
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴 ماه کامل و احتمال تنش و بلایای طبی
- عی
+SUMMARY:🟡 ماه کامل و احتمال تنش و بلایای طبی
+ عی · ماه کامل و امور مالی
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20261022T220228Z
+DTSTAMP:20261022T222645Z
 UID:2026-10-26_2026-10-26@astro-calendar
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:۴ آبان (26 Oct)\n\n🔴 ماه کامل و احتمال 
  تنش و بلایای طبیعی\nدر این روز انرژی را آگ
  اهانه صرف کار درونی و رهایی از زخم‌های ق
  دیمی کنید و برای تنش‌های بیرونی آماده با
- شید.\nhttps://t.me/FarsiHoroscope/23795
+ شید.\nhttps://t.me/FarsiHoroscope/23795\n\n⚪ ماه کامل و ام
+ ور مالی (حمل، ثور، جوزا، سرطان، اسد، سنبل
+ ه، میزان، عقرب، جدی، دلو)\nامور مالی، ارث 
+ و شراکت‌ها روشن می‌شود؛ آنچه ارزشی ندار
+ د را کنار بگذارید.\nhttps://t.me/FarsiHoroscope/23802
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴 تنش مرکوری برگشتی با مریخ
+SUMMARY:🟢 فرصت التیام در روابط
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261029
+DTSTAMP:20261022T222645Z
+UID:2026-10-27_2026-10-28@astro-calendar
+SEQUENCE:1
+DESCRIPTION:۵ تا ۶ آبان (27–28 Oct)\n\n🟢 فرصت التیا
+ م در روابط (حمل، ثور، جوزا، سرطان، اسد، س
+ نبله، میزان، عقرب، جدی، دلو)\nزمان مسئولی
+ ت‌پذیری و ترمیم روابط ارزشمند است؛ به در
+ دهای جسمی هم توجه کنید.\nhttps://t.me/FarsiHoroscope/238
+ 02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔴 تنش مرکوری برگشتی با مریخ · مربع م
+ رکوری و مریخ
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-DTSTAMP:20261022T220228Z
+DTSTAMP:20261022T222645Z
 UID:2026-10-30_2026-10-30@astro-calendar
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:۸ آبان (30 Oct)\n\n🔴 تنش مرکوری برگشتی 
  با مریخ (جوزا، سنبله، عقرب، ثور، دلو، اسد
  )\nاز قرارداد، مذاکره، مصاحبه، امتحان، سف
  ر و ارسال مدارک در این روز پرهیز کنید.\nhttps
- ://t.me/FarsiHoroscope/23754
+ ://t.me/FarsiHoroscope/23754\n\n🔴 مربع مرکوری و مریخ (ح
+ مل، ثور، جوزا، سرطان، اسد، سنبله، میزان،
+  عقرب، جدی، دلو)\nاحتمال کشمکش و جواب‌های
+  تند؛ در گفتگوهای حساس خونسردی را حفظ کنی
+ د.\nhttps://t.me/FarsiHoroscope/23802
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🔴 ماهی پرچالش و سخت
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261201
-DTSTAMP:20261022T220228Z
+DTSTAMP:20261022T222645Z
 UID:2026-11-01_2026-11-30@astro-calendar
 SEQUENCE:1
 DESCRIPTION:۱۰ آبان تا ۹ آذر (1–30 Nov)\n\n🔴 ماهی پ
@@ -194,7 +261,7 @@ SUMMARY:🔴 اوج فشار و بیرون ریختن دردها · دور
  وتو · دوره دشوار در مرکوری برگشتی
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261119
-DTSTAMP:20261022T220228Z
+DTSTAMP:20261022T222645Z
 UID:2026-11-08_2026-11-18@astro-calendar
 SEQUENCE:4
 DESCRIPTION:۱۷ تا ۲۷ آبان (8–18 Nov)\n\n🔴 اوج فشار 
@@ -217,7 +284,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 سومین مربع ونوس و پلوتو
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261022T220228Z
+DTSTAMP:20261022T222645Z
 UID:2026-12-01_2026-12-31@astro-calendar
 SEQUENCE:1
 DESCRIPTION:۱۰ آذر تا ۱۰ دی (1–31 Dec)\n\n🔴 سومین م
