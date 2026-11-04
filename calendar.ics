@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:⚪ ماه روشن شدن پنهان‌ها
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20261021
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:neutral_2026-09-23_2026-10-20@astro-calendar
 SEQUENCE:1
 DESCRIPTION:۱ تا ۲۸ مهر (23 Sep – 20 Oct)\n\n⚪ ماه روشن
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 انرژی سنگین برای نشان‌های ثابت
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261021
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:bad_2026-10-19_2026-10-20@astro-calendar
 SEQUENCE:1
 DESCRIPTION:۲۷ تا ۲۸ مهر (19–20 Oct)\n\n🔴 انرژی سنگ
@@ -34,7 +34,7 @@ SUMMARY:⚪ دوره درون‌نگری و مواجهه با زخم‌ه
  ا +۱
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:neutral_2026-10-21_2026-10-21@astro-calendar
 SEQUENCE:2
 DESCRIPTION:۲۹ مهر (21 Oct)\n\n⚪ دوره درون‌نگری و م
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 روابط پرتنش و داغ +۳
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:bad_2026-10-22_2026-10-22@astro-calendar
 SEQUENCE:4
 DESCRIPTION:۳۰ مهر (22 Oct)\n\n🔴 روابط پرتنش و داغ\n
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:⚪ آخرین روز خورشید در ترازو +۳
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:neutral_2026-10-22_2026-10-22@astro-calendar
 SEQUENCE:4
 DESCRIPTION:۳۰ مهر (22 Oct)\n\n⚪ آخرین روز خورشید د
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 فشار انرژی بسیار بالا +۶
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:bad_2026-10-23_2026-10-23@astro-calendar
 SEQUENCE:7
 DESCRIPTION:۱ آبان (23 Oct)\n\n🔴 فشار انرژی بسیار ب
@@ -134,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:⚪ ورود خورشید به عقرب +۶
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:neutral_2026-10-23_2026-10-23@astro-calendar
 SEQUENCE:7
 DESCRIPTION:۱ آبان (23 Oct)\n\n⚪ ورود خورشید به عقر
@@ -172,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 آغاز مرکوری برگشتی +۱۰
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:bad_2026-10-24_2026-10-24@astro-calendar
 SEQUENCE:11
 DESCRIPTION:۲ آبان (24 Oct)\n\n🔴 آغاز مرکوری برگشت
@@ -224,7 +224,7 @@ BEGIN:VEVENT
 SUMMARY:⚪ کازیمی ونوس در عقرب +۸
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:neutral_2026-10-24_2026-10-24@astro-calendar
 SEQUENCE:9
 DESCRIPTION:۲ آبان (24 Oct)\n\n⚪ کازیمی ونوس در عقر
@@ -270,7 +270,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 فشار انرژی بسیار بالا +۱۰
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:bad_2026-10-25_2026-10-25@astro-calendar
 SEQUENCE:11
 DESCRIPTION:۳ آبان (25 Oct)\n\n🔴 فشار انرژی بسیار ب
@@ -321,7 +321,7 @@ BEGIN:VEVENT
 SUMMARY:⚪ ونوس برگشتی وارد ترازو +۸
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:neutral_2026-10-25_2026-10-25@astro-calendar
 SEQUENCE:9
 DESCRIPTION:۳ آبان (25 Oct)\n\n⚪ ونوس برگشتی وارد ت
@@ -368,7 +368,7 @@ SUMMARY:🔴 ماه کامل و احتمال تنش و بلایای طبی
  عی +۱۲
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:bad_2026-10-26_2026-10-26@astro-calendar
 SEQUENCE:13
 DESCRIPTION:۴ آبان (26 Oct)\n\n🔴 ماه کامل و احتمال 
@@ -429,7 +429,7 @@ BEGIN:VEVENT
 SUMMARY:🟢 روز آرامش و کندی
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:good_2026-10-26_2026-10-26@astro-calendar
 SEQUENCE:1
 DESCRIPTION:۴ آبان (26 Oct)\n\n🟢 روز آرامش و کندی\n۴
@@ -441,7 +441,7 @@ BEGIN:VEVENT
 SUMMARY:⚪ ماه کامل و امور مالی +۹
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:neutral_2026-10-26_2026-10-26@astro-calendar
 SEQUENCE:10
 DESCRIPTION:۴ آبان (26 Oct)\n\n⚪ ماه کامل و امور مال
@@ -491,7 +491,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 فوران احساسی بعد از ماه کامل +۱۲
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261029
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:bad_2026-10-27_2026-10-28@astro-calendar
 SEQUENCE:13
 DESCRIPTION:۵ تا ۶ آبان (27–28 Oct)\n\n🔴 فوران احسا
@@ -551,7 +551,7 @@ BEGIN:VEVENT
 SUMMARY:🟢 فرصت التیام در روابط +۱
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261029
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:good_2026-10-27_2026-10-28@astro-calendar
 SEQUENCE:2
 DESCRIPTION:۵ تا ۶ آبان (27–28 Oct)\n\n🟢 فرصت التیا
@@ -570,7 +570,7 @@ BEGIN:VEVENT
 SUMMARY:⚪ دوره پوست‌اندازی و تخلیه درونی +۸
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:neutral_2026-10-27_2026-10-31@astro-calendar
 SEQUENCE:9
 DESCRIPTION:۵ تا ۹ آبان (27–31 Oct)\n\n⚪ دوره پوست‌
@@ -616,7 +616,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 هفته سخت مرکوری برگشتی +۱۰
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:bad_2026-10-29_2026-10-29@astro-calendar
 SEQUENCE:11
 DESCRIPTION:۷ آبان (29 Oct)\n\n🔴 هفته سخت مرکوری بر
@@ -668,7 +668,7 @@ BEGIN:VEVENT
 SUMMARY:🟢 فرصت ترمیم زخم‌های عاطفی
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:good_2026-10-29_2026-10-29@astro-calendar
 SEQUENCE:1
 DESCRIPTION:۷ آبان (29 Oct)\n\n🟢 فرصت ترمیم زخم‌ها
@@ -682,7 +682,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 تنش مرکوری برگشتی با مریخ +۱۳
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:bad_2026-10-30_2026-10-30@astro-calendar
 SEQUENCE:14
 DESCRIPTION:۸ آبان (30 Oct)\n\n🔴 تنش مرکوری برگشتی 
@@ -746,7 +746,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 امضای قرارداد در ۲۴ ساعت آینده +۱۱
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:bad_2026-10-31_2026-10-31@astro-calendar
 SEQUENCE:12
 DESCRIPTION:۹ آبان (31 Oct)\n\n🔴 امضای قرارداد در ۲
@@ -801,7 +801,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 دو هفته تنش بالقوه بالا +۱۳
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:bad_2026-11-01_2026-11-01@astro-calendar
 SEQUENCE:14
 DESCRIPTION:۱۰ آبان (1 Nov)\n\n🔴 دو هفته تنش بالقو
@@ -865,7 +865,7 @@ BEGIN:VEVENT
 SUMMARY:🟢 فضای باز برای انرژی‌های مطلوب +۱
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261104
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:good_2026-11-01_2026-11-03@astro-calendar
 SEQUENCE:2
 DESCRIPTION:۱۰ تا ۱۲ آبان (1–3 Nov)\n\n🟢 فضای باز ب
@@ -884,7 +884,7 @@ BEGIN:VEVENT
 SUMMARY:⚪ نیمه اول نوامبر آرام +۱۰
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261104
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:neutral_2026-11-01_2026-11-03@astro-calendar
 SEQUENCE:11
 DESCRIPTION:۱۰ تا ۱۲ آبان (1–3 Nov)\n\n⚪ نیمه اول ن
@@ -937,7 +937,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 اتصال ماه و مریخ در لئو +۱۵
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:bad_2026-11-02_2026-11-02@astro-calendar
 SEQUENCE:16
 DESCRIPTION:۱۱ آبان (2 Nov)\n\n🔴 اتصال ماه و مریخ د
@@ -1010,7 +1010,7 @@ SUMMARY:🔴 دوره برگشتی؛ پرهیز از برون‌ریزی
  هیجانات +۱۶
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:bad_2026-11-03_2026-11-03@astro-calendar
 SEQUENCE:17
 DESCRIPTION:۱۲ آبان (3 Nov)\n\n🔴 دوره برگشتی؛ پرهی
@@ -1088,7 +1088,7 @@ BEGIN:VEVENT
 SUMMARY:🟢 گفتگوی صادقانه از قلب +۶
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:good_2026-11-04_2026-11-04@astro-calendar
 SEQUENCE:7
 DESCRIPTION:۱۳ آبان (4 Nov)\n\n🟢 گفتگوی صادقانه از
@@ -1125,7 +1125,7 @@ BEGIN:VEVENT
 SUMMARY:⚪ کازیمی مرکوری برگشتی در عقرب +۱۱
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:neutral_2026-11-04_2026-11-04@astro-calendar
 SEQUENCE:12
 DESCRIPTION:۱۳ آبان (4 Nov)\n\n⚪ کازیمی مرکوری برگ
@@ -1184,7 +1184,7 @@ SUMMARY:🔴 دوره برگشتی؛ پرهیز از برون‌ریزی
  هیجانات +۱۷
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:bad_2026-11-04_2026-11-05@astro-calendar
 SEQUENCE:18
 DESCRIPTION:۱۳ تا ۱۴ آبان (4–5 Nov)\n\n🔴 دوره برگش
@@ -1266,7 +1266,7 @@ BEGIN:VEVENT
 SUMMARY:⚪ نیمه اول نوامبر آرام +۱۰
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:neutral_2026-11-05_2026-11-05@astro-calendar
 SEQUENCE:11
 DESCRIPTION:۱۴ آبان (5 Nov)\n\n⚪ نیمه اول نوامبر آر
@@ -1319,7 +1319,7 @@ BEGIN:VEVENT
 SUMMARY:🟢 دوره ونوس برگشتی و اسپایکا +۲
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261110
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:good_2026-11-05_2026-11-09@astro-calendar
 SEQUENCE:3
 DESCRIPTION:۱۴ تا ۱۸ آبان (5–9 Nov)\n\n🟢 دوره ونوس 
@@ -1343,7 +1343,7 @@ BEGIN:VEVENT
 SUMMARY:⚪ عبور ونوس برگشتی از اسپایکا +۱۱
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:neutral_2026-11-06_2026-11-06@astro-calendar
 SEQUENCE:12
 DESCRIPTION:۱۵ آبان (6 Nov)\n\n⚪ عبور ونوس برگشتی ا
@@ -1401,7 +1401,7 @@ SUMMARY:🔴 دوره برگشتی؛ پرهیز از برون‌ریزی
  هیجانات +۱۶
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:bad_2026-11-06_2026-11-07@astro-calendar
 SEQUENCE:17
 DESCRIPTION:۱۵ تا ۱۶ آبان (6–7 Nov)\n\n🔴 دوره برگش
@@ -1480,7 +1480,7 @@ BEGIN:VEVENT
 SUMMARY:⚪ نیمه اول نوامبر آرام +۱۰
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261110
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:neutral_2026-11-07_2026-11-09@astro-calendar
 SEQUENCE:11
 DESCRIPTION:۱۶ تا ۱۸ آبان (7–9 Nov)\n\n⚪ نیمه اول ن
@@ -1533,44 +1533,481 @@ BEGIN:VEVENT
 SUMMARY:🔴 دوره برگشتی؛ پرهیز از برون‌ریزی 
  هیجانات +۲۲
 DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261110
-DTSTAMP:20261104T201646Z
-UID:bad_2026-11-08_2026-11-09@astro-calendar
+DTEND;VALUE=DATE:20261109
+DTSTAMP:20261104T221631Z
+UID:bad_2026-11-08_2026-11-08@astro-calendar
 SEQUENCE:23
-DESCRIPTION:۱۷ تا ۱۸ آبان (8–9 Nov)\n\n🔴 دوره برگش
- تی؛ پرهیز از برون‌ریزی هیجانات\n۱۲ تا ۱۸ 
- آبان (3–9 Nov)\nدر این روزها بهتر است احساسا
- ت و حرف‌های ناگفته را روی کاغذ بنویسی و ب
- ه دیگران سرزنش یا بازجویی نکنی.\nhttps://t.me/Far
- siHoroscope/23915\n\n🔴 پرهیز از تصمیم نهایی در دو
- ره برگشتی\n۱۳ تا ۲۲ آبان (4–13 Nov)\nتا ۱۳ نوا
- مبر که عطارد برگشتی است، ایده‌ها را روشن
-  کنید اما تصمیم نهایی و امضای تعهد را به ب
- عد از آن موکول کنید.\nhttps://t.me/FarsiHoroscope/23926\n\n
- 🔴 حرکت برگشتی عطارد در عقرب\n۱۲ تا ۲۲ آبا
- ن (3–13 Nov)\nدر این مدت اطلاعات ناقص است و رو
- ابط دچار اختلال می‌شوند؛ تصمیم‌های مهم 
- نگیرید و ذهن را آرام نگه دارید.\nhttps://t.me/Fars
- iHoroscope/23913\n\n🔴 اوج فشار و بیرون ریختن درده
- ا\n۱۷ تا ۲۷ آبان (8–18 Nov)\nدر این بازه هوشیا
- ر باشید، با خشم پاسخ ندهید و با افراد کنت
- رل‌گر درگیر نشوید.\nhttps://t.me/FarsiHoroscope/23744\n\n
- 🔴 دوره فشار عطارد (جوزا، سنبله)\n۱۷ تا ۲۷ 
- آبان (8–18 Nov)\nدر این روزها مراقب رفتار و ت
- صمیم‌هایتان باشید و خودتان را کنترل کنی
- د.\nhttps://t.me/FarsiHoroscope/23750\n\n🔴 اوج تنش مرکوری 
- برگشتی و پلوتو (جوزا، سنبله، عقرب، ثور، د
- لو، اسد)\n۱۷ تا ۲۷ آبان (8–18 Nov)\nدر این بازه
-  امضای قرارداد، گفتگوی مهم، سفر، امتحان 
- و تحویل مدارک را به تعویق بیندازید.\nhttps://t
- .me/FarsiHoroscope/23754\n\n🔴 دوره دشوار در مرکوری ب
- رگشتی\n۱۷ تا ۲۷ آبان (8–18 Nov)\nAnother difficult stretc
- h during the retrograde\; postpone important signings\, trips or announcem
- ents if possible.\nhttps://t.me/FarsiHoroscope/23790\n\n🔴 اوج فشا
- ر ذهنی و نگرانی\n۱۷ تا ۲۷ آبان (8–18 Nov)\nدر ا
- ین روزها از افکار وسواسی و خودخوری دوری ک
- نید و برای تصمیم‌های مهم عجله نکنید.\nhttps:
- //t.me/FarsiHoroscope/23907\n\n🔴 پرتنش‌ترین دوره سال 
+DESCRIPTION:۱۷ آبان (8 Nov)\n\n🔴 دوره برگشتی؛ پرهی
+ ز از برون‌ریزی هیجانات\n۱۲ تا ۱۸ آبان (3–9
+  Nov)\nدر این روزها بهتر است احساسات و حرف‌
+ های ناگفته را روی کاغذ بنویسی و به دیگران
+  سرزنش یا بازجویی نکنی.\nhttps://t.me/FarsiHoroscope/239
+ 15\n\n🔴 پرهیز از تصمیم نهایی در دوره برگشت
+ ی\n۱۳ تا ۲۲ آبان (4–13 Nov)\nتا ۱۳ نوامبر که عط
+ ارد برگشتی است، ایده‌ها را روشن کنید اما
+  تصمیم نهایی و امضای تعهد را به بعد از آن 
+ موکول کنید.\nhttps://t.me/FarsiHoroscope/23926\n\n🔴 حرکت 
+ برگشتی عطارد در عقرب\n۱۲ تا ۲۲ آبان (3–13 Nov
+ )\nدر این مدت اطلاعات ناقص است و روابط دچا
+ ر اختلال می‌شوند؛ تصمیم‌های مهم نگیرید 
+ و ذهن را آرام نگه دارید.\nhttps://t.me/FarsiHoroscope/23
+ 913\n\n🔴 اوج فشار و بیرون ریختن دردها\n۱۷ تا
+  ۲۷ آبان (8–18 Nov)\nدر این بازه هوشیار باشید
+ ، با خشم پاسخ ندهید و با افراد کنترل‌گر د
+ رگیر نشوید.\nhttps://t.me/FarsiHoroscope/23744\n\n🔴 دوره 
+ فشار عطارد (جوزا، سنبله)\n۱۷ تا ۲۷ آبان (8–
+ 18 Nov)\nدر این روزها مراقب رفتار و تصمیم‌ها
+ یتان باشید و خودتان را کنترل کنید.\nhttps://t.m
+ e/FarsiHoroscope/23750\n\n🔴 اوج تنش مرکوری برگشتی و 
+ پلوتو (جوزا، سنبله، عقرب، ثور، دلو، اسد)\n
+ ۱۷ تا ۲۷ آبان (8–18 Nov)\nدر این بازه امضای قر
+ ارداد، گفتگوی مهم، سفر، امتحان و تحویل م
+ دارک را به تعویق بیندازید.\nhttps://t.me/FarsiHorosco
+ pe/23754\n\n🔴 دوره دشوار در مرکوری برگشتی\n۱۷ 
+ تا ۲۷ آبان (8–18 Nov)\nAnother difficult stretch during the retr
+ ograde\; postpone important signings\, trips or announcements if possible.
+ \nhttps://t.me/FarsiHoroscope/23790\n\n🔴 اوج فشار ذهنی و ن
+ گرانی\n۱۷ تا ۲۷ آبان (8–18 Nov)\nدر این روزها 
+ از افکار وسواسی و خودخوری دوری کنید و برا
+ ی تصمیم‌های مهم عجله نکنید.\nhttps://t.me/FarsiHoro
+ scope/23907\n\n🔴 پرتنش‌ترین دوره سال ۲۰۲۶\n۱۷ 
+ آبان تا ۵ آذر (8–26 Nov)\nدر این بازه از تصمیم
+ ‌های بزرگ و درگیری‌های تند پرهیز کن؛ اح
+ تمال تغییرات سیاسی هم هست.\nhttps://t.me/FarsiHorosco
+ pe/23821\n\n🔴 سه هفته فشار احساسی\n۲ تا ۲۳ آبا
+ ن (24 Oct – 14 Nov)\nخودت را از نظر احساسی آماده 
+ کن، چون این دوره سنگین است.\nhttps://t.me/FarsiHorosc
+ ope/23815\n\n🔴 دوره سوءتفاهم و اختلال ارتباطا
+ ت\n۲ تا ۲۳ آبان (24 Oct – 14 Nov)\nدر پیام‌ها، مد
+ ارک و سفرها دقت کنید، پیام‌ها را دوباره 
+ بررسی کنید و از اطلاع‌رسانی شفاف غافل نش
+ وید.\nhttps://t.me/FarsiHoroscope/23822\n\n🔴 پرهیز از امض
+ ای قرارداد و سرمایه‌گذاری بزرگ\n۲ تا ۲۳ آ
+ بان (24 Oct – 14 Nov)\nاز امضای قرارداد یا سرمای
+ ه‌گذاری بزرگ خودداری کنید؛ اگر ناچارید،
+  هر قرارداد را چند بار مرور کرده و با متخص
+ ص مشورت کنید.\nhttps://t.me/FarsiHoroscope/23822\n\n🔴 تعه
+ د ازدواج و رابطه را به تعویق بیندازید\n۱ ت
+ ا ۲۴ آبان (23 Oct – 15 Nov)\nتا نیمه نوامبر، یعن
+ ی زمان مستقیم شدن ونوس، از شروع ازدواج یا
+  رابطه جدی خودداری کنید.\nhttps://t.me/FarsiHoroscope/2
+ 3810\n\n🔴 فوران موضوعات عقرب تا نیمه آبان (ع
+ قرب)\n۳۰ مهر تا ۲۴ آبان (22 Oct – 15 Nov)\nدر پول 
+ مشترک، ارث، اعتماد، روابط نزدیک و مسائل 
+ قدرت احتیاط کن و تصمیم‌های عجولانه نگیر.
+ \nhttps://t.me/FarsiHoroscope/23801\n\n🔴 نوسان سنگین در ه
+ فته‌های پیش رو\n۵ تا ۲۹ آبان (27 Oct – 20 Nov)\nEx
+ pect heavy swings in finance\, banking\, loans\, insurance and resources\;
+  avoid big financial bets and keep reserves liquid.\nhttps://t.me/FarsiHor
+ oscope/23861\n\n🔴 فشار بالا در کل ماه آبان\n۱ تا 
+ ۳۰ آبان (23 Oct – 21 Nov)\nاین ماه فشار زیادی وا
+ رد می‌شود؛ از تصمیم‌های عجولانه و درگیر
+ ی‌های بی‌دلیل پرهیز کن.\nhttps://t.me/FarsiHoroscope/
+ 23846\n\n🔴 ماهی پرچالش و سخت\n۱۰ آبان تا ۹ آذ
+ ر (1–30 Nov)\nدر گفتار و رفتار دقت و هوشیاری ب
+ یشتری داشته باشید.\nhttps://t.me/FarsiHoroscope/23763\n\n
+ 🔴 صبر تا آخر نوامبر\n۱۰ آبان تا ۹ آذر (1–30
+  Nov)\nدرباره بازگشت رابطه‌های گذشته تا پا
+ یان نوامبر تصمیم قطعی نگیرید.\nhttps://t.me/FarsiH
+ oroscope/23898\n\n🔴 اوج تنش و احتمال درگیری\n۱۰ آ
+ بان تا ۹ آذر (1–30 Nov)\nدر کل این ماه احتمال 
+ جنگ، حمله و حوادث ناگهانی بیشتر است؛ از ت
+ صمیم‌های مهم و سفرهای پرریسک دوری کنید.\n
+ https://t.me/FarsiHoroscope/23908\n\n🔴 سختی برای کسانی ک
+ ه به انرژی‌های کهنه چسبیده‌اند\n۱۰ آبان 
+ تا ۹ آذر (1–30 Nov)\nکسانی که کارمای قبلی را ت
+ مام نکرده و به انرژی‌های مرده وابسته‌ان
+ د، در این ماه با جدا شدن از آن رشته‌ها در
+ گیر سختی خواهند بود.\nhttps://t.me/FarsiHoroscope/23910\n
+ \n🔴 احتمال زلزله و سیل بالاتر\n۱۰ آبان تا 
+ ۹ آذر (1–30 Nov)\nThe post warns of a higher chance of earthquakes a
+ nd floods this month\, so stay alert to official warnings.\nhttps://t.me/F
+ arsiHoroscope/23912\n\n🔴 روزهای پرتنش و بی‌ثبات\n۳
+ ۰ مهر تا ۹ آذر (22 Oct – 30 Nov)\nدر این بازه منت
+ ظر آرامش نباشید؛ از واکنش هیجانی به تماس
+ ‌ها و یادآوری زخم‌های قدیمی دوری کنید.\nh
+ ttps://t.me/FarsiHoroscope/23768\n\n🔴 ادامه فشارهای قدر
+ ت تا تابستان\n۱۲ آبان تا ۳۱ شهریور (3 Nov – 22
+  Sep)\nThe post says the power and economic pressures on Trump's chart wil
+ l continue until summer 2027\, and events from November and December may r
+ eturn.\nhttps://t.me/FarsiHoroscope/23912
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔴 دوره برگشتی؛ پرهیز از برون‌ریزی 
+ هیجانات +۲۳
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+DTSTAMP:20261104T221631Z
+UID:bad_2026-11-09_2026-11-09@astro-calendar
+SEQUENCE:24
+DESCRIPTION:۱۸ آبان (9 Nov)\n\n🔴 دوره برگشتی؛ پرهی
+ ز از برون‌ریزی هیجانات\n۱۲ تا ۱۸ آبان (3–9
+  Nov)\nدر این روزها بهتر است احساسات و حرف‌
+ های ناگفته را روی کاغذ بنویسی و به دیگران
+  سرزنش یا بازجویی نکنی.\nhttps://t.me/FarsiHoroscope/239
+ 15\n\n🔴 پرهیز از تصمیم نهایی در دوره برگشت
+ ی\n۱۳ تا ۲۲ آبان (4–13 Nov)\nتا ۱۳ نوامبر که عط
+ ارد برگشتی است، ایده‌ها را روشن کنید اما
+  تصمیم نهایی و امضای تعهد را به بعد از آن 
+ موکول کنید.\nhttps://t.me/FarsiHoroscope/23926\n\n🔴 حرکت 
+ برگشتی عطارد در عقرب\n۱۲ تا ۲۲ آبان (3–13 Nov
+ )\nدر این مدت اطلاعات ناقص است و روابط دچا
+ ر اختلال می‌شوند؛ تصمیم‌های مهم نگیرید 
+ و ذهن را آرام نگه دارید.\nhttps://t.me/FarsiHoroscope/23
+ 913\n\n🔴 اوج فشار و بیرون ریختن دردها\n۱۷ تا
+  ۲۷ آبان (8–18 Nov)\nدر این بازه هوشیار باشید
+ ، با خشم پاسخ ندهید و با افراد کنترل‌گر د
+ رگیر نشوید.\nhttps://t.me/FarsiHoroscope/23744\n\n🔴 دوره 
+ فشار عطارد (جوزا، سنبله)\n۱۷ تا ۲۷ آبان (8–
+ 18 Nov)\nدر این روزها مراقب رفتار و تصمیم‌ها
+ یتان باشید و خودتان را کنترل کنید.\nhttps://t.m
+ e/FarsiHoroscope/23750\n\n🔴 اوج تنش مرکوری برگشتی و 
+ پلوتو (جوزا، سنبله، عقرب، ثور، دلو، اسد)\n
+ ۱۷ تا ۲۷ آبان (8–18 Nov)\nدر این بازه امضای قر
+ ارداد، گفتگوی مهم، سفر، امتحان و تحویل م
+ دارک را به تعویق بیندازید.\nhttps://t.me/FarsiHorosco
+ pe/23754\n\n🔴 دوره دشوار در مرکوری برگشتی\n۱۷ 
+ تا ۲۷ آبان (8–18 Nov)\nAnother difficult stretch during the retr
+ ograde\; postpone important signings\, trips or announcements if possible.
+ \nhttps://t.me/FarsiHoroscope/23790\n\n🔴 اوج فشار ذهنی و ن
+ گرانی\n۱۷ تا ۲۷ آبان (8–18 Nov)\nدر این روزها 
+ از افکار وسواسی و خودخوری دوری کنید و برا
+ ی تصمیم‌های مهم عجله نکنید.\nhttps://t.me/FarsiHoro
+ scope/23907\n\n🔴 دوره اثرگذاری پیوند سه‌گانه\n
+ ۱۸ تا ۲۹ آبان (9–20 Nov)\nدر این بازه احتمال ت
+ نش، خشم و درگیری میان رهبران سیاسی بالات
+ ر از معمول است؛ از تصمیم‌های تند و واکنش
+ ‌های هیجانی پرهیز کنید.\nhttps://t.me/FarsiHoroscope/2
+ 3931\n\n🔴 پرتنش‌ترین دوره سال ۲۰۲۶\n۱۷ آبان
+  تا ۵ آذر (8–26 Nov)\nدر این بازه از تصمیم‌ها
+ ی بزرگ و درگیری‌های تند پرهیز کن؛ احتمال
+  تغییرات سیاسی هم هست.\nhttps://t.me/FarsiHoroscope/23821
+ \n\n🔴 سه هفته فشار احساسی\n۲ تا ۲۳ آبان (24 Oc
+ t – 14 Nov)\nخودت را از نظر احساسی آماده کن، چ
+ ون این دوره سنگین است.\nhttps://t.me/FarsiHoroscope/23815
+ \n\n🔴 دوره سوءتفاهم و اختلال ارتباطات\n۲ ت
+ ا ۲۳ آبان (24 Oct – 14 Nov)\nدر پیام‌ها، مدارک و
+  سفرها دقت کنید، پیام‌ها را دوباره بررسی
+  کنید و از اطلاع‌رسانی شفاف غافل نشوید.\nh
+ ttps://t.me/FarsiHoroscope/23822\n\n🔴 پرهیز از امضای قرا
+ رداد و سرمایه‌گذاری بزرگ\n۲ تا ۲۳ آبان (24 
+ Oct – 14 Nov)\nاز امضای قرارداد یا سرمایه‌گذا
+ ری بزرگ خودداری کنید؛ اگر ناچارید، هر قر
+ ارداد را چند بار مرور کرده و با متخصص مشو
+ رت کنید.\nhttps://t.me/FarsiHoroscope/23822\n\n🔴 تعهد ازد
+ واج و رابطه را به تعویق بیندازید\n۱ تا ۲۴ 
+ آبان (23 Oct – 15 Nov)\nتا نیمه نوامبر، یعنی زما
+ ن مستقیم شدن ونوس، از شروع ازدواج یا رابط
+ ه جدی خودداری کنید.\nhttps://t.me/FarsiHoroscope/23810\n\n
+ 🔴 فوران موضوعات عقرب تا نیمه آبان (عقرب)
+ \n۳۰ مهر تا ۲۴ آبان (22 Oct – 15 Nov)\nدر پول مشتر
+ ک، ارث، اعتماد، روابط نزدیک و مسائل قدرت 
+ احتیاط کن و تصمیم‌های عجولانه نگیر.\nhttps:/
+ /t.me/FarsiHoroscope/23801\n\n🔴 نوسان سنگین در هفته‌
+ های پیش رو\n۵ تا ۲۹ آبان (27 Oct – 20 Nov)\nExpect heav
+ y swings in finance\, banking\, loans\, insurance and resources\; avoid bi
+ g financial bets and keep reserves liquid.\nhttps://t.me/FarsiHoroscope/23
+ 861\n\n🔴 فشار بالا در کل ماه آبان\n۱ تا ۳۰ آب
+ ان (23 Oct – 21 Nov)\nاین ماه فشار زیادی وارد می
+ ‌شود؛ از تصمیم‌های عجولانه و درگیری‌ها
+ ی بی‌دلیل پرهیز کن.\nhttps://t.me/FarsiHoroscope/23846\n\n
+ 🔴 ماهی پرچالش و سخت\n۱۰ آبان تا ۹ آذر (1–30
+  Nov)\nدر گفتار و رفتار دقت و هوشیاری بیشتری
+  داشته باشید.\nhttps://t.me/FarsiHoroscope/23763\n\n🔴 صبر 
+ تا آخر نوامبر\n۱۰ آبان تا ۹ آذر (1–30 Nov)\nدر
+ باره بازگشت رابطه‌های گذشته تا پایان نو
+ امبر تصمیم قطعی نگیرید.\nhttps://t.me/FarsiHoroscope/23
+ 898\n\n🔴 اوج تنش و احتمال درگیری\n۱۰ آبان تا
+  ۹ آذر (1–30 Nov)\nدر کل این ماه احتمال جنگ، ح
+ مله و حوادث ناگهانی بیشتر است؛ از تصمیم‌
+ های مهم و سفرهای پرریسک دوری کنید.\nhttps://t.m
+ e/FarsiHoroscope/23908\n\n🔴 سختی برای کسانی که به ان
+ رژی‌های کهنه چسبیده‌اند\n۱۰ آبان تا ۹ آذ
+ ر (1–30 Nov)\nکسانی که کارمای قبلی را تمام نک
+ رده و به انرژی‌های مرده وابسته‌اند، در 
+ این ماه با جدا شدن از آن رشته‌ها درگیر سخ
+ تی خواهند بود.\nhttps://t.me/FarsiHoroscope/23910\n\n🔴 اح
+ تمال زلزله و سیل بالاتر\n۱۰ آبان تا ۹ آذر (
+ 1–30 Nov)\nThe post warns of a higher chance of earthquakes and floods t
+ his month\, so stay alert to official warnings.\nhttps://t.me/FarsiHorosco
+ pe/23912\n\n🔴 روزهای پرتنش و بی‌ثبات\n۳۰ مهر 
+ تا ۹ آذر (22 Oct – 30 Nov)\nدر این بازه منتظر آرا
+ مش نباشید؛ از واکنش هیجانی به تماس‌ها و 
+ یادآوری زخم‌های قدیمی دوری کنید.\nhttps://t.me
+ /FarsiHoroscope/23768\n\n🔴 ادامه فشارهای قدرت تا تا
+ بستان\n۱۲ آبان تا ۳۱ شهریور (3 Nov – 22 Sep)\nThe p
+ ost says the power and economic pressures on Trump's chart will continue u
+ ntil summer 2027\, and events from November and December may return.\nhttp
+ s://t.me/FarsiHoroscope/23912
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔴 پرهیز از تصمیم نهایی در دوره برگش
+ تی +۲۵
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261112
+DTSTAMP:20261104T221631Z
+UID:bad_2026-11-10_2026-11-11@astro-calendar
+SEQUENCE:26
+DESCRIPTION:۱۹ تا ۲۰ آبان (10–11 Nov)\n\n🔴 پرهیز از 
+ تصمیم نهایی در دوره برگشتی\n۱۳ تا ۲۲ آبان 
+ (4–13 Nov)\nتا ۱۳ نوامبر که عطارد برگشتی است،
+  ایده‌ها را روشن کنید اما تصمیم نهایی و ا
+ مضای تعهد را به بعد از آن موکول کنید.\nhttps:/
+ /t.me/FarsiHoroscope/23926\n\n🔴 حرکت برگشتی عطارد در 
+ عقرب\n۱۲ تا ۲۲ آبان (3–13 Nov)\nدر این مدت اطل
+ اعات ناقص است و روابط دچار اختلال می‌شون
+ د؛ تصمیم‌های مهم نگیرید و ذهن را آرام نگ
+ ه دارید.\nhttps://t.me/FarsiHoroscope/23913\n\n🔴 اوج فشار 
+ و بیرون ریختن دردها\n۱۷ تا ۲۷ آبان (8–18 Nov)
+ \nدر این بازه هوشیار باشید، با خشم پاسخ ند
+ هید و با افراد کنترل‌گر درگیر نشوید.\nhttps:
+ //t.me/FarsiHoroscope/23744\n\n🔴 دوره فشار عطارد (جوزا
+ ، سنبله)\n۱۷ تا ۲۷ آبان (8–18 Nov)\nدر این روزه
+ ا مراقب رفتار و تصمیم‌هایتان باشید و خود
+ تان را کنترل کنید.\nhttps://t.me/FarsiHoroscope/23750\n\n
+ 🔴 اوج تنش مرکوری برگشتی و پلوتو (جوزا، س
+ نبله، عقرب، ثور، دلو، اسد)\n۱۷ تا ۲۷ آبان (
+ 8–18 Nov)\nدر این بازه امضای قرارداد، گفتگوی
+  مهم، سفر، امتحان و تحویل مدارک را به تعو
+ یق بیندازید.\nhttps://t.me/FarsiHoroscope/23754\n\n🔴 دوره
+  دشوار در مرکوری برگشتی\n۱۷ تا ۲۷ آبان (8–1
+ 8 Nov)\nAnother difficult stretch during the retrograde\; postpone importa
+ nt signings\, trips or announcements if possible.\nhttps://t.me/FarsiHoros
+ cope/23790\n\n🔴 اوج فشار ذهنی و نگرانی\n۱۷ تا ۲
+ ۷ آبان (8–18 Nov)\nدر این روزها از افکار وسوا
+ سی و خودخوری دوری کنید و برای تصمیم‌های 
+ مهم عجله نکنید.\nhttps://t.me/FarsiHoroscope/23907\n\n🔴 ا
+ وج چالش انرژی در اواسط نوامبر\n۱۹ تا ۲۹ آب
+ ان (10–20 Nov)\nThe peak of the challenge falls around mid-November\; 
+ be most cautious with major money decisions and loan commitments in this w
+ indow.\nhttps://t.me/FarsiHoroscope/23861\n\n🔴 فشار سنگین نی
+ مه ماه نوامبر\n۱۹ تا ۲۹ آبان (10–20 Nov)\nدر ای
+ ن بازه به فشار بیشتری آماده باشید و تصمیم
+ ‌های عجولانه را به بعد از آن موکول کنید. 
+ برای هر نشان، خورشید، ماه و رایزینگ را با
+  هم در نظر بگیرید.\nhttps://t.me/FarsiHoroscope/23909\n\n🔴
+  خطر اختلال در سفرهای هوایی\n۱۹ تا ۲۹ آبان
+  (10–20 Nov)\nدر این بازه پرواز و سفر بین‌الم
+ للی را با احتیاط برنامه‌ریزی کنید و برای
+  تغییر احتمالی آماده باشید.\nhttps://t.me/FarsiHoros
+ cope/23911\n\n🔴 دوره اثرگذاری پیوند سه‌گانه\n
+ ۱۸ تا ۲۹ آبان (9–20 Nov)\nدر این بازه احتمال ت
+ نش، خشم و درگیری میان رهبران سیاسی بالات
+ ر از معمول است؛ از تصمیم‌های تند و واکنش
+ ‌های هیجانی پرهیز کنید.\nhttps://t.me/FarsiHoroscope/2
+ 3931\n\n🔴 پرتنش‌ترین دوره سال ۲۰۲۶\n۱۷ آبان
+  تا ۵ آذر (8–26 Nov)\nدر این بازه از تصمیم‌ها
+ ی بزرگ و درگیری‌های تند پرهیز کن؛ احتمال
+  تغییرات سیاسی هم هست.\nhttps://t.me/FarsiHoroscope/23821
+ \n\n🔴 سه هفته فشار احساسی\n۲ تا ۲۳ آبان (24 Oc
+ t – 14 Nov)\nخودت را از نظر احساسی آماده کن، چ
+ ون این دوره سنگین است.\nhttps://t.me/FarsiHoroscope/23815
+ \n\n🔴 دوره سوءتفاهم و اختلال ارتباطات\n۲ ت
+ ا ۲۳ آبان (24 Oct – 14 Nov)\nدر پیام‌ها، مدارک و
+  سفرها دقت کنید، پیام‌ها را دوباره بررسی
+  کنید و از اطلاع‌رسانی شفاف غافل نشوید.\nh
+ ttps://t.me/FarsiHoroscope/23822\n\n🔴 پرهیز از امضای قرا
+ رداد و سرمایه‌گذاری بزرگ\n۲ تا ۲۳ آبان (24 
+ Oct – 14 Nov)\nاز امضای قرارداد یا سرمایه‌گذا
+ ری بزرگ خودداری کنید؛ اگر ناچارید، هر قر
+ ارداد را چند بار مرور کرده و با متخصص مشو
+ رت کنید.\nhttps://t.me/FarsiHoroscope/23822\n\n🔴 تعهد ازد
+ واج و رابطه را به تعویق بیندازید\n۱ تا ۲۴ 
+ آبان (23 Oct – 15 Nov)\nتا نیمه نوامبر، یعنی زما
+ ن مستقیم شدن ونوس، از شروع ازدواج یا رابط
+ ه جدی خودداری کنید.\nhttps://t.me/FarsiHoroscope/23810\n\n
+ 🔴 فوران موضوعات عقرب تا نیمه آبان (عقرب)
+ \n۳۰ مهر تا ۲۴ آبان (22 Oct – 15 Nov)\nدر پول مشتر
+ ک، ارث، اعتماد، روابط نزدیک و مسائل قدرت 
+ احتیاط کن و تصمیم‌های عجولانه نگیر.\nhttps:/
+ /t.me/FarsiHoroscope/23801\n\n🔴 نوسان سنگین در هفته‌
+ های پیش رو\n۵ تا ۲۹ آبان (27 Oct – 20 Nov)\nExpect heav
+ y swings in finance\, banking\, loans\, insurance and resources\; avoid bi
+ g financial bets and keep reserves liquid.\nhttps://t.me/FarsiHoroscope/23
+ 861\n\n🔴 فشار بالا در کل ماه آبان\n۱ تا ۳۰ آب
+ ان (23 Oct – 21 Nov)\nاین ماه فشار زیادی وارد می
+ ‌شود؛ از تصمیم‌های عجولانه و درگیری‌ها
+ ی بی‌دلیل پرهیز کن.\nhttps://t.me/FarsiHoroscope/23846\n\n
+ 🔴 ماهی پرچالش و سخت\n۱۰ آبان تا ۹ آذر (1–30
+  Nov)\nدر گفتار و رفتار دقت و هوشیاری بیشتری
+  داشته باشید.\nhttps://t.me/FarsiHoroscope/23763\n\n🔴 صبر 
+ تا آخر نوامبر\n۱۰ آبان تا ۹ آذر (1–30 Nov)\nدر
+ باره بازگشت رابطه‌های گذشته تا پایان نو
+ امبر تصمیم قطعی نگیرید.\nhttps://t.me/FarsiHoroscope/23
+ 898\n\n🔴 اوج تنش و احتمال درگیری\n۱۰ آبان تا
+  ۹ آذر (1–30 Nov)\nدر کل این ماه احتمال جنگ، ح
+ مله و حوادث ناگهانی بیشتر است؛ از تصمیم‌
+ های مهم و سفرهای پرریسک دوری کنید.\nhttps://t.m
+ e/FarsiHoroscope/23908\n\n🔴 سختی برای کسانی که به ان
+ رژی‌های کهنه چسبیده‌اند\n۱۰ آبان تا ۹ آذ
+ ر (1–30 Nov)\nکسانی که کارمای قبلی را تمام نک
+ رده و به انرژی‌های مرده وابسته‌اند، در 
+ این ماه با جدا شدن از آن رشته‌ها درگیر سخ
+ تی خواهند بود.\nhttps://t.me/FarsiHoroscope/23910\n\n🔴 اح
+ تمال زلزله و سیل بالاتر\n۱۰ آبان تا ۹ آذر (
+ 1–30 Nov)\nThe post warns of a higher chance of earthquakes and floods t
+ his month\, so stay alert to official warnings.\nhttps://t.me/FarsiHorosco
+ pe/23912\n\n🔴 روزهای پرتنش و بی‌ثبات\n۳۰ مهر 
+ تا ۹ آذر (22 Oct – 30 Nov)\nدر این بازه منتظر آرا
+ مش نباشید؛ از واکنش هیجانی به تماس‌ها و 
+ یادآوری زخم‌های قدیمی دوری کنید.\nhttps://t.me
+ /FarsiHoroscope/23768\n\n🔴 ادامه فشارهای قدرت تا تا
+ بستان\n۱۲ آبان تا ۳۱ شهریور (3 Nov – 22 Sep)\nThe p
+ ost says the power and economic pressures on Trump's chart will continue u
+ ntil summer 2027\, and events from November and December may return.\nhttp
+ s://t.me/FarsiHoroscope/23912
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚪ تصمیم‌های قاطع پس از مستقیم شدن +۱
+ ۱
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261113
+DTSTAMP:20261104T221631Z
+UID:neutral_2026-11-10_2026-11-12@astro-calendar
+SEQUENCE:12
+DESCRIPTION:۱۹ تا ۲۱ آبان (10–12 Nov)\n\n⚪ تصمیم‌ها
+ ی قاطع پس از مستقیم شدن\n۱۹ تا ۲۹ آبان (10–2
+ 0 Nov)\nبعد از مستقیم شدن مرکوری و ونوس در نی
+ مه نوامبر، برای قطع روابط و خواسته‌های ن
+ اخواسته آماده باشید و از مصالحه بپرهیزید
+ .\nhttps://t.me/FarsiHoroscope/23820\n\n⚪ نیمه اول نوامبر 
+ آرام\n۱۰ تا ۲۴ آبان (1–15 Nov)\nThe post expects the first
+  half of November to be quiet\, so this is a calmer stretch to plan around
+ .\nhttps://t.me/FarsiHoroscope/23912\n\n⚪ بیرون ریختن رازه
+ ای پنهان\n۳ تا ۲۴ آبان (25 Oct – 15 Nov)\nHidden matters
+  are expected to surface in these three weeks\; expect secrets to come out
+  and prepare to face them.\nhttps://t.me/FarsiHoroscope/23841\n\n⚪ ما
+ ه کامل؛ مرزبندی و صبر\n۳ تا ۲۴ آبان (25 Oct – 
+ 15 Nov)\nمشاهده‌گر باشید، مرز شخصی تعیین کن
+ ید و منتظر آشکار شدن همه چیز در همین چند ر
+ وز نباشید.\nhttps://t.me/FarsiHoroscope/23845\n\n⚪ برملا ش
+ دن موانع ثبات\n۴ تا ۲۵ آبان (26 Oct – 16 Nov)\nدر 
+ سه هفته پس از ماه کامل موانع پنهان آشکار 
+ می‌شوند؛ با صبر و آهستگی با ریشهٔ مشکلات
+  روبه‌رو شوید.\nhttps://t.me/FarsiHoroscope/23843\n\n⚪ دو
+ ره درون‌نگری و مواجهه با زخم‌ها\n۲۹ مهر 
+ تا ۲۴ آبان (21 Oct – 15 Nov)\nتا نیمه نوامبر آرا
+ مش را از پناه بردن به دیگران نجویید و زخم
+ ‌هایتان را از درون ببینید و پشت سر بگذار
+ ید.\nhttps://t.me/FarsiHoroscope/23770\n\n⚪ فصل عقرب؛ تصمی
+ م‌ها پس از آن قطعی می‌شود (عقرب)\n۱ تا ۳۰ 
+ آبان (23 Oct – 21 Nov)\nتا پایان فصل عقرب، تصمیم
+ ‌های نهایی را به تعویق بیندازید؛ وضعیت ب
+ سیاری از امور بعد از این دوره روشن می‌شو
+ د.\nhttps://t.me/FarsiHoroscope/23798\n\n⚪ فصل عقرب غیرعاد
+ ی خواهد بود\n۱ تا ۳۰ آبان (23 Oct – 21 Nov)\nپست ف
+ صل عقرب را غیرعادی و پرماجرا توصیف می‌کن
+ د، اما توصیه مشخصی نمی‌دهد.\nhttps://t.me/FarsiHoro
+ scope/23800\n\n⚪ فصل عقرب؛ زمان رو شدن پنهانی‌
+ ها\n۱ تا ۳۰ آبان (23 Oct – 21 Nov)\nPost says Scorpio season 
+ brings hidden matters to light\; expect revelations\, no specific action a
+ dvised.\nhttps://t.me/FarsiHoroscope/23806\n\n⚪ ماه آشکار شدن
+  شکاف ارزش‌ها\n۱ تا ۳۰ آبان (23 Oct – 21 Nov)\nای
+ ن ماه به بازبینی صادقانه انتخاب‌ها و رفت
+ ارهایت با خودت فکر کن؛ موانع پنهان ممکن ا
+ ست رو بیایند.\nhttps://t.me/FarsiHoroscope/23826\n\n⚪ بازن
+ گری رابطه قدیمی تا پایان نوامبر\n۱۰ آبان 
+ تا ۹ آذر (1–30 Nov)\nبا صداقت خودتان را بسنجی
+ د و نتیجه نهایی را رها کنید، چون هدف ارزی
+ ابی است نه بازگشت رابطه.\nhttps://t.me/FarsiHoroscope/2
+ 3892\n\n⚪ بحث حریم خصوصی و امنیت داده\n۱۰ آبا
+ ن تا ۹ آذر (1–30 Nov)\nانتظار داشته باشید موض
+ وع امنیت اطلاعات، هک و کنترل فناوری در ای
+ ن ماه بیشتر در گفتگوهای عمومی مطرح شود.\nht
+ tps://t.me/FarsiHoroscope/23907
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🟢 مستقیم شدن عطارد و ونوس +۳
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261117
+DTSTAMP:20261104T221631Z
+UID:good_2026-11-10_2026-11-16@astro-calendar
+SEQUENCE:4
+DESCRIPTION:۱۹ تا ۲۵ آبان (10–16 Nov)\n\n🟢 مستقیم ش
+ دن عطارد و ونوس\n۱۹ تا ۲۹ آبان (10–20 Nov)\nبا 
+ مستقیم شدن عطارد و ونوس در نیمه نوامبر، ک
+ ارها و ارتباطات دوباره حرکت رو به جلو پید
+ ا می‌کنند و می‌توانی تصمیم‌های معوق را 
+ پیش ببری.\nhttps://t.me/FarsiHoroscope/23915\n\n🟢 دوره ون
+ وس برگشتی و اسپایکا\n۱۳ تا ۲۵ آبان (4–16 Nov)
+ \nدر این بازه به کارها، روابط و استعدادها
+ یی که قبلاً رویشان وقت و انرژی گذاشته‌ای
+ د توجه کنید؛ فرصت‌های نیمه‌تمام ممکن اس
+ ت دوباره باز شوند.\nhttps://t.me/FarsiHoroscope/23929\n\n
+ 🟢 فضای باز برای انرژی‌های مطلوب\n۱۰ آبا
+ ن تا ۹ آذر (1–30 Nov)\nکسانی که رفتنی‌ها را پ
+ ذیرفته و به موج جدایی نچسبیده‌اند، در ای
+ ن ماه می‌توانند از کارمای نیک گذشته‌شان
+  برای ورود انرژی‌های خوب بهره ببرند.\nhttps:
+ //t.me/FarsiHoroscope/23910\n\n🟢 زمان مناسب برای بررس
+ ی احساسات\n۱۰ آبان تا ۹ آذر (1–30 Nov)\nدر نوا
+ مبر می‌توانید احساساتی را که در تابستان 
+ روشن نشد، با دید عمیق‌تری دوباره بررسی ک
+ نید.\nhttps://t.me/FarsiHoroscope/23927
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔴 پیوند ژوپیتر و نود جنوبی +۲۷
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+DTSTAMP:20261104T221631Z
+UID:bad_2026-11-12_2026-11-12@astro-calendar
+SEQUENCE:28
+DESCRIPTION:۲۱ آبان (12 Nov)\n\n🔴 پیوند ژوپیتر و نو
+ د جنوبی\n۲۱ آبان (12 Nov)\nدر این روز پیوند دق
+ یق ژوپیتر و نود جنوبی رخ می‌دهد؛ از سفره
+ ای دور و امضای توافق‌های بین‌المللی خود
+ داری کنید.\nhttps://t.me/FarsiHoroscope/23931\n\n🔴 قوی‌ت
+ رین دوره پیوند سه‌گانه\n۲۱ تا ۲۶ آبان (12–
+ 17 Nov)\nاین چند روز بیشترین احتمال حمله، ان
+ فجار خشم و بحران را دارد؛ در تصمیم‌های م
+ هم و پرخطر احتیاط کنید.\nhttps://t.me/FarsiHoroscope/239
+ 31\n\n🔴 پرهیز از تصمیم نهایی در دوره برگشت
+ ی\n۱۳ تا ۲۲ آبان (4–13 Nov)\nتا ۱۳ نوامبر که عط
+ ارد برگشتی است، ایده‌ها را روشن کنید اما
+  تصمیم نهایی و امضای تعهد را به بعد از آن 
+ موکول کنید.\nhttps://t.me/FarsiHoroscope/23926\n\n🔴 حرکت 
+ برگشتی عطارد در عقرب\n۱۲ تا ۲۲ آبان (3–13 Nov
+ )\nدر این مدت اطلاعات ناقص است و روابط دچا
+ ر اختلال می‌شوند؛ تصمیم‌های مهم نگیرید 
+ و ذهن را آرام نگه دارید.\nhttps://t.me/FarsiHoroscope/23
+ 913\n\n🔴 اوج فشار و بیرون ریختن دردها\n۱۷ تا
+  ۲۷ آبان (8–18 Nov)\nدر این بازه هوشیار باشید
+ ، با خشم پاسخ ندهید و با افراد کنترل‌گر د
+ رگیر نشوید.\nhttps://t.me/FarsiHoroscope/23744\n\n🔴 دوره 
+ فشار عطارد (جوزا، سنبله)\n۱۷ تا ۲۷ آبان (8–
+ 18 Nov)\nدر این روزها مراقب رفتار و تصمیم‌ها
+ یتان باشید و خودتان را کنترل کنید.\nhttps://t.m
+ e/FarsiHoroscope/23750\n\n🔴 اوج تنش مرکوری برگشتی و 
+ پلوتو (جوزا، سنبله، عقرب، ثور، دلو، اسد)\n
+ ۱۷ تا ۲۷ آبان (8–18 Nov)\nدر این بازه امضای قر
+ ارداد، گفتگوی مهم، سفر، امتحان و تحویل م
+ دارک را به تعویق بیندازید.\nhttps://t.me/FarsiHorosco
+ pe/23754\n\n🔴 دوره دشوار در مرکوری برگشتی\n۱۷ 
+ تا ۲۷ آبان (8–18 Nov)\nAnother difficult stretch during the retr
+ ograde\; postpone important signings\, trips or announcements if possible.
+ \nhttps://t.me/FarsiHoroscope/23790\n\n🔴 اوج فشار ذهنی و ن
+ گرانی\n۱۷ تا ۲۷ آبان (8–18 Nov)\nدر این روزها 
+ از افکار وسواسی و خودخوری دوری کنید و برا
+ ی تصمیم‌های مهم عجله نکنید.\nhttps://t.me/FarsiHoro
+ scope/23907\n\n🔴 اوج چالش انرژی در اواسط نوامب
+ ر\n۱۹ تا ۲۹ آبان (10–20 Nov)\nThe peak of the challenge falls
+  around mid-November\; be most cautious with major money decisions and loa
+ n commitments in this window.\nhttps://t.me/FarsiHoroscope/23861\n\n🔴 
+ فشار سنگین نیمه ماه نوامبر\n۱۹ تا ۲۹ آبان 
+ (10–20 Nov)\nدر این بازه به فشار بیشتری آماده 
+ باشید و تصمیم‌های عجولانه را به بعد از آ
+ ن موکول کنید. برای هر نشان، خورشید، ماه و 
+ رایزینگ را با هم در نظر بگیرید.\nhttps://t.me/Fars
+ iHoroscope/23909\n\n🔴 خطر اختلال در سفرهای هوایی
+ \n۱۹ تا ۲۹ آبان (10–20 Nov)\nدر این بازه پرواز 
+ و سفر بین‌المللی را با احتیاط برنامه‌ری
+ زی کنید و برای تغییر احتمالی آماده باشید.
+ \nhttps://t.me/FarsiHoroscope/23911\n\n🔴 دوره اثرگذاری پی
+ وند سه‌گانه\n۱۸ تا ۲۹ آبان (9–20 Nov)\nدر این 
+ بازه احتمال تنش، خشم و درگیری میان رهبرا
+ ن سیاسی بالاتر از معمول است؛ از تصمیم‌ها
+ ی تند و واکنش‌های هیجانی پرهیز کنید.\nhttps:
+ //t.me/FarsiHoroscope/23931\n\n🔴 پرتنش‌ترین دوره سال 
  ۲۰۲۶\n۱۷ آبان تا ۵ آذر (8–26 Nov)\nدر این بازه 
  از تصمیم‌های بزرگ و درگیری‌های تند پرهی
  ز کن؛ احتمال تغییرات سیاسی هم هست.\nhttps://t.m
@@ -1633,210 +2070,130 @@ DESCRIPTION:۱۷ تا ۱۸ آبان (8–9 Nov)\n\n🔴 دوره برگش
  ember may return.\nhttps://t.me/FarsiHoroscope/23912
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚪ تصمیم‌های قاطع پس از مستقیم شدن +۱
- ۱
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261113
-DTSTAMP:20261104T201646Z
-UID:neutral_2026-11-10_2026-11-12@astro-calendar
-SEQUENCE:12
-DESCRIPTION:۱۹ تا ۲۱ آبان (10–12 Nov)\n\n⚪ تصمیم‌ها
- ی قاطع پس از مستقیم شدن\n۱۹ تا ۲۹ آبان (10–2
- 0 Nov)\nبعد از مستقیم شدن مرکوری و ونوس در نی
- مه نوامبر، برای قطع روابط و خواسته‌های ن
- اخواسته آماده باشید و از مصالحه بپرهیزید
- .\nhttps://t.me/FarsiHoroscope/23820\n\n⚪ نیمه اول نوامبر 
- آرام\n۱۰ تا ۲۴ آبان (1–15 Nov)\nThe post expects the first
-  half of November to be quiet\, so this is a calmer stretch to plan around
- .\nhttps://t.me/FarsiHoroscope/23912\n\n⚪ بیرون ریختن رازه
- ای پنهان\n۳ تا ۲۴ آبان (25 Oct – 15 Nov)\nHidden matters
-  are expected to surface in these three weeks\; expect secrets to come out
-  and prepare to face them.\nhttps://t.me/FarsiHoroscope/23841\n\n⚪ ما
- ه کامل؛ مرزبندی و صبر\n۳ تا ۲۴ آبان (25 Oct – 
- 15 Nov)\nمشاهده‌گر باشید، مرز شخصی تعیین کن
- ید و منتظر آشکار شدن همه چیز در همین چند ر
- وز نباشید.\nhttps://t.me/FarsiHoroscope/23845\n\n⚪ برملا ش
- دن موانع ثبات\n۴ تا ۲۵ آبان (26 Oct – 16 Nov)\nدر 
- سه هفته پس از ماه کامل موانع پنهان آشکار 
- می‌شوند؛ با صبر و آهستگی با ریشهٔ مشکلات
-  روبه‌رو شوید.\nhttps://t.me/FarsiHoroscope/23843\n\n⚪ دو
- ره درون‌نگری و مواجهه با زخم‌ها\n۲۹ مهر 
- تا ۲۴ آبان (21 Oct – 15 Nov)\nتا نیمه نوامبر آرا
- مش را از پناه بردن به دیگران نجویید و زخم
- ‌هایتان را از درون ببینید و پشت سر بگذار
- ید.\nhttps://t.me/FarsiHoroscope/23770\n\n⚪ فصل عقرب؛ تصمی
- م‌ها پس از آن قطعی می‌شود (عقرب)\n۱ تا ۳۰ 
- آبان (23 Oct – 21 Nov)\nتا پایان فصل عقرب، تصمیم
- ‌های نهایی را به تعویق بیندازید؛ وضعیت ب
- سیاری از امور بعد از این دوره روشن می‌شو
- د.\nhttps://t.me/FarsiHoroscope/23798\n\n⚪ فصل عقرب غیرعاد
- ی خواهد بود\n۱ تا ۳۰ آبان (23 Oct – 21 Nov)\nپست ف
- صل عقرب را غیرعادی و پرماجرا توصیف می‌کن
- د، اما توصیه مشخصی نمی‌دهد.\nhttps://t.me/FarsiHoro
- scope/23800\n\n⚪ فصل عقرب؛ زمان رو شدن پنهانی‌
- ها\n۱ تا ۳۰ آبان (23 Oct – 21 Nov)\nPost says Scorpio season 
- brings hidden matters to light\; expect revelations\, no specific action a
- dvised.\nhttps://t.me/FarsiHoroscope/23806\n\n⚪ ماه آشکار شدن
-  شکاف ارزش‌ها\n۱ تا ۳۰ آبان (23 Oct – 21 Nov)\nای
- ن ماه به بازبینی صادقانه انتخاب‌ها و رفت
- ارهایت با خودت فکر کن؛ موانع پنهان ممکن ا
- ست رو بیایند.\nhttps://t.me/FarsiHoroscope/23826\n\n⚪ بازن
- گری رابطه قدیمی تا پایان نوامبر\n۱۰ آبان 
- تا ۹ آذر (1–30 Nov)\nبا صداقت خودتان را بسنجی
- د و نتیجه نهایی را رها کنید، چون هدف ارزی
- ابی است نه بازگشت رابطه.\nhttps://t.me/FarsiHoroscope/2
- 3892\n\n⚪ بحث حریم خصوصی و امنیت داده\n۱۰ آبا
- ن تا ۹ آذر (1–30 Nov)\nانتظار داشته باشید موض
- وع امنیت اطلاعات، هک و کنترل فناوری در ای
- ن ماه بیشتر در گفتگوهای عمومی مطرح شود.\nht
- tps://t.me/FarsiHoroscope/23907
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🔴 پرهیز از تصمیم نهایی در دوره برگش
- تی +۲۴
-DTSTART;VALUE=DATE:20261110
+SUMMARY:🔴 قوی‌ترین دوره پیوند سه‌گانه +۲۶
+DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20261104T201646Z
-UID:bad_2026-11-10_2026-11-13@astro-calendar
-SEQUENCE:25
-DESCRIPTION:۱۹ تا ۲۲ آبان (10–13 Nov)\n\n🔴 پرهیز از 
- تصمیم نهایی در دوره برگشتی\n۱۳ تا ۲۲ آبان 
- (4–13 Nov)\nتا ۱۳ نوامبر که عطارد برگشتی است،
-  ایده‌ها را روشن کنید اما تصمیم نهایی و ا
- مضای تعهد را به بعد از آن موکول کنید.\nhttps:/
- /t.me/FarsiHoroscope/23926\n\n🔴 حرکت برگشتی عطارد در 
- عقرب\n۱۲ تا ۲۲ آبان (3–13 Nov)\nدر این مدت اطل
- اعات ناقص است و روابط دچار اختلال می‌شون
- د؛ تصمیم‌های مهم نگیرید و ذهن را آرام نگ
- ه دارید.\nhttps://t.me/FarsiHoroscope/23913\n\n🔴 اوج فشار 
- و بیرون ریختن دردها\n۱۷ تا ۲۷ آبان (8–18 Nov)
- \nدر این بازه هوشیار باشید، با خشم پاسخ ند
- هید و با افراد کنترل‌گر درگیر نشوید.\nhttps:
- //t.me/FarsiHoroscope/23744\n\n🔴 دوره فشار عطارد (جوزا
- ، سنبله)\n۱۷ تا ۲۷ آبان (8–18 Nov)\nدر این روزه
- ا مراقب رفتار و تصمیم‌هایتان باشید و خود
- تان را کنترل کنید.\nhttps://t.me/FarsiHoroscope/23750\n\n
- 🔴 اوج تنش مرکوری برگشتی و پلوتو (جوزا، س
- نبله، عقرب، ثور، دلو، اسد)\n۱۷ تا ۲۷ آبان (
- 8–18 Nov)\nدر این بازه امضای قرارداد، گفتگوی
-  مهم، سفر، امتحان و تحویل مدارک را به تعو
- یق بیندازید.\nhttps://t.me/FarsiHoroscope/23754\n\n🔴 دوره
-  دشوار در مرکوری برگشتی\n۱۷ تا ۲۷ آبان (8–1
- 8 Nov)\nAnother difficult stretch during the retrograde\; postpone importa
- nt signings\, trips or announcements if possible.\nhttps://t.me/FarsiHoros
- cope/23790\n\n🔴 اوج فشار ذهنی و نگرانی\n۱۷ تا ۲
- ۷ آبان (8–18 Nov)\nدر این روزها از افکار وسوا
- سی و خودخوری دوری کنید و برای تصمیم‌های 
- مهم عجله نکنید.\nhttps://t.me/FarsiHoroscope/23907\n\n🔴 ا
- وج چالش انرژی در اواسط نوامبر\n۱۹ تا ۲۹ آب
- ان (10–20 Nov)\nThe peak of the challenge falls around mid-November\; 
- be most cautious with major money decisions and loan commitments in this w
- indow.\nhttps://t.me/FarsiHoroscope/23861\n\n🔴 فشار سنگین نی
- مه ماه نوامبر\n۱۹ تا ۲۹ آبان (10–20 Nov)\nدر ای
- ن بازه به فشار بیشتری آماده باشید و تصمیم
- ‌های عجولانه را به بعد از آن موکول کنید. 
- برای هر نشان، خورشید، ماه و رایزینگ را با
-  هم در نظر بگیرید.\nhttps://t.me/FarsiHoroscope/23909\n\n🔴
-  خطر اختلال در سفرهای هوایی\n۱۹ تا ۲۹ آبان
-  (10–20 Nov)\nدر این بازه پرواز و سفر بین‌الم
- للی را با احتیاط برنامه‌ریزی کنید و برای
-  تغییر احتمالی آماده باشید.\nhttps://t.me/FarsiHoros
- cope/23911\n\n🔴 پرتنش‌ترین دوره سال ۲۰۲۶\n۱۷ آ
- بان تا ۵ آذر (8–26 Nov)\nدر این بازه از تصمیم
- ‌های بزرگ و درگیری‌های تند پرهیز کن؛ اح
- تمال تغییرات سیاسی هم هست.\nhttps://t.me/FarsiHorosco
- pe/23821\n\n🔴 سه هفته فشار احساسی\n۲ تا ۲۳ آبا
- ن (24 Oct – 14 Nov)\nخودت را از نظر احساسی آماده 
- کن، چون این دوره سنگین است.\nhttps://t.me/FarsiHorosc
- ope/23815\n\n🔴 دوره سوءتفاهم و اختلال ارتباطا
- ت\n۲ تا ۲۳ آبان (24 Oct – 14 Nov)\nدر پیام‌ها، مد
- ارک و سفرها دقت کنید، پیام‌ها را دوباره 
- بررسی کنید و از اطلاع‌رسانی شفاف غافل نش
- وید.\nhttps://t.me/FarsiHoroscope/23822\n\n🔴 پرهیز از امض
- ای قرارداد و سرمایه‌گذاری بزرگ\n۲ تا ۲۳ آ
- بان (24 Oct – 14 Nov)\nاز امضای قرارداد یا سرمای
- ه‌گذاری بزرگ خودداری کنید؛ اگر ناچارید،
-  هر قرارداد را چند بار مرور کرده و با متخص
- ص مشورت کنید.\nhttps://t.me/FarsiHoroscope/23822\n\n🔴 تعه
- د ازدواج و رابطه را به تعویق بیندازید\n۱ ت
- ا ۲۴ آبان (23 Oct – 15 Nov)\nتا نیمه نوامبر، یعن
- ی زمان مستقیم شدن ونوس، از شروع ازدواج یا
-  رابطه جدی خودداری کنید.\nhttps://t.me/FarsiHoroscope/2
- 3810\n\n🔴 فوران موضوعات عقرب تا نیمه آبان (ع
- قرب)\n۳۰ مهر تا ۲۴ آبان (22 Oct – 15 Nov)\nدر پول 
- مشترک، ارث، اعتماد، روابط نزدیک و مسائل 
- قدرت احتیاط کن و تصمیم‌های عجولانه نگیر.
- \nhttps://t.me/FarsiHoroscope/23801\n\n🔴 نوسان سنگین در ه
- فته‌های پیش رو\n۵ تا ۲۹ آبان (27 Oct – 20 Nov)\nEx
- pect heavy swings in finance\, banking\, loans\, insurance and resources\;
-  avoid big financial bets and keep reserves liquid.\nhttps://t.me/FarsiHor
- oscope/23861\n\n🔴 فشار بالا در کل ماه آبان\n۱ تا 
- ۳۰ آبان (23 Oct – 21 Nov)\nاین ماه فشار زیادی وا
- رد می‌شود؛ از تصمیم‌های عجولانه و درگیر
- ی‌های بی‌دلیل پرهیز کن.\nhttps://t.me/FarsiHoroscope/
- 23846\n\n🔴 ماهی پرچالش و سخت\n۱۰ آبان تا ۹ آذ
- ر (1–30 Nov)\nدر گفتار و رفتار دقت و هوشیاری ب
- یشتری داشته باشید.\nhttps://t.me/FarsiHoroscope/23763\n\n
- 🔴 صبر تا آخر نوامبر\n۱۰ آبان تا ۹ آذر (1–30
-  Nov)\nدرباره بازگشت رابطه‌های گذشته تا پا
- یان نوامبر تصمیم قطعی نگیرید.\nhttps://t.me/FarsiH
- oroscope/23898\n\n🔴 اوج تنش و احتمال درگیری\n۱۰ آ
- بان تا ۹ آذر (1–30 Nov)\nدر کل این ماه احتمال 
- جنگ، حمله و حوادث ناگهانی بیشتر است؛ از ت
- صمیم‌های مهم و سفرهای پرریسک دوری کنید.\n
- https://t.me/FarsiHoroscope/23908\n\n🔴 سختی برای کسانی ک
- ه به انرژی‌های کهنه چسبیده‌اند\n۱۰ آبان 
- تا ۹ آذر (1–30 Nov)\nکسانی که کارمای قبلی را ت
- مام نکرده و به انرژی‌های مرده وابسته‌ان
- د، در این ماه با جدا شدن از آن رشته‌ها در
- گیر سختی خواهند بود.\nhttps://t.me/FarsiHoroscope/23910\n
- \n🔴 احتمال زلزله و سیل بالاتر\n۱۰ آبان تا 
- ۹ آذر (1–30 Nov)\nThe post warns of a higher chance of earthquakes a
- nd floods this month\, so stay alert to official warnings.\nhttps://t.me/F
- arsiHoroscope/23912\n\n🔴 روزهای پرتنش و بی‌ثبات\n۳
- ۰ مهر تا ۹ آذر (22 Oct – 30 Nov)\nدر این بازه منت
- ظر آرامش نباشید؛ از واکنش هیجانی به تماس
- ‌ها و یادآوری زخم‌های قدیمی دوری کنید.\nh
- ttps://t.me/FarsiHoroscope/23768\n\n🔴 ادامه فشارهای قدر
- ت تا تابستان\n۱۲ آبان تا ۳۱ شهریور (3 Nov – 22
-  Sep)\nThe post says the power and economic pressures on Trump's chart wil
- l continue until summer 2027\, and events from November and December may r
- eturn.\nhttps://t.me/FarsiHoroscope/23912
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🟢 مستقیم شدن عطارد و ونوس +۳
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261117
-DTSTAMP:20261104T201646Z
-UID:good_2026-11-10_2026-11-16@astro-calendar
-SEQUENCE:4
-DESCRIPTION:۱۹ تا ۲۵ آبان (10–16 Nov)\n\n🟢 مستقیم ش
- دن عطارد و ونوس\n۱۹ تا ۲۹ آبان (10–20 Nov)\nبا 
- مستقیم شدن عطارد و ونوس در نیمه نوامبر، ک
- ارها و ارتباطات دوباره حرکت رو به جلو پید
- ا می‌کنند و می‌توانی تصمیم‌های معوق را 
- پیش ببری.\nhttps://t.me/FarsiHoroscope/23915\n\n🟢 دوره ون
- وس برگشتی و اسپایکا\n۱۳ تا ۲۵ آبان (4–16 Nov)
- \nدر این بازه به کارها، روابط و استعدادها
- یی که قبلاً رویشان وقت و انرژی گذاشته‌ای
- د توجه کنید؛ فرصت‌های نیمه‌تمام ممکن اس
- ت دوباره باز شوند.\nhttps://t.me/FarsiHoroscope/23929\n\n
- 🟢 فضای باز برای انرژی‌های مطلوب\n۱۰ آبا
- ن تا ۹ آذر (1–30 Nov)\nکسانی که رفتنی‌ها را پ
- ذیرفته و به موج جدایی نچسبیده‌اند، در ای
- ن ماه می‌توانند از کارمای نیک گذشته‌شان
-  برای ورود انرژی‌های خوب بهره ببرند.\nhttps:
- //t.me/FarsiHoroscope/23910\n\n🟢 زمان مناسب برای بررس
- ی احساسات\n۱۰ آبان تا ۹ آذر (1–30 Nov)\nدر نوا
- مبر می‌توانید احساساتی را که در تابستان 
- روشن نشد، با دید عمیق‌تری دوباره بررسی ک
- نید.\nhttps://t.me/FarsiHoroscope/23927
+DTSTAMP:20261104T221631Z
+UID:bad_2026-11-13_2026-11-13@astro-calendar
+SEQUENCE:27
+DESCRIPTION:۲۲ آبان (13 Nov)\n\n🔴 قوی‌ترین دوره پی
+ وند سه‌گانه\n۲۱ تا ۲۶ آبان (12–17 Nov)\nاین چن
+ د روز بیشترین احتمال حمله، انفجار خشم و ب
+ حران را دارد؛ در تصمیم‌های مهم و پرخطر ا
+ حتیاط کنید.\nhttps://t.me/FarsiHoroscope/23931\n\n🔴 پرهیز
+  از تصمیم نهایی در دوره برگشتی\n۱۳ تا ۲۲ آ
+ بان (4–13 Nov)\nتا ۱۳ نوامبر که عطارد برگشتی 
+ است، ایده‌ها را روشن کنید اما تصمیم نهای
+ ی و امضای تعهد را به بعد از آن موکول کنید.
+ \nhttps://t.me/FarsiHoroscope/23926\n\n🔴 حرکت برگشتی عطار
+ د در عقرب\n۱۲ تا ۲۲ آبان (3–13 Nov)\nدر این مدت
+  اطلاعات ناقص است و روابط دچار اختلال می
+ ‌شوند؛ تصمیم‌های مهم نگیرید و ذهن را آر
+ ام نگه دارید.\nhttps://t.me/FarsiHoroscope/23913\n\n🔴 اوج 
+ فشار و بیرون ریختن دردها\n۱۷ تا ۲۷ آبان (8
+ –18 Nov)\nدر این بازه هوشیار باشید، با خشم پ
+ اسخ ندهید و با افراد کنترل‌گر درگیر نشوی
+ د.\nhttps://t.me/FarsiHoroscope/23744\n\n🔴 دوره فشار عطار
+ د (جوزا، سنبله)\n۱۷ تا ۲۷ آبان (8–18 Nov)\nدر ا
+ ین روزها مراقب رفتار و تصمیم‌هایتان باش
+ ید و خودتان را کنترل کنید.\nhttps://t.me/FarsiHoroscop
+ e/23750\n\n🔴 اوج تنش مرکوری برگشتی و پلوتو (ج
+ وزا، سنبله، عقرب، ثور، دلو، اسد)\n۱۷ تا ۲۷
+  آبان (8–18 Nov)\nدر این بازه امضای قرارداد، 
+ گفتگوی مهم، سفر، امتحان و تحویل مدارک را 
+ به تعویق بیندازید.\nhttps://t.me/FarsiHoroscope/23754\n\n
+ 🔴 دوره دشوار در مرکوری برگشتی\n۱۷ تا ۲۷ آ
+ بان (8–18 Nov)\nAnother difficult stretch during the retrograde\; pos
+ tpone important signings\, trips or announcements if possible.\nhttps://t.
+ me/FarsiHoroscope/23790\n\n🔴 اوج فشار ذهنی و نگرانی\n
+ ۱۷ تا ۲۷ آبان (8–18 Nov)\nدر این روزها از افکا
+ ر وسواسی و خودخوری دوری کنید و برای تصمیم
+ ‌های مهم عجله نکنید.\nhttps://t.me/FarsiHoroscope/23907\n
+ \n🔴 اوج چالش انرژی در اواسط نوامبر\n۱۹ تا 
+ ۲۹ آبان (10–20 Nov)\nThe peak of the challenge falls around mid-No
+ vember\; be most cautious with major money decisions and loan commitments 
+ in this window.\nhttps://t.me/FarsiHoroscope/23861\n\n🔴 فشار سنگ
+ ین نیمه ماه نوامبر\n۱۹ تا ۲۹ آبان (10–20 Nov)\n
+ در این بازه به فشار بیشتری آماده باشید و 
+ تصمیم‌های عجولانه را به بعد از آن موکول 
+ کنید. برای هر نشان، خورشید، ماه و رایزینگ
+  را با هم در نظر بگیرید.\nhttps://t.me/FarsiHoroscope/239
+ 09\n\n🔴 خطر اختلال در سفرهای هوایی\n۱۹ تا ۲
+ ۹ آبان (10–20 Nov)\nدر این بازه پرواز و سفر بی
+ ن‌المللی را با احتیاط برنامه‌ریزی کنید 
+ و برای تغییر احتمالی آماده باشید.\nhttps://t.me
+ /FarsiHoroscope/23911\n\n🔴 دوره اثرگذاری پیوند سه‌
+ گانه\n۱۸ تا ۲۹ آبان (9–20 Nov)\nدر این بازه اح
+ تمال تنش، خشم و درگیری میان رهبران سیاسی 
+ بالاتر از معمول است؛ از تصمیم‌های تند و 
+ واکنش‌های هیجانی پرهیز کنید.\nhttps://t.me/FarsiH
+ oroscope/23931\n\n🔴 پرتنش‌ترین دوره سال ۲۰۲۶\n۱
+ ۷ آبان تا ۵ آذر (8–26 Nov)\nدر این بازه از تصم
+ یم‌های بزرگ و درگیری‌های تند پرهیز کن؛ 
+ احتمال تغییرات سیاسی هم هست.\nhttps://t.me/FarsiHor
+ oscope/23821\n\n🔴 سه هفته فشار احساسی\n۲ تا ۲۳ آ
+ بان (24 Oct – 14 Nov)\nخودت را از نظر احساسی آما
+ ده کن، چون این دوره سنگین است.\nhttps://t.me/FarsiH
+ oroscope/23815\n\n🔴 دوره سوءتفاهم و اختلال ارتب
+ اطات\n۲ تا ۲۳ آبان (24 Oct – 14 Nov)\nدر پیام‌ها
+ ، مدارک و سفرها دقت کنید، پیام‌ها را دوب
+ اره بررسی کنید و از اطلاع‌رسانی شفاف غاف
+ ل نشوید.\nhttps://t.me/FarsiHoroscope/23822\n\n🔴 پرهیز از 
+ امضای قرارداد و سرمایه‌گذاری بزرگ\n۲ تا 
+ ۲۳ آبان (24 Oct – 14 Nov)\nاز امضای قرارداد یا س
+ رمایه‌گذاری بزرگ خودداری کنید؛ اگر ناچا
+ رید، هر قرارداد را چند بار مرور کرده و با 
+ متخصص مشورت کنید.\nhttps://t.me/FarsiHoroscope/23822\n\n🔴
+  تعهد ازدواج و رابطه را به تعویق بیندازید
+ \n۱ تا ۲۴ آبان (23 Oct – 15 Nov)\nتا نیمه نوامبر، 
+ یعنی زمان مستقیم شدن ونوس، از شروع ازدوا
+ ج یا رابطه جدی خودداری کنید.\nhttps://t.me/FarsiHoro
+ scope/23810\n\n🔴 فوران موضوعات عقرب تا نیمه آب
+ ان (عقرب)\n۳۰ مهر تا ۲۴ آبان (22 Oct – 15 Nov)\nدر 
+ پول مشترک، ارث، اعتماد، روابط نزدیک و مس
+ ائل قدرت احتیاط کن و تصمیم‌های عجولانه ن
+ گیر.\nhttps://t.me/FarsiHoroscope/23801\n\n🔴 نوسان سنگین 
+ در هفته‌های پیش رو\n۵ تا ۲۹ آبان (27 Oct – 20 N
+ ov)\nExpect heavy swings in finance\, banking\, loans\, insurance and reso
+ urces\; avoid big financial bets and keep reserves liquid.\nhttps://t.me/F
+ arsiHoroscope/23861\n\n🔴 فشار بالا در کل ماه آبان\n
+ ۱ تا ۳۰ آبان (23 Oct – 21 Nov)\nاین ماه فشار زیاد
+ ی وارد می‌شود؛ از تصمیم‌های عجولانه و د
+ رگیری‌های بی‌دلیل پرهیز کن.\nhttps://t.me/FarsiHo
+ roscope/23846\n\n🔴 ماهی پرچالش و سخت\n۱۰ آبان تا 
+ ۹ آذر (1–30 Nov)\nدر گفتار و رفتار دقت و هوشیا
+ ری بیشتری داشته باشید.\nhttps://t.me/FarsiHoroscope/2376
+ 3\n\n🔴 صبر تا آخر نوامبر\n۱۰ آبان تا ۹ آذر (1
+ –30 Nov)\nدرباره بازگشت رابطه‌های گذشته تا 
+ پایان نوامبر تصمیم قطعی نگیرید.\nhttps://t.me/Fa
+ rsiHoroscope/23898\n\n🔴 اوج تنش و احتمال درگیری\n۱
+ ۰ آبان تا ۹ آذر (1–30 Nov)\nدر کل این ماه احتم
+ ال جنگ، حمله و حوادث ناگهانی بیشتر است؛ ا
+ ز تصمیم‌های مهم و سفرهای پرریسک دوری کنی
+ د.\nhttps://t.me/FarsiHoroscope/23908\n\n🔴 سختی برای کسان
+ ی که به انرژی‌های کهنه چسبیده‌اند\n۱۰ آب
+ ان تا ۹ آذر (1–30 Nov)\nکسانی که کارمای قبلی ر
+ ا تمام نکرده و به انرژی‌های مرده وابسته
+ ‌اند، در این ماه با جدا شدن از آن رشته‌ه
+ ا درگیر سختی خواهند بود.\nhttps://t.me/FarsiHoroscope/2
+ 3910\n\n🔴 احتمال زلزله و سیل بالاتر\n۱۰ آبان
+  تا ۹ آذر (1–30 Nov)\nThe post warns of a higher chance of earthqu
+ akes and floods this month\, so stay alert to official warnings.\nhttps://
+ t.me/FarsiHoroscope/23912\n\n🔴 روزهای پرتنش و بی‌ثبا
+ ت\n۳۰ مهر تا ۹ آذر (22 Oct – 30 Nov)\nدر این بازه 
+ منتظر آرامش نباشید؛ از واکنش هیجانی به ت
+ ماس‌ها و یادآوری زخم‌های قدیمی دوری کنی
+ د.\nhttps://t.me/FarsiHoroscope/23768\n\n🔴 ادامه فشارهای 
+ قدرت تا تابستان\n۱۲ آبان تا ۳۱ شهریور (3 Nov 
+ – 22 Sep)\nThe post says the power and economic pressures on Trump's cha
+ rt will continue until summer 2027\, and events from November and December
+  may return.\nhttps://t.me/FarsiHoroscope/23912
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚪ ونوس در ترازو مستقیم می‌شود +۱۲
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:neutral_2026-11-13_2026-11-13@astro-calendar
 SEQUENCE:13
 DESCRIPTION:۲۲ آبان (13 Nov)\n\n⚪ ونوس در ترازو مست
@@ -1896,113 +2253,126 @@ DESCRIPTION:۲۲ آبان (13 Nov)\n\n⚪ ونوس در ترازو مست
  roscope/23907
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴 اوج فشار و بیرون ریختن دردها +۲۲
+SUMMARY:🔴 پیوند مارس و نود جنوبی +۲۵
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:bad_2026-11-14_2026-11-14@astro-calendar
-SEQUENCE:23
-DESCRIPTION:۲۳ آبان (14 Nov)\n\n🔴 اوج فشار و بیرون 
- ریختن دردها\n۱۷ تا ۲۷ آبان (8–18 Nov)\nدر این 
- بازه هوشیار باشید، با خشم پاسخ ندهید و با
-  افراد کنترل‌گر درگیر نشوید.\nhttps://t.me/FarsiHo
- roscope/23744\n\n🔴 دوره فشار عطارد (جوزا، سنبله)
- \n۱۷ تا ۲۷ آبان (8–18 Nov)\nدر این روزها مراقب 
- رفتار و تصمیم‌هایتان باشید و خودتان را ک
- نترل کنید.\nhttps://t.me/FarsiHoroscope/23750\n\n🔴 اوج تن
- ش مرکوری برگشتی و پلوتو (جوزا، سنبله، عقر
- ب، ثور، دلو، اسد)\n۱۷ تا ۲۷ آبان (8–18 Nov)\nدر
-  این بازه امضای قرارداد، گفتگوی مهم، سفر
- ، امتحان و تحویل مدارک را به تعویق بینداز
- ید.\nhttps://t.me/FarsiHoroscope/23754\n\n🔴 دوره دشوار در 
- مرکوری برگشتی\n۱۷ تا ۲۷ آبان (8–18 Nov)\nAnother d
- ifficult stretch during the retrograde\; postpone important signings\, tri
- ps or announcements if possible.\nhttps://t.me/FarsiHoroscope/23790\n\n
- 🔴 اوج فشار ذهنی و نگرانی\n۱۷ تا ۲۷ آبان (8
- –18 Nov)\nدر این روزها از افکار وسواسی و خود
- خوری دوری کنید و برای تصمیم‌های مهم عجله
-  نکنید.\nhttps://t.me/FarsiHoroscope/23907\n\n🔴 اوج چالش ا
- نرژی در اواسط نوامبر\n۱۹ تا ۲۹ آبان (10–20 No
- v)\nThe peak of the challenge falls around mid-November\; be most cautious
-  with major money decisions and loan commitments in this window.\nhttps://
- t.me/FarsiHoroscope/23861\n\n🔴 فشار سنگین نیمه ماه نو
- امبر\n۱۹ تا ۲۹ آبان (10–20 Nov)\nدر این بازه به
-  فشار بیشتری آماده باشید و تصمیم‌های عجو
- لانه را به بعد از آن موکول کنید. برای هر ن
- شان، خورشید، ماه و رایزینگ را با هم در نظ
- ر بگیرید.\nhttps://t.me/FarsiHoroscope/23909\n\n🔴 خطر اخت
- لال در سفرهای هوایی\n۱۹ تا ۲۹ آبان (10–20 Nov)
- \nدر این بازه پرواز و سفر بین‌المللی را ب
- ا احتیاط برنامه‌ریزی کنید و برای تغییر ا
- حتمالی آماده باشید.\nhttps://t.me/FarsiHoroscope/23911\n\n
- 🔴 پرتنش‌ترین دوره سال ۲۰۲۶\n۱۷ آبان تا ۵
-  آذر (8–26 Nov)\nدر این بازه از تصمیم‌های بزر
- گ و درگیری‌های تند پرهیز کن؛ احتمال تغیی
- رات سیاسی هم هست.\nhttps://t.me/FarsiHoroscope/23821\n\n🔴 
- سه هفته فشار احساسی\n۲ تا ۲۳ آبان (24 Oct – 14 
- Nov)\nخودت را از نظر احساسی آماده کن، چون ای
- ن دوره سنگین است.\nhttps://t.me/FarsiHoroscope/23815\n\n🔴 
- دوره سوءتفاهم و اختلال ارتباطات\n۲ تا ۲۳ 
- آبان (24 Oct – 14 Nov)\nدر پیام‌ها، مدارک و سفر
- ها دقت کنید، پیام‌ها را دوباره بررسی کنی
- د و از اطلاع‌رسانی شفاف غافل نشوید.\nhttps://
- t.me/FarsiHoroscope/23822\n\n🔴 پرهیز از امضای قراردا
- د و سرمایه‌گذاری بزرگ\n۲ تا ۲۳ آبان (24 Oct 
- – 14 Nov)\nاز امضای قرارداد یا سرمایه‌گذاری
-  بزرگ خودداری کنید؛ اگر ناچارید، هر قرار
- داد را چند بار مرور کرده و با متخصص مشورت 
- کنید.\nhttps://t.me/FarsiHoroscope/23822\n\n🔴 تعهد ازدواج
-  و رابطه را به تعویق بیندازید\n۱ تا ۲۴ آبا
- ن (23 Oct – 15 Nov)\nتا نیمه نوامبر، یعنی زمان م
- ستقیم شدن ونوس، از شروع ازدواج یا رابطه ج
- دی خودداری کنید.\nhttps://t.me/FarsiHoroscope/23810\n\n🔴 
- فوران موضوعات عقرب تا نیمه آبان (عقرب)\n۳۰
-  مهر تا ۲۴ آبان (22 Oct – 15 Nov)\nدر پول مشترک، 
- ارث، اعتماد، روابط نزدیک و مسائل قدرت اح
- تیاط کن و تصمیم‌های عجولانه نگیر.\nhttps://t.m
- e/FarsiHoroscope/23801\n\n🔴 نوسان سنگین در هفته‌ها
- ی پیش رو\n۵ تا ۲۹ آبان (27 Oct – 20 Nov)\nExpect heavy sw
- ings in finance\, banking\, loans\, insurance and resources\; avoid big fi
- nancial bets and keep reserves liquid.\nhttps://t.me/FarsiHoroscope/23861
- \n\n🔴 فشار بالا در کل ماه آبان\n۱ تا ۳۰ آبا
- ن (23 Oct – 21 Nov)\nاین ماه فشار زیادی وارد می‌
- شود؛ از تصمیم‌های عجولانه و درگیری‌های 
- بی‌دلیل پرهیز کن.\nhttps://t.me/FarsiHoroscope/23846\n\n
- 🔴 ماهی پرچالش و سخت\n۱۰ آبان تا ۹ آذر (1–30
-  Nov)\nدر گفتار و رفتار دقت و هوشیاری بیشتری
-  داشته باشید.\nhttps://t.me/FarsiHoroscope/23763\n\n🔴 صبر 
- تا آخر نوامبر\n۱۰ آبان تا ۹ آذر (1–30 Nov)\nدر
- باره بازگشت رابطه‌های گذشته تا پایان نو
- امبر تصمیم قطعی نگیرید.\nhttps://t.me/FarsiHoroscope/23
- 898\n\n🔴 اوج تنش و احتمال درگیری\n۱۰ آبان تا
-  ۹ آذر (1–30 Nov)\nدر کل این ماه احتمال جنگ، ح
- مله و حوادث ناگهانی بیشتر است؛ از تصمیم‌
- های مهم و سفرهای پرریسک دوری کنید.\nhttps://t.m
- e/FarsiHoroscope/23908\n\n🔴 سختی برای کسانی که به ان
- رژی‌های کهنه چسبیده‌اند\n۱۰ آبان تا ۹ آذ
- ر (1–30 Nov)\nکسانی که کارمای قبلی را تمام نک
- رده و به انرژی‌های مرده وابسته‌اند، در 
- این ماه با جدا شدن از آن رشته‌ها درگیر سخ
- تی خواهند بود.\nhttps://t.me/FarsiHoroscope/23910\n\n🔴 اح
- تمال زلزله و سیل بالاتر\n۱۰ آبان تا ۹ آذر (
- 1–30 Nov)\nThe post warns of a higher chance of earthquakes and floods t
- his month\, so stay alert to official warnings.\nhttps://t.me/FarsiHorosco
- pe/23912\n\n🔴 روزهای پرتنش و بی‌ثبات\n۳۰ مهر 
- تا ۹ آذر (22 Oct – 30 Nov)\nدر این بازه منتظر آرا
- مش نباشید؛ از واکنش هیجانی به تماس‌ها و 
- یادآوری زخم‌های قدیمی دوری کنید.\nhttps://t.me
- /FarsiHoroscope/23768\n\n🔴 ادامه فشارهای قدرت تا تا
- بستان\n۱۲ آبان تا ۳۱ شهریور (3 Nov – 22 Sep)\nThe p
- ost says the power and economic pressures on Trump's chart will continue u
- ntil summer 2027\, and events from November and December may return.\nhttp
- s://t.me/FarsiHoroscope/23912
+SEQUENCE:26
+DESCRIPTION:۲۳ آبان (14 Nov)\n\n🔴 پیوند مارس و نود 
+ جنوبی\n۲۳ آبان (14 Nov)\nدر این روز پیوند دقیق
+  مارس و نود جنوبی رخ می‌دهد؛ از درگیری، ا
+ قدام پرخطر و تصمیم‌های هیجانی بپرهیزید.
+ \nhttps://t.me/FarsiHoroscope/23931\n\n🔴 قوی‌ترین دوره پ
+ یوند سه‌گانه\n۲۱ تا ۲۶ آبان (12–17 Nov)\nاین چ
+ ند روز بیشترین احتمال حمله، انفجار خشم و 
+ بحران را دارد؛ در تصمیم‌های مهم و پرخطر 
+ احتیاط کنید.\nhttps://t.me/FarsiHoroscope/23931\n\n🔴 اوج 
+ فشار و بیرون ریختن دردها\n۱۷ تا ۲۷ آبان (8
+ –18 Nov)\nدر این بازه هوشیار باشید، با خشم پ
+ اسخ ندهید و با افراد کنترل‌گر درگیر نشوی
+ د.\nhttps://t.me/FarsiHoroscope/23744\n\n🔴 دوره فشار عطار
+ د (جوزا، سنبله)\n۱۷ تا ۲۷ آبان (8–18 Nov)\nدر ا
+ ین روزها مراقب رفتار و تصمیم‌هایتان باش
+ ید و خودتان را کنترل کنید.\nhttps://t.me/FarsiHoroscop
+ e/23750\n\n🔴 اوج تنش مرکوری برگشتی و پلوتو (ج
+ وزا، سنبله، عقرب، ثور، دلو، اسد)\n۱۷ تا ۲۷
+  آبان (8–18 Nov)\nدر این بازه امضای قرارداد، 
+ گفتگوی مهم، سفر، امتحان و تحویل مدارک را 
+ به تعویق بیندازید.\nhttps://t.me/FarsiHoroscope/23754\n\n
+ 🔴 دوره دشوار در مرکوری برگشتی\n۱۷ تا ۲۷ آ
+ بان (8–18 Nov)\nAnother difficult stretch during the retrograde\; pos
+ tpone important signings\, trips or announcements if possible.\nhttps://t.
+ me/FarsiHoroscope/23790\n\n🔴 اوج فشار ذهنی و نگرانی\n
+ ۱۷ تا ۲۷ آبان (8–18 Nov)\nدر این روزها از افکا
+ ر وسواسی و خودخوری دوری کنید و برای تصمیم
+ ‌های مهم عجله نکنید.\nhttps://t.me/FarsiHoroscope/23907\n
+ \n🔴 اوج چالش انرژی در اواسط نوامبر\n۱۹ تا 
+ ۲۹ آبان (10–20 Nov)\nThe peak of the challenge falls around mid-No
+ vember\; be most cautious with major money decisions and loan commitments 
+ in this window.\nhttps://t.me/FarsiHoroscope/23861\n\n🔴 فشار سنگ
+ ین نیمه ماه نوامبر\n۱۹ تا ۲۹ آبان (10–20 Nov)\n
+ در این بازه به فشار بیشتری آماده باشید و 
+ تصمیم‌های عجولانه را به بعد از آن موکول 
+ کنید. برای هر نشان، خورشید، ماه و رایزینگ
+  را با هم در نظر بگیرید.\nhttps://t.me/FarsiHoroscope/239
+ 09\n\n🔴 خطر اختلال در سفرهای هوایی\n۱۹ تا ۲
+ ۹ آبان (10–20 Nov)\nدر این بازه پرواز و سفر بی
+ ن‌المللی را با احتیاط برنامه‌ریزی کنید 
+ و برای تغییر احتمالی آماده باشید.\nhttps://t.me
+ /FarsiHoroscope/23911\n\n🔴 دوره اثرگذاری پیوند سه‌
+ گانه\n۱۸ تا ۲۹ آبان (9–20 Nov)\nدر این بازه اح
+ تمال تنش، خشم و درگیری میان رهبران سیاسی 
+ بالاتر از معمول است؛ از تصمیم‌های تند و 
+ واکنش‌های هیجانی پرهیز کنید.\nhttps://t.me/FarsiH
+ oroscope/23931\n\n🔴 پرتنش‌ترین دوره سال ۲۰۲۶\n۱
+ ۷ آبان تا ۵ آذر (8–26 Nov)\nدر این بازه از تصم
+ یم‌های بزرگ و درگیری‌های تند پرهیز کن؛ 
+ احتمال تغییرات سیاسی هم هست.\nhttps://t.me/FarsiHor
+ oscope/23821\n\n🔴 سه هفته فشار احساسی\n۲ تا ۲۳ آ
+ بان (24 Oct – 14 Nov)\nخودت را از نظر احساسی آما
+ ده کن، چون این دوره سنگین است.\nhttps://t.me/FarsiH
+ oroscope/23815\n\n🔴 دوره سوءتفاهم و اختلال ارتب
+ اطات\n۲ تا ۲۳ آبان (24 Oct – 14 Nov)\nدر پیام‌ها
+ ، مدارک و سفرها دقت کنید، پیام‌ها را دوب
+ اره بررسی کنید و از اطلاع‌رسانی شفاف غاف
+ ل نشوید.\nhttps://t.me/FarsiHoroscope/23822\n\n🔴 پرهیز از 
+ امضای قرارداد و سرمایه‌گذاری بزرگ\n۲ تا 
+ ۲۳ آبان (24 Oct – 14 Nov)\nاز امضای قرارداد یا س
+ رمایه‌گذاری بزرگ خودداری کنید؛ اگر ناچا
+ رید، هر قرارداد را چند بار مرور کرده و با 
+ متخصص مشورت کنید.\nhttps://t.me/FarsiHoroscope/23822\n\n🔴
+  تعهد ازدواج و رابطه را به تعویق بیندازید
+ \n۱ تا ۲۴ آبان (23 Oct – 15 Nov)\nتا نیمه نوامبر، 
+ یعنی زمان مستقیم شدن ونوس، از شروع ازدوا
+ ج یا رابطه جدی خودداری کنید.\nhttps://t.me/FarsiHoro
+ scope/23810\n\n🔴 فوران موضوعات عقرب تا نیمه آب
+ ان (عقرب)\n۳۰ مهر تا ۲۴ آبان (22 Oct – 15 Nov)\nدر 
+ پول مشترک، ارث، اعتماد، روابط نزدیک و مس
+ ائل قدرت احتیاط کن و تصمیم‌های عجولانه ن
+ گیر.\nhttps://t.me/FarsiHoroscope/23801\n\n🔴 نوسان سنگین 
+ در هفته‌های پیش رو\n۵ تا ۲۹ آبان (27 Oct – 20 N
+ ov)\nExpect heavy swings in finance\, banking\, loans\, insurance and reso
+ urces\; avoid big financial bets and keep reserves liquid.\nhttps://t.me/F
+ arsiHoroscope/23861\n\n🔴 فشار بالا در کل ماه آبان\n
+ ۱ تا ۳۰ آبان (23 Oct – 21 Nov)\nاین ماه فشار زیاد
+ ی وارد می‌شود؛ از تصمیم‌های عجولانه و د
+ رگیری‌های بی‌دلیل پرهیز کن.\nhttps://t.me/FarsiHo
+ roscope/23846\n\n🔴 ماهی پرچالش و سخت\n۱۰ آبان تا 
+ ۹ آذر (1–30 Nov)\nدر گفتار و رفتار دقت و هوشیا
+ ری بیشتری داشته باشید.\nhttps://t.me/FarsiHoroscope/2376
+ 3\n\n🔴 صبر تا آخر نوامبر\n۱۰ آبان تا ۹ آذر (1
+ –30 Nov)\nدرباره بازگشت رابطه‌های گذشته تا 
+ پایان نوامبر تصمیم قطعی نگیرید.\nhttps://t.me/Fa
+ rsiHoroscope/23898\n\n🔴 اوج تنش و احتمال درگیری\n۱
+ ۰ آبان تا ۹ آذر (1–30 Nov)\nدر کل این ماه احتم
+ ال جنگ، حمله و حوادث ناگهانی بیشتر است؛ ا
+ ز تصمیم‌های مهم و سفرهای پرریسک دوری کنی
+ د.\nhttps://t.me/FarsiHoroscope/23908\n\n🔴 سختی برای کسان
+ ی که به انرژی‌های کهنه چسبیده‌اند\n۱۰ آب
+ ان تا ۹ آذر (1–30 Nov)\nکسانی که کارمای قبلی ر
+ ا تمام نکرده و به انرژی‌های مرده وابسته
+ ‌اند، در این ماه با جدا شدن از آن رشته‌ه
+ ا درگیر سختی خواهند بود.\nhttps://t.me/FarsiHoroscope/2
+ 3910\n\n🔴 احتمال زلزله و سیل بالاتر\n۱۰ آبان
+  تا ۹ آذر (1–30 Nov)\nThe post warns of a higher chance of earthqu
+ akes and floods this month\, so stay alert to official warnings.\nhttps://
+ t.me/FarsiHoroscope/23912\n\n🔴 روزهای پرتنش و بی‌ثبا
+ ت\n۳۰ مهر تا ۹ آذر (22 Oct – 30 Nov)\nدر این بازه 
+ منتظر آرامش نباشید؛ از واکنش هیجانی به ت
+ ماس‌ها و یادآوری زخم‌های قدیمی دوری کنی
+ د.\nhttps://t.me/FarsiHoroscope/23768\n\n🔴 ادامه فشارهای 
+ قدرت تا تابستان\n۱۲ آبان تا ۳۱ شهریور (3 Nov 
+ – 22 Sep)\nThe post says the power and economic pressures on Trump's cha
+ rt will continue until summer 2027\, and events from November and December
+  may return.\nhttps://t.me/FarsiHoroscope/23912
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚪ تصمیم‌های قاطع پس از مستقیم شدن +۱
  ۱
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:neutral_2026-11-14_2026-11-15@astro-calendar
 SEQUENCE:12
 DESCRIPTION:۲۳ تا ۲۴ آبان (14–15 Nov)\n\n⚪ تصمیم‌ها
@@ -2057,115 +2427,234 @@ DESCRIPTION:۲۳ تا ۲۴ آبان (14–15 Nov)\n\n⚪ تصمیم‌ها
  tps://t.me/FarsiHoroscope/23907
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴 اوج فشار و بیرون ریختن دردها +۲۳
+SUMMARY:🔴 قوی‌ترین دوره پیوند سه‌گانه +۲۵
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:bad_2026-11-15_2026-11-15@astro-calendar
-SEQUENCE:24
-DESCRIPTION:۲۴ آبان (15 Nov)\n\n🔴 اوج فشار و بیرون 
- ریختن دردها\n۱۷ تا ۲۷ آبان (8–18 Nov)\nدر این 
- بازه هوشیار باشید، با خشم پاسخ ندهید و با
-  افراد کنترل‌گر درگیر نشوید.\nhttps://t.me/FarsiHo
- roscope/23744\n\n🔴 دوره فشار عطارد (جوزا، سنبله)
- \n۱۷ تا ۲۷ آبان (8–18 Nov)\nدر این روزها مراقب 
- رفتار و تصمیم‌هایتان باشید و خودتان را ک
- نترل کنید.\nhttps://t.me/FarsiHoroscope/23750\n\n🔴 اوج تن
- ش مرکوری برگشتی و پلوتو (جوزا، سنبله، عقر
- ب، ثور، دلو، اسد)\n۱۷ تا ۲۷ آبان (8–18 Nov)\nدر
-  این بازه امضای قرارداد، گفتگوی مهم، سفر
- ، امتحان و تحویل مدارک را به تعویق بینداز
- ید.\nhttps://t.me/FarsiHoroscope/23754\n\n🔴 دوره دشوار در 
- مرکوری برگشتی\n۱۷ تا ۲۷ آبان (8–18 Nov)\nAnother d
- ifficult stretch during the retrograde\; postpone important signings\, tri
- ps or announcements if possible.\nhttps://t.me/FarsiHoroscope/23790\n\n
- 🔴 اوج فشار ذهنی و نگرانی\n۱۷ تا ۲۷ آبان (8
- –18 Nov)\nدر این روزها از افکار وسواسی و خود
- خوری دوری کنید و برای تصمیم‌های مهم عجله
-  نکنید.\nhttps://t.me/FarsiHoroscope/23907\n\n🔴 اوج چالش ا
- نرژی در اواسط نوامبر\n۱۹ تا ۲۹ آبان (10–20 No
- v)\nThe peak of the challenge falls around mid-November\; be most cautious
-  with major money decisions and loan commitments in this window.\nhttps://
- t.me/FarsiHoroscope/23861\n\n🔴 فشار سنگین نیمه ماه نو
- امبر\n۱۹ تا ۲۹ آبان (10–20 Nov)\nدر این بازه به
-  فشار بیشتری آماده باشید و تصمیم‌های عجو
- لانه را به بعد از آن موکول کنید. برای هر ن
- شان، خورشید، ماه و رایزینگ را با هم در نظ
- ر بگیرید.\nhttps://t.me/FarsiHoroscope/23909\n\n🔴 خطر اخت
- لال در سفرهای هوایی\n۱۹ تا ۲۹ آبان (10–20 Nov)
- \nدر این بازه پرواز و سفر بین‌المللی را ب
- ا احتیاط برنامه‌ریزی کنید و برای تغییر ا
- حتمالی آماده باشید.\nhttps://t.me/FarsiHoroscope/23911\n\n
- 🔴 نیمه دوم نوامبر پرتنش و سریع\n۲۴ آبان ت
- ا ۹ آذر (15–30 Nov)\nTension is expected to rise and events may mov
- e fast in the second half of November\, so avoid rushed decisions.\nhttps:
- //t.me/FarsiHoroscope/23912\n\n🔴 پرتنش‌ترین دوره سال 
- ۲۰۲۶\n۱۷ آبان تا ۵ آذر (8–26 Nov)\nدر این بازه 
- از تصمیم‌های بزرگ و درگیری‌های تند پرهی
- ز کن؛ احتمال تغییرات سیاسی هم هست.\nhttps://t.m
- e/FarsiHoroscope/23821\n\n🔴 تعهد ازدواج و رابطه را ب
- ه تعویق بیندازید\n۱ تا ۲۴ آبان (23 Oct – 15 Nov)
- \nتا نیمه نوامبر، یعنی زمان مستقیم شدن ون
- وس، از شروع ازدواج یا رابطه جدی خودداری ک
- نید.\nhttps://t.me/FarsiHoroscope/23810\n\n🔴 فوران موضوعا
- ت عقرب تا نیمه آبان (عقرب)\n۳۰ مهر تا ۲۴ آب
- ان (22 Oct – 15 Nov)\nدر پول مشترک، ارث، اعتماد،
-  روابط نزدیک و مسائل قدرت احتیاط کن و تصم
- یم‌های عجولانه نگیر.\nhttps://t.me/FarsiHoroscope/23801
- \n\n🔴 نوسان سنگین در هفته‌های پیش رو\n۵ تا
-  ۲۹ آبان (27 Oct – 20 Nov)\nExpect heavy swings in finance\, banki
- ng\, loans\, insurance and resources\; avoid big financial bets and keep r
- eserves liquid.\nhttps://t.me/FarsiHoroscope/23861\n\n🔴 فشار بال
- ا در کل ماه آبان\n۱ تا ۳۰ آبان (23 Oct – 21 Nov)\n
- این ماه فشار زیادی وارد می‌شود؛ از تصمیم
- ‌های عجولانه و درگیری‌های بی‌دلیل پرهی
- ز کن.\nhttps://t.me/FarsiHoroscope/23846\n\n🔴 ماهی پرچالش 
- و سخت\n۱۰ آبان تا ۹ آذر (1–30 Nov)\nدر گفتار و 
- رفتار دقت و هوشیاری بیشتری داشته باشید.\nh
- ttps://t.me/FarsiHoroscope/23763\n\n🔴 صبر تا آخر نوامبر\n
- ۱۰ آبان تا ۹ آذر (1–30 Nov)\nدرباره بازگشت را
- بطه‌های گذشته تا پایان نوامبر تصمیم قطع
- ی نگیرید.\nhttps://t.me/FarsiHoroscope/23898\n\n🔴 اوج تنش 
- و احتمال درگیری\n۱۰ آبان تا ۹ آذر (1–30 Nov)\n
- در کل این ماه احتمال جنگ، حمله و حوادث نا
- گهانی بیشتر است؛ از تصمیم‌های مهم و سفره
- ای پرریسک دوری کنید.\nhttps://t.me/FarsiHoroscope/23908\n
- \n🔴 سختی برای کسانی که به انرژی‌های کهنه
-  چسبیده‌اند\n۱۰ آبان تا ۹ آذر (1–30 Nov)\nکسا
- نی که کارمای قبلی را تمام نکرده و به انرژ
- ی‌های مرده وابسته‌اند، در این ماه با جد
- ا شدن از آن رشته‌ها درگیر سختی خواهند بو
- د.\nhttps://t.me/FarsiHoroscope/23910\n\n🔴 احتمال زلزله و 
- سیل بالاتر\n۱۰ آبان تا ۹ آذر (1–30 Nov)\nThe post w
- arns of a higher chance of earthquakes and floods this month\, so stay ale
- rt to official warnings.\nhttps://t.me/FarsiHoroscope/23912\n\n🔴 روز
- های پرتنش و بی‌ثبات\n۳۰ مهر تا ۹ آذر (22 Oct 
- – 30 Nov)\nدر این بازه منتظر آرامش نباشید؛ ا
- ز واکنش هیجانی به تماس‌ها و یادآوری زخم
- ‌های قدیمی دوری کنید.\nhttps://t.me/FarsiHoroscope/23768
- \n\n🔴 بدرقه‌ها و خداحافظی‌های سنگین\n۲۴ 
- آبان تا ۱۰ دی (15 Nov – 31 Dec)\nبرای پایان‌ها و
-  جدایی‌های بازگشت‌ناپذیر آماده باش و آن
- ‌ها را بپذیر.\nhttps://t.me/FarsiHoroscope/23815\n\n🔴 فشا
- ر بر چارت ترامپ\n۲۴ آبان تا ۱۰ دی (15 Nov – 31 D
- ec)\nThe post says Trump's chart is under strong pressure in late November
-  and December\, which may bring danger\, health issues or sudden reactions
- .\nhttps://t.me/FarsiHoroscope/23912\n\n🔴 دوره پرتنش و متح
- ول‌کننده\n۲۴ آبان تا ۱۰ خرداد (15 Nov – 31 May)
- \nدر این بازه فشار روانی و جسمی بالاست؛ از
-  تصمیم‌های شتاب‌زده، کارهای پرخطر و سفر
- های غیرضروری پرهیز کنید.\nhttps://t.me/FarsiHoroscope/
- 23908\n\n🔴 ادامه فشارهای قدرت تا تابستان\n۱۲
-  آبان تا ۳۱ شهریور (3 Nov – 22 Sep)\nThe post says the pow
- er and economic pressures on Trump's chart will continue until summer 2027
- \, and events from November and December may return.\nhttps://t.me/FarsiHo
- roscope/23912
+SEQUENCE:26
+DESCRIPTION:۲۴ آبان (15 Nov)\n\n🔴 قوی‌ترین دوره پی
+ وند سه‌گانه\n۲۱ تا ۲۶ آبان (12–17 Nov)\nاین چن
+ د روز بیشترین احتمال حمله، انفجار خشم و ب
+ حران را دارد؛ در تصمیم‌های مهم و پرخطر ا
+ حتیاط کنید.\nhttps://t.me/FarsiHoroscope/23931\n\n🔴 اوج ف
+ شار و بیرون ریختن دردها\n۱۷ تا ۲۷ آبان (8–1
+ 8 Nov)\nدر این بازه هوشیار باشید، با خشم پاس
+ خ ندهید و با افراد کنترل‌گر درگیر نشوید.
+ \nhttps://t.me/FarsiHoroscope/23744\n\n🔴 دوره فشار عطارد (
+ جوزا، سنبله)\n۱۷ تا ۲۷ آبان (8–18 Nov)\nدر این 
+ روزها مراقب رفتار و تصمیم‌هایتان باشید 
+ و خودتان را کنترل کنید.\nhttps://t.me/FarsiHoroscope/237
+ 50\n\n🔴 اوج تنش مرکوری برگشتی و پلوتو (جوزا
+ ، سنبله، عقرب، ثور، دلو، اسد)\n۱۷ تا ۲۷ آب
+ ان (8–18 Nov)\nدر این بازه امضای قرارداد، گفت
+ گوی مهم، سفر، امتحان و تحویل مدارک را به 
+ تعویق بیندازید.\nhttps://t.me/FarsiHoroscope/23754\n\n🔴 د
+ وره دشوار در مرکوری برگشتی\n۱۷ تا ۲۷ آبان 
+ (8–18 Nov)\nAnother difficult stretch during the retrograde\; postpone i
+ mportant signings\, trips or announcements if possible.\nhttps://t.me/Fars
+ iHoroscope/23790\n\n🔴 اوج فشار ذهنی و نگرانی\n۱۷ ت
+ ا ۲۷ آبان (8–18 Nov)\nدر این روزها از افکار وس
+ واسی و خودخوری دوری کنید و برای تصمیم‌ها
+ ی مهم عجله نکنید.\nhttps://t.me/FarsiHoroscope/23907\n\n🔴 
+ اوج چالش انرژی در اواسط نوامبر\n۱۹ تا ۲۹ آ
+ بان (10–20 Nov)\nThe peak of the challenge falls around mid-November
+ \; be most cautious with major money decisions and loan commitments in thi
+ s window.\nhttps://t.me/FarsiHoroscope/23861\n\n🔴 فشار سنگین 
+ نیمه ماه نوامبر\n۱۹ تا ۲۹ آبان (10–20 Nov)\nدر 
+ این بازه به فشار بیشتری آماده باشید و تصم
+ یم‌های عجولانه را به بعد از آن موکول کنی
+ د. برای هر نشان، خورشید، ماه و رایزینگ را 
+ با هم در نظر بگیرید.\nhttps://t.me/FarsiHoroscope/23909\n\n
+ 🔴 خطر اختلال در سفرهای هوایی\n۱۹ تا ۲۹ آب
+ ان (10–20 Nov)\nدر این بازه پرواز و سفر بین‌ا
+ لمللی را با احتیاط برنامه‌ریزی کنید و بر
+ ای تغییر احتمالی آماده باشید.\nhttps://t.me/FarsiH
+ oroscope/23911\n\n🔴 دوره اثرگذاری پیوند سه‌گان
+ ه\n۱۸ تا ۲۹ آبان (9–20 Nov)\nدر این بازه احتما
+ ل تنش، خشم و درگیری میان رهبران سیاسی بال
+ اتر از معمول است؛ از تصمیم‌های تند و واک
+ نش‌های هیجانی پرهیز کنید.\nhttps://t.me/FarsiHorosco
+ pe/23931\n\n🔴 نیمه دوم نوامبر پرتنش و سریع\n۲۴
+  آبان تا ۹ آذر (15–30 Nov)\nTension is expected to rise and ev
+ ents may move fast in the second half of November\, so avoid rushed decisi
+ ons.\nhttps://t.me/FarsiHoroscope/23912\n\n🔴 پرتنش‌ترین دو
+ ره سال ۲۰۲۶\n۱۷ آبان تا ۵ آذر (8–26 Nov)\nدر ای
+ ن بازه از تصمیم‌های بزرگ و درگیری‌های ت
+ ند پرهیز کن؛ احتمال تغییرات سیاسی هم هست.
+ \nhttps://t.me/FarsiHoroscope/23821\n\n🔴 تعهد ازدواج و را
+ بطه را به تعویق بیندازید\n۱ تا ۲۴ آبان (23 Oc
+ t – 15 Nov)\nتا نیمه نوامبر، یعنی زمان مستقیم
+  شدن ونوس، از شروع ازدواج یا رابطه جدی خو
+ دداری کنید.\nhttps://t.me/FarsiHoroscope/23810\n\n🔴 فوران
+  موضوعات عقرب تا نیمه آبان (عقرب)\n۳۰ مهر ت
+ ا ۲۴ آبان (22 Oct – 15 Nov)\nدر پول مشترک، ارث، ا
+ عتماد، روابط نزدیک و مسائل قدرت احتیاط ک
+ ن و تصمیم‌های عجولانه نگیر.\nhttps://t.me/FarsiHoro
+ scope/23801\n\n🔴 نوسان سنگین در هفته‌های پیش ر
+ و\n۵ تا ۲۹ آبان (27 Oct – 20 Nov)\nExpect heavy swings in fina
+ nce\, banking\, loans\, insurance and resources\; avoid big financial bets
+  and keep reserves liquid.\nhttps://t.me/FarsiHoroscope/23861\n\n🔴 فش
+ ار بالا در کل ماه آبان\n۱ تا ۳۰ آبان (23 Oct –
+  21 Nov)\nاین ماه فشار زیادی وارد می‌شود؛ از 
+ تصمیم‌های عجولانه و درگیری‌های بی‌دلی
+ ل پرهیز کن.\nhttps://t.me/FarsiHoroscope/23846\n\n🔴 ماهی پ
+ رچالش و سخت\n۱۰ آبان تا ۹ آذر (1–30 Nov)\nدر گف
+ تار و رفتار دقت و هوشیاری بیشتری داشته با
+ شید.\nhttps://t.me/FarsiHoroscope/23763\n\n🔴 صبر تا آخر نو
+ امبر\n۱۰ آبان تا ۹ آذر (1–30 Nov)\nدرباره بازگ
+ شت رابطه‌های گذشته تا پایان نوامبر تصمی
+ م قطعی نگیرید.\nhttps://t.me/FarsiHoroscope/23898\n\n🔴 او
+ ج تنش و احتمال درگیری\n۱۰ آبان تا ۹ آذر (1–
+ 30 Nov)\nدر کل این ماه احتمال جنگ، حمله و حوا
+ دث ناگهانی بیشتر است؛ از تصمیم‌های مهم و
+  سفرهای پرریسک دوری کنید.\nhttps://t.me/FarsiHoroscope
+ /23908\n\n🔴 سختی برای کسانی که به انرژی‌های 
+ کهنه چسبیده‌اند\n۱۰ آبان تا ۹ آذر (1–30 Nov)
+ \nکسانی که کارمای قبلی را تمام نکرده و به 
+ انرژی‌های مرده وابسته‌اند، در این ماه ب
+ ا جدا شدن از آن رشته‌ها درگیر سختی خواهن
+ د بود.\nhttps://t.me/FarsiHoroscope/23910\n\n🔴 احتمال زلز
+ له و سیل بالاتر\n۱۰ آبان تا ۹ آذر (1–30 Nov)\nTh
+ e post warns of a higher chance of earthquakes and floods this month\, so 
+ stay alert to official warnings.\nhttps://t.me/FarsiHoroscope/23912\n\n
+ 🔴 روزهای پرتنش و بی‌ثبات\n۳۰ مهر تا ۹ آذ
+ ر (22 Oct – 30 Nov)\nدر این بازه منتظر آرامش نبا
+ شید؛ از واکنش هیجانی به تماس‌ها و یادآور
+ ی زخم‌های قدیمی دوری کنید.\nhttps://t.me/FarsiHorosc
+ ope/23768\n\n🔴 بدرقه‌ها و خداحافظی‌های سنگی
+ ن\n۲۴ آبان تا ۱۰ دی (15 Nov – 31 Dec)\nبرای پایان
+ ‌ها و جدایی‌های بازگشت‌ناپذیر آماده با
+ ش و آن‌ها را بپذیر.\nhttps://t.me/FarsiHoroscope/23815\n\n
+ 🔴 فشار بر چارت ترامپ\n۲۴ آبان تا ۱۰ دی (15 N
+ ov – 31 Dec)\nThe post says Trump's chart is under strong pressure in la
+ te November and December\, which may bring danger\, health issues or sudde
+ n reactions.\nhttps://t.me/FarsiHoroscope/23912\n\n🔴 دوره پرتن
+ ش و متحول‌کننده\n۲۴ آبان تا ۱۰ خرداد (15 Nov 
+ – 31 May)\nدر این بازه فشار روانی و جسمی بالا
+ ست؛ از تصمیم‌های شتاب‌زده، کارهای پرخط
+ ر و سفرهای غیرضروری پرهیز کنید.\nhttps://t.me/Far
+ siHoroscope/23908\n\n🔴 ادامه فشارهای قدرت تا تابس
+ تان\n۱۲ آبان تا ۳۱ شهریور (3 Nov – 22 Sep)\nThe post 
+ says the power and economic pressures on Trump's chart will continue until
+  summer 2027\, and events from November and December may return.\nhttps://
+ t.me/FarsiHoroscope/23912
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔴 پیوند مارس و ژوپیتر +۲۴
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+DTSTAMP:20261104T221631Z
+UID:bad_2026-11-16_2026-11-16@astro-calendar
+SEQUENCE:25
+DESCRIPTION:۲۵ آبان (16 Nov)\n\n🔴 پیوند مارس و ژوپی
+ تر\n۲۵ آبان (16 Nov)\nدر این روز مارس و ژوپیتر 
+ به هم می‌رسند و خطر تشدید خشم و تنش بالا 
+ می‌رود؛ از رویارویی و تصمیم‌های شتاب‌ز
+ ده دوری کنید.\nhttps://t.me/FarsiHoroscope/23931\n\n🔴 قوی
+ ‌ترین دوره پیوند سه‌گانه\n۲۱ تا ۲۶ آبان (
+ 12–17 Nov)\nاین چند روز بیشترین احتمال حمله، 
+ انفجار خشم و بحران را دارد؛ در تصمیم‌های
+  مهم و پرخطر احتیاط کنید.\nhttps://t.me/FarsiHoroscope/
+ 23931\n\n🔴 اوج فشار و بیرون ریختن دردها\n۱۷ ت
+ ا ۲۷ آبان (8–18 Nov)\nدر این بازه هوشیار باشی
+ د، با خشم پاسخ ندهید و با افراد کنترل‌گر 
+ درگیر نشوید.\nhttps://t.me/FarsiHoroscope/23744\n\n🔴 دوره
+  فشار عطارد (جوزا، سنبله)\n۱۷ تا ۲۷ آبان (8
+ –18 Nov)\nدر این روزها مراقب رفتار و تصمیم‌
+ هایتان باشید و خودتان را کنترل کنید.\nhttps:/
+ /t.me/FarsiHoroscope/23750\n\n🔴 اوج تنش مرکوری برگشتی
+  و پلوتو (جوزا، سنبله، عقرب، ثور، دلو، اس
+ د)\n۱۷ تا ۲۷ آبان (8–18 Nov)\nدر این بازه امضای
+  قرارداد، گفتگوی مهم، سفر، امتحان و تحوی
+ ل مدارک را به تعویق بیندازید.\nhttps://t.me/FarsiHo
+ roscope/23754\n\n🔴 دوره دشوار در مرکوری برگشتی\n
+ ۱۷ تا ۲۷ آبان (8–18 Nov)\nAnother difficult stretch during the
+  retrograde\; postpone important signings\, trips or announcements if poss
+ ible.\nhttps://t.me/FarsiHoroscope/23790\n\n🔴 اوج فشار ذهنی 
+ و نگرانی\n۱۷ تا ۲۷ آبان (8–18 Nov)\nدر این روز
+ ها از افکار وسواسی و خودخوری دوری کنید و 
+ برای تصمیم‌های مهم عجله نکنید.\nhttps://t.me/Far
+ siHoroscope/23907\n\n🔴 اوج چالش انرژی در اواسط نو
+ امبر\n۱۹ تا ۲۹ آبان (10–20 Nov)\nThe peak of the challenge
+  falls around mid-November\; be most cautious with major money decisions a
+ nd loan commitments in this window.\nhttps://t.me/FarsiHoroscope/23861\n\n
+ 🔴 فشار سنگین نیمه ماه نوامبر\n۱۹ تا ۲۹ آب
+ ان (10–20 Nov)\nدر این بازه به فشار بیشتری آما
+ ده باشید و تصمیم‌های عجولانه را به بعد ا
+ ز آن موکول کنید. برای هر نشان، خورشید، ما
+ ه و رایزینگ را با هم در نظر بگیرید.\nhttps://t.m
+ e/FarsiHoroscope/23909\n\n🔴 خطر اختلال در سفرهای هو
+ ایی\n۱۹ تا ۲۹ آبان (10–20 Nov)\nدر این بازه پرو
+ از و سفر بین‌المللی را با احتیاط برنامه
+ ‌ریزی کنید و برای تغییر احتمالی آماده با
+ شید.\nhttps://t.me/FarsiHoroscope/23911\n\n🔴 دوره اثرگذار
+ ی پیوند سه‌گانه\n۱۸ تا ۲۹ آبان (9–20 Nov)\nدر 
+ این بازه احتمال تنش، خشم و درگیری میان ره
+ بران سیاسی بالاتر از معمول است؛ از تصمیم
+ ‌های تند و واکنش‌های هیجانی پرهیز کنید.
+ \nhttps://t.me/FarsiHoroscope/23931\n\n🔴 نیمه دوم نوامبر 
+ پرتنش و سریع\n۲۴ آبان تا ۹ آذر (15–30 Nov)\nTensio
+ n is expected to rise and events may move fast in the second half of Novem
+ ber\, so avoid rushed decisions.\nhttps://t.me/FarsiHoroscope/23912\n\n
+ 🔴 پرتنش‌ترین دوره سال ۲۰۲۶\n۱۷ آبان تا ۵
+  آذر (8–26 Nov)\nدر این بازه از تصمیم‌های بزر
+ گ و درگیری‌های تند پرهیز کن؛ احتمال تغیی
+ رات سیاسی هم هست.\nhttps://t.me/FarsiHoroscope/23821\n\n🔴 
+ نوسان سنگین در هفته‌های پیش رو\n۵ تا ۲۹ آ
+ بان (27 Oct – 20 Nov)\nExpect heavy swings in finance\, banking\, loa
+ ns\, insurance and resources\; avoid big financial bets and keep reserves 
+ liquid.\nhttps://t.me/FarsiHoroscope/23861\n\n🔴 فشار بالا در 
+ کل ماه آبان\n۱ تا ۳۰ آبان (23 Oct – 21 Nov)\nاین م
+ اه فشار زیادی وارد می‌شود؛ از تصمیم‌های
+  عجولانه و درگیری‌های بی‌دلیل پرهیز کن.
+ \nhttps://t.me/FarsiHoroscope/23846\n\n🔴 ماهی پرچالش و سخ
+ ت\n۱۰ آبان تا ۹ آذر (1–30 Nov)\nدر گفتار و رفتا
+ ر دقت و هوشیاری بیشتری داشته باشید.\nhttps://t
+ .me/FarsiHoroscope/23763\n\n🔴 صبر تا آخر نوامبر\n۱۰ آ
+ بان تا ۹ آذر (1–30 Nov)\nدرباره بازگشت رابطه
+ ‌های گذشته تا پایان نوامبر تصمیم قطعی نگ
+ یرید.\nhttps://t.me/FarsiHoroscope/23898\n\n🔴 اوج تنش و اح
+ تمال درگیری\n۱۰ آبان تا ۹ آذر (1–30 Nov)\nدر ک
+ ل این ماه احتمال جنگ، حمله و حوادث ناگهان
+ ی بیشتر است؛ از تصمیم‌های مهم و سفرهای پ
+ رریسک دوری کنید.\nhttps://t.me/FarsiHoroscope/23908\n\n🔴 
+ سختی برای کسانی که به انرژی‌های کهنه چسب
+ یده‌اند\n۱۰ آبان تا ۹ آذر (1–30 Nov)\nکسانی ک
+ ه کارمای قبلی را تمام نکرده و به انرژی‌ه
+ ای مرده وابسته‌اند، در این ماه با جدا شد
+ ن از آن رشته‌ها درگیر سختی خواهند بود.\nhtt
+ ps://t.me/FarsiHoroscope/23910\n\n🔴 احتمال زلزله و سیل 
+ بالاتر\n۱۰ آبان تا ۹ آذر (1–30 Nov)\nThe post warns of
+  a higher chance of earthquakes and floods this month\, so stay alert to o
+ fficial warnings.\nhttps://t.me/FarsiHoroscope/23912\n\n🔴 روزهای 
+ پرتنش و بی‌ثبات\n۳۰ مهر تا ۹ آذر (22 Oct – 30 N
+ ov)\nدر این بازه منتظر آرامش نباشید؛ از واک
+ نش هیجانی به تماس‌ها و یادآوری زخم‌های 
+ قدیمی دوری کنید.\nhttps://t.me/FarsiHoroscope/23768\n\n🔴 
+ بدرقه‌ها و خداحافظی‌های سنگین\n۲۴ آبان 
+ تا ۱۰ دی (15 Nov – 31 Dec)\nبرای پایان‌ها و جدای
+ ی‌های بازگشت‌ناپذیر آماده باش و آن‌ها 
+ را بپذیر.\nhttps://t.me/FarsiHoroscope/23815\n\n🔴 فشار بر 
+ چارت ترامپ\n۲۴ آبان تا ۱۰ دی (15 Nov – 31 Dec)\nThe
+  post says Trump's chart is under strong pressure in late November and Dec
+ ember\, which may bring danger\, health issues or sudden reactions.\nhttps
+ ://t.me/FarsiHoroscope/23912\n\n🔴 دوره پرتنش و متحول‌
+ کننده\n۲۴ آبان تا ۱۰ خرداد (15 Nov – 31 May)\nدر 
+ این بازه فشار روانی و جسمی بالاست؛ از تصم
+ یم‌های شتاب‌زده، کارهای پرخطر و سفرهای 
+ غیرضروری پرهیز کنید.\nhttps://t.me/FarsiHoroscope/23908\n
+ \n🔴 ادامه فشارهای قدرت تا تابستان\n۱۲ آبا
+ ن تا ۳۱ شهریور (3 Nov – 22 Sep)\nThe post says the power and 
+ economic pressures on Trump's chart will continue until summer 2027\, and 
+ events from November and December may return.\nhttps://t.me/FarsiHoroscope
+ /23912
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚪ تصمیم‌های قاطع پس از مستقیم شدن +۸
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:neutral_2026-11-16_2026-11-16@astro-calendar
 SEQUENCE:9
 DESCRIPTION:۲۵ آبان (16 Nov)\n\n⚪ تصمیم‌های قاطع پ
@@ -2209,63 +2698,72 @@ DESCRIPTION:۲۵ آبان (16 Nov)\n\n⚪ تصمیم‌های قاطع پ
  های عمومی مطرح شود.\nhttps://t.me/FarsiHoroscope/23907
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴 اوج فشار و بیرون ریختن دردها +۲۱
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261119
-DTSTAMP:20261104T201646Z
-UID:bad_2026-11-16_2026-11-18@astro-calendar
-SEQUENCE:22
-DESCRIPTION:۲۵ تا ۲۷ آبان (16–18 Nov)\n\n🔴 اوج فشار 
- و بیرون ریختن دردها\n۱۷ تا ۲۷ آبان (8–18 Nov)
- \nدر این بازه هوشیار باشید، با خشم پاسخ ند
- هید و با افراد کنترل‌گر درگیر نشوید.\nhttps:
- //t.me/FarsiHoroscope/23744\n\n🔴 دوره فشار عطارد (جوزا
- ، سنبله)\n۱۷ تا ۲۷ آبان (8–18 Nov)\nدر این روزه
- ا مراقب رفتار و تصمیم‌هایتان باشید و خود
- تان را کنترل کنید.\nhttps://t.me/FarsiHoroscope/23750\n\n
- 🔴 اوج تنش مرکوری برگشتی و پلوتو (جوزا، س
- نبله، عقرب، ثور، دلو، اسد)\n۱۷ تا ۲۷ آبان (
- 8–18 Nov)\nدر این بازه امضای قرارداد، گفتگوی
-  مهم، سفر، امتحان و تحویل مدارک را به تعو
- یق بیندازید.\nhttps://t.me/FarsiHoroscope/23754\n\n🔴 دوره
-  دشوار در مرکوری برگشتی\n۱۷ تا ۲۷ آبان (8–1
- 8 Nov)\nAnother difficult stretch during the retrograde\; postpone importa
- nt signings\, trips or announcements if possible.\nhttps://t.me/FarsiHoros
- cope/23790\n\n🔴 اوج فشار ذهنی و نگرانی\n۱۷ تا ۲
- ۷ آبان (8–18 Nov)\nدر این روزها از افکار وسوا
- سی و خودخوری دوری کنید و برای تصمیم‌های 
- مهم عجله نکنید.\nhttps://t.me/FarsiHoroscope/23907\n\n🔴 ا
- وج چالش انرژی در اواسط نوامبر\n۱۹ تا ۲۹ آب
- ان (10–20 Nov)\nThe peak of the challenge falls around mid-November\; 
- be most cautious with major money decisions and loan commitments in this w
- indow.\nhttps://t.me/FarsiHoroscope/23861\n\n🔴 فشار سنگین نی
- مه ماه نوامبر\n۱۹ تا ۲۹ آبان (10–20 Nov)\nدر ای
- ن بازه به فشار بیشتری آماده باشید و تصمیم
- ‌های عجولانه را به بعد از آن موکول کنید. 
- برای هر نشان، خورشید، ماه و رایزینگ را با
-  هم در نظر بگیرید.\nhttps://t.me/FarsiHoroscope/23909\n\n🔴
-  خطر اختلال در سفرهای هوایی\n۱۹ تا ۲۹ آبان
-  (10–20 Nov)\nدر این بازه پرواز و سفر بین‌الم
- للی را با احتیاط برنامه‌ریزی کنید و برای
-  تغییر احتمالی آماده باشید.\nhttps://t.me/FarsiHoros
- cope/23911\n\n🔴 نیمه دوم نوامبر پرتنش و سریع\n۲
- ۴ آبان تا ۹ آذر (15–30 Nov)\nTension is expected to rise and 
- events may move fast in the second half of November\, so avoid rushed deci
- sions.\nhttps://t.me/FarsiHoroscope/23912\n\n🔴 پرتنش‌ترین د
- وره سال ۲۰۲۶\n۱۷ آبان تا ۵ آذر (8–26 Nov)\nدر ا
- ین بازه از تصمیم‌های بزرگ و درگیری‌های 
- تند پرهیز کن؛ احتمال تغییرات سیاسی هم هس
- ت.\nhttps://t.me/FarsiHoroscope/23821\n\n🔴 نوسان سنگین در 
- هفته‌های پیش رو\n۵ تا ۲۹ آبان (27 Oct – 20 Nov)\n
- Expect heavy swings in finance\, banking\, loans\, insurance and resources
- \; avoid big financial bets and keep reserves liquid.\nhttps://t.me/FarsiH
- oroscope/23861\n\n🔴 فشار بالا در کل ماه آبان\n۱ ت
- ا ۳۰ آبان (23 Oct – 21 Nov)\nاین ماه فشار زیادی و
- ارد می‌شود؛ از تصمیم‌های عجولانه و درگی
- ری‌های بی‌دلیل پرهیز کن.\nhttps://t.me/FarsiHoroscop
- e/23846\n\n🔴 ماهی پرچالش و سخت\n۱۰ آبان تا ۹ آ
- ذر (1–30 Nov)\nدر گفتار و رفتار دقت و هوشیاری 
- بیشتری داشته باشید.\nhttps://t.me/FarsiHoroscope/23763\n\n
+SUMMARY:🔴 قوی‌ترین دوره پیوند سه‌گانه +۲۳
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+DTSTAMP:20261104T221631Z
+UID:bad_2026-11-17_2026-11-17@astro-calendar
+SEQUENCE:24
+DESCRIPTION:۲۶ آبان (17 Nov)\n\n🔴 قوی‌ترین دوره پی
+ وند سه‌گانه\n۲۱ تا ۲۶ آبان (12–17 Nov)\nاین چن
+ د روز بیشترین احتمال حمله، انفجار خشم و ب
+ حران را دارد؛ در تصمیم‌های مهم و پرخطر ا
+ حتیاط کنید.\nhttps://t.me/FarsiHoroscope/23931\n\n🔴 اوج ف
+ شار و بیرون ریختن دردها\n۱۷ تا ۲۷ آبان (8–1
+ 8 Nov)\nدر این بازه هوشیار باشید، با خشم پاس
+ خ ندهید و با افراد کنترل‌گر درگیر نشوید.
+ \nhttps://t.me/FarsiHoroscope/23744\n\n🔴 دوره فشار عطارد (
+ جوزا، سنبله)\n۱۷ تا ۲۷ آبان (8–18 Nov)\nدر این 
+ روزها مراقب رفتار و تصمیم‌هایتان باشید 
+ و خودتان را کنترل کنید.\nhttps://t.me/FarsiHoroscope/237
+ 50\n\n🔴 اوج تنش مرکوری برگشتی و پلوتو (جوزا
+ ، سنبله، عقرب، ثور، دلو، اسد)\n۱۷ تا ۲۷ آب
+ ان (8–18 Nov)\nدر این بازه امضای قرارداد، گفت
+ گوی مهم، سفر، امتحان و تحویل مدارک را به 
+ تعویق بیندازید.\nhttps://t.me/FarsiHoroscope/23754\n\n🔴 د
+ وره دشوار در مرکوری برگشتی\n۱۷ تا ۲۷ آبان 
+ (8–18 Nov)\nAnother difficult stretch during the retrograde\; postpone i
+ mportant signings\, trips or announcements if possible.\nhttps://t.me/Fars
+ iHoroscope/23790\n\n🔴 اوج فشار ذهنی و نگرانی\n۱۷ ت
+ ا ۲۷ آبان (8–18 Nov)\nدر این روزها از افکار وس
+ واسی و خودخوری دوری کنید و برای تصمیم‌ها
+ ی مهم عجله نکنید.\nhttps://t.me/FarsiHoroscope/23907\n\n🔴 
+ اوج چالش انرژی در اواسط نوامبر\n۱۹ تا ۲۹ آ
+ بان (10–20 Nov)\nThe peak of the challenge falls around mid-November
+ \; be most cautious with major money decisions and loan commitments in thi
+ s window.\nhttps://t.me/FarsiHoroscope/23861\n\n🔴 فشار سنگین 
+ نیمه ماه نوامبر\n۱۹ تا ۲۹ آبان (10–20 Nov)\nدر 
+ این بازه به فشار بیشتری آماده باشید و تصم
+ یم‌های عجولانه را به بعد از آن موکول کنی
+ د. برای هر نشان، خورشید، ماه و رایزینگ را 
+ با هم در نظر بگیرید.\nhttps://t.me/FarsiHoroscope/23909\n\n
+ 🔴 خطر اختلال در سفرهای هوایی\n۱۹ تا ۲۹ آب
+ ان (10–20 Nov)\nدر این بازه پرواز و سفر بین‌ا
+ لمللی را با احتیاط برنامه‌ریزی کنید و بر
+ ای تغییر احتمالی آماده باشید.\nhttps://t.me/FarsiH
+ oroscope/23911\n\n🔴 دوره اثرگذاری پیوند سه‌گان
+ ه\n۱۸ تا ۲۹ آبان (9–20 Nov)\nدر این بازه احتما
+ ل تنش، خشم و درگیری میان رهبران سیاسی بال
+ اتر از معمول است؛ از تصمیم‌های تند و واک
+ نش‌های هیجانی پرهیز کنید.\nhttps://t.me/FarsiHorosco
+ pe/23931\n\n🔴 نیمه دوم نوامبر پرتنش و سریع\n۲۴
+  آبان تا ۹ آذر (15–30 Nov)\nTension is expected to rise and ev
+ ents may move fast in the second half of November\, so avoid rushed decisi
+ ons.\nhttps://t.me/FarsiHoroscope/23912\n\n🔴 پرتنش‌ترین دو
+ ره سال ۲۰۲۶\n۱۷ آبان تا ۵ آذر (8–26 Nov)\nدر ای
+ ن بازه از تصمیم‌های بزرگ و درگیری‌های ت
+ ند پرهیز کن؛ احتمال تغییرات سیاسی هم هست.
+ \nhttps://t.me/FarsiHoroscope/23821\n\n🔴 نوسان سنگین در ه
+ فته‌های پیش رو\n۵ تا ۲۹ آبان (27 Oct – 20 Nov)\nEx
+ pect heavy swings in finance\, banking\, loans\, insurance and resources\;
+  avoid big financial bets and keep reserves liquid.\nhttps://t.me/FarsiHor
+ oscope/23861\n\n🔴 فشار بالا در کل ماه آبان\n۱ تا 
+ ۳۰ آبان (23 Oct – 21 Nov)\nاین ماه فشار زیادی وا
+ رد می‌شود؛ از تصمیم‌های عجولانه و درگیر
+ ی‌های بی‌دلیل پرهیز کن.\nhttps://t.me/FarsiHoroscope/
+ 23846\n\n🔴 ماهی پرچالش و سخت\n۱۰ آبان تا ۹ آذ
+ ر (1–30 Nov)\nدر گفتار و رفتار دقت و هوشیاری ب
+ یشتری داشته باشید.\nhttps://t.me/FarsiHoroscope/23763\n\n
  🔴 صبر تا آخر نوامبر\n۱۰ آبان تا ۹ آذر (1–30
   Nov)\nدرباره بازگشت رابطه‌های گذشته تا پا
  یان نوامبر تصمیم قطعی نگیرید.\nhttps://t.me/FarsiH
@@ -2308,7 +2806,7 @@ BEGIN:VEVENT
 SUMMARY:🟢 مستقیم شدن عطارد و ونوس +۲
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261121
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:good_2026-11-17_2026-11-20@astro-calendar
 SEQUENCE:3
 DESCRIPTION:۲۶ تا ۲۹ آبان (17–20 Nov)\n\n🟢 مستقیم ش
@@ -2332,7 +2830,7 @@ BEGIN:VEVENT
 SUMMARY:⚪ تصمیم‌های قاطع پس از مستقیم شدن +۷
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261121
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:neutral_2026-11-17_2026-11-20@astro-calendar
 SEQUENCE:8
 DESCRIPTION:۲۶ تا ۲۹ آبان (17–20 Nov)\n\n⚪ تصمیم‌ها
@@ -2372,12 +2870,113 @@ DESCRIPTION:۲۶ تا ۲۹ آبان (17–20 Nov)\n\n⚪ تصمیم‌ها
  های عمومی مطرح شود.\nhttps://t.me/FarsiHoroscope/23907
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔴 اوج چالش انرژی در اواسط نوامبر +۱۶
+SUMMARY:🔴 اوج فشار و بیرون ریختن دردها +۲۲
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+DTSTAMP:20261104T221631Z
+UID:bad_2026-11-18_2026-11-18@astro-calendar
+SEQUENCE:23
+DESCRIPTION:۲۷ آبان (18 Nov)\n\n🔴 اوج فشار و بیرون 
+ ریختن دردها\n۱۷ تا ۲۷ آبان (8–18 Nov)\nدر این 
+ بازه هوشیار باشید، با خشم پاسخ ندهید و با
+  افراد کنترل‌گر درگیر نشوید.\nhttps://t.me/FarsiHo
+ roscope/23744\n\n🔴 دوره فشار عطارد (جوزا، سنبله)
+ \n۱۷ تا ۲۷ آبان (8–18 Nov)\nدر این روزها مراقب 
+ رفتار و تصمیم‌هایتان باشید و خودتان را ک
+ نترل کنید.\nhttps://t.me/FarsiHoroscope/23750\n\n🔴 اوج تن
+ ش مرکوری برگشتی و پلوتو (جوزا، سنبله، عقر
+ ب، ثور، دلو، اسد)\n۱۷ تا ۲۷ آبان (8–18 Nov)\nدر
+  این بازه امضای قرارداد، گفتگوی مهم، سفر
+ ، امتحان و تحویل مدارک را به تعویق بینداز
+ ید.\nhttps://t.me/FarsiHoroscope/23754\n\n🔴 دوره دشوار در 
+ مرکوری برگشتی\n۱۷ تا ۲۷ آبان (8–18 Nov)\nAnother d
+ ifficult stretch during the retrograde\; postpone important signings\, tri
+ ps or announcements if possible.\nhttps://t.me/FarsiHoroscope/23790\n\n
+ 🔴 اوج فشار ذهنی و نگرانی\n۱۷ تا ۲۷ آبان (8
+ –18 Nov)\nدر این روزها از افکار وسواسی و خود
+ خوری دوری کنید و برای تصمیم‌های مهم عجله
+  نکنید.\nhttps://t.me/FarsiHoroscope/23907\n\n🔴 اوج چالش ا
+ نرژی در اواسط نوامبر\n۱۹ تا ۲۹ آبان (10–20 No
+ v)\nThe peak of the challenge falls around mid-November\; be most cautious
+  with major money decisions and loan commitments in this window.\nhttps://
+ t.me/FarsiHoroscope/23861\n\n🔴 فشار سنگین نیمه ماه نو
+ امبر\n۱۹ تا ۲۹ آبان (10–20 Nov)\nدر این بازه به
+  فشار بیشتری آماده باشید و تصمیم‌های عجو
+ لانه را به بعد از آن موکول کنید. برای هر ن
+ شان، خورشید، ماه و رایزینگ را با هم در نظ
+ ر بگیرید.\nhttps://t.me/FarsiHoroscope/23909\n\n🔴 خطر اخت
+ لال در سفرهای هوایی\n۱۹ تا ۲۹ آبان (10–20 Nov)
+ \nدر این بازه پرواز و سفر بین‌المللی را ب
+ ا احتیاط برنامه‌ریزی کنید و برای تغییر ا
+ حتمالی آماده باشید.\nhttps://t.me/FarsiHoroscope/23911\n\n
+ 🔴 دوره اثرگذاری پیوند سه‌گانه\n۱۸ تا ۲۹ 
+ آبان (9–20 Nov)\nدر این بازه احتمال تنش، خشم 
+ و درگیری میان رهبران سیاسی بالاتر از معم
+ ول است؛ از تصمیم‌های تند و واکنش‌های هی
+ جانی پرهیز کنید.\nhttps://t.me/FarsiHoroscope/23931\n\n🔴 
+ نیمه دوم نوامبر پرتنش و سریع\n۲۴ آبان تا ۹
+  آذر (15–30 Nov)\nTension is expected to rise and events may move fas
+ t in the second half of November\, so avoid rushed decisions.\nhttps://t.m
+ e/FarsiHoroscope/23912\n\n🔴 پرتنش‌ترین دوره سال ۲۰
+ ۲۶\n۱۷ آبان تا ۵ آذر (8–26 Nov)\nدر این بازه از
+  تصمیم‌های بزرگ و درگیری‌های تند پرهیز 
+ کن؛ احتمال تغییرات سیاسی هم هست.\nhttps://t.me/F
+ arsiHoroscope/23821\n\n🔴 نوسان سنگین در هفته‌های 
+ پیش رو\n۵ تا ۲۹ آبان (27 Oct – 20 Nov)\nExpect heavy swing
+ s in finance\, banking\, loans\, insurance and resources\; avoid big finan
+ cial bets and keep reserves liquid.\nhttps://t.me/FarsiHoroscope/23861\n\n
+ 🔴 فشار بالا در کل ماه آبان\n۱ تا ۳۰ آبان (2
+ 3 Oct – 21 Nov)\nاین ماه فشار زیادی وارد می‌شو
+ د؛ از تصمیم‌های عجولانه و درگیری‌های بی
+ ‌دلیل پرهیز کن.\nhttps://t.me/FarsiHoroscope/23846\n\n🔴 م
+ اهی پرچالش و سخت\n۱۰ آبان تا ۹ آذر (1–30 Nov)\n
+ در گفتار و رفتار دقت و هوشیاری بیشتری داش
+ ته باشید.\nhttps://t.me/FarsiHoroscope/23763\n\n🔴 صبر تا آ
+ خر نوامبر\n۱۰ آبان تا ۹ آذر (1–30 Nov)\nدرباره
+  بازگشت رابطه‌های گذشته تا پایان نوامبر 
+ تصمیم قطعی نگیرید.\nhttps://t.me/FarsiHoroscope/23898\n\n
+ 🔴 اوج تنش و احتمال درگیری\n۱۰ آبان تا ۹ آ
+ ذر (1–30 Nov)\nدر کل این ماه احتمال جنگ، حمله 
+ و حوادث ناگهانی بیشتر است؛ از تصمیم‌های 
+ مهم و سفرهای پرریسک دوری کنید.\nhttps://t.me/Farsi
+ Horoscope/23908\n\n🔴 سختی برای کسانی که به انرژی
+ ‌های کهنه چسبیده‌اند\n۱۰ آبان تا ۹ آذر (1
+ –30 Nov)\nکسانی که کارمای قبلی را تمام نکرده
+  و به انرژی‌های مرده وابسته‌اند، در این 
+ ماه با جدا شدن از آن رشته‌ها درگیر سختی خ
+ واهند بود.\nhttps://t.me/FarsiHoroscope/23910\n\n🔴 احتمال
+  زلزله و سیل بالاتر\n۱۰ آبان تا ۹ آذر (1–30 N
+ ov)\nThe post warns of a higher chance of earthquakes and floods this mont
+ h\, so stay alert to official warnings.\nhttps://t.me/FarsiHoroscope/23912
+ \n\n🔴 روزهای پرتنش و بی‌ثبات\n۳۰ مهر تا ۹ 
+ آذر (22 Oct – 30 Nov)\nدر این بازه منتظر آرامش ن
+ باشید؛ از واکنش هیجانی به تماس‌ها و یادآ
+ وری زخم‌های قدیمی دوری کنید.\nhttps://t.me/FarsiHo
+ roscope/23768\n\n🔴 بدرقه‌ها و خداحافظی‌های سن
+ گین\n۲۴ آبان تا ۱۰ دی (15 Nov – 31 Dec)\nبرای پای
+ ان‌ها و جدایی‌های بازگشت‌ناپذیر آماده 
+ باش و آن‌ها را بپذیر.\nhttps://t.me/FarsiHoroscope/23815
+ \n\n🔴 فشار بر چارت ترامپ\n۲۴ آبان تا ۱۰ دی (
+ 15 Nov – 31 Dec)\nThe post says Trump's chart is under strong pressure i
+ n late November and December\, which may bring danger\, health issues or s
+ udden reactions.\nhttps://t.me/FarsiHoroscope/23912\n\n🔴 دوره پر
+ تنش و متحول‌کننده\n۲۴ آبان تا ۱۰ خرداد (15 
+ Nov – 31 May)\nدر این بازه فشار روانی و جسمی با
+ لاست؛ از تصمیم‌های شتاب‌زده، کارهای پر
+ خطر و سفرهای غیرضروری پرهیز کنید.\nhttps://t.me
+ /FarsiHoroscope/23908\n\n🔴 ادامه فشارهای قدرت تا تا
+ بستان\n۱۲ آبان تا ۳۱ شهریور (3 Nov – 22 Sep)\nThe p
+ ost says the power and economic pressures on Trump's chart will continue u
+ ntil summer 2027\, and events from November and December may return.\nhttp
+ s://t.me/FarsiHoroscope/23912
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔴 اوج چالش انرژی در اواسط نوامبر +۱۷
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261121
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:bad_2026-11-19_2026-11-20@astro-calendar
-SEQUENCE:17
+SEQUENCE:18
 DESCRIPTION:۲۸ تا ۲۹ آبان (19–20 Nov)\n\n🔴 اوج چالش 
  انرژی در اواسط نوامبر\n۱۹ تا ۲۹ آبان (10–20 
  Nov)\nThe peak of the challenge falls around mid-November\; be most cautio
@@ -2392,67 +2991,72 @@ DESCRIPTION:۲۸ تا ۲۹ آبان (19–20 Nov)\n\n🔴 اوج چالش
  v)\nدر این بازه پرواز و سفر بین‌المللی را 
  با احتیاط برنامه‌ریزی کنید و برای تغییر 
  احتمالی آماده باشید.\nhttps://t.me/FarsiHoroscope/23911\n
- \n🔴 نیمه دوم نوامبر پرتنش و سریع\n۲۴ آبان 
- تا ۹ آذر (15–30 Nov)\nTension is expected to rise and events may m
- ove fast in the second half of November\, so avoid rushed decisions.\nhttp
- s://t.me/FarsiHoroscope/23912\n\n🔴 پرتنش‌ترین دوره سا
- ل ۲۰۲۶\n۱۷ آبان تا ۵ آذر (8–26 Nov)\nدر این باز
- ه از تصمیم‌های بزرگ و درگیری‌های تند پر
- هیز کن؛ احتمال تغییرات سیاسی هم هست.\nhttps:/
- /t.me/FarsiHoroscope/23821\n\n🔴 نوسان سنگین در هفته‌
- های پیش رو\n۵ تا ۲۹ آبان (27 Oct – 20 Nov)\nExpect heav
- y swings in finance\, banking\, loans\, insurance and resources\; avoid bi
- g financial bets and keep reserves liquid.\nhttps://t.me/FarsiHoroscope/23
- 861\n\n🔴 فشار بالا در کل ماه آبان\n۱ تا ۳۰ آب
- ان (23 Oct – 21 Nov)\nاین ماه فشار زیادی وارد می
- ‌شود؛ از تصمیم‌های عجولانه و درگیری‌ها
- ی بی‌دلیل پرهیز کن.\nhttps://t.me/FarsiHoroscope/23846\n\n
- 🔴 ماهی پرچالش و سخت\n۱۰ آبان تا ۹ آذر (1–30
-  Nov)\nدر گفتار و رفتار دقت و هوشیاری بیشتری
-  داشته باشید.\nhttps://t.me/FarsiHoroscope/23763\n\n🔴 صبر 
- تا آخر نوامبر\n۱۰ آبان تا ۹ آذر (1–30 Nov)\nدر
- باره بازگشت رابطه‌های گذشته تا پایان نو
- امبر تصمیم قطعی نگیرید.\nhttps://t.me/FarsiHoroscope/23
- 898\n\n🔴 اوج تنش و احتمال درگیری\n۱۰ آبان تا
-  ۹ آذر (1–30 Nov)\nدر کل این ماه احتمال جنگ، ح
- مله و حوادث ناگهانی بیشتر است؛ از تصمیم‌
- های مهم و سفرهای پرریسک دوری کنید.\nhttps://t.m
- e/FarsiHoroscope/23908\n\n🔴 سختی برای کسانی که به ان
- رژی‌های کهنه چسبیده‌اند\n۱۰ آبان تا ۹ آذ
- ر (1–30 Nov)\nکسانی که کارمای قبلی را تمام نک
- رده و به انرژی‌های مرده وابسته‌اند، در 
- این ماه با جدا شدن از آن رشته‌ها درگیر سخ
- تی خواهند بود.\nhttps://t.me/FarsiHoroscope/23910\n\n🔴 اح
- تمال زلزله و سیل بالاتر\n۱۰ آبان تا ۹ آذر (
- 1–30 Nov)\nThe post warns of a higher chance of earthquakes and floods t
- his month\, so stay alert to official warnings.\nhttps://t.me/FarsiHorosco
- pe/23912\n\n🔴 روزهای پرتنش و بی‌ثبات\n۳۰ مهر 
- تا ۹ آذر (22 Oct – 30 Nov)\nدر این بازه منتظر آرا
- مش نباشید؛ از واکنش هیجانی به تماس‌ها و 
- یادآوری زخم‌های قدیمی دوری کنید.\nhttps://t.me
- /FarsiHoroscope/23768\n\n🔴 بدرقه‌ها و خداحافظی‌ها
- ی سنگین\n۲۴ آبان تا ۱۰ دی (15 Nov – 31 Dec)\nبرای 
- پایان‌ها و جدایی‌های بازگشت‌ناپذیر آم
- اده باش و آن‌ها را بپذیر.\nhttps://t.me/FarsiHoroscope
- /23815\n\n🔴 فشار بر چارت ترامپ\n۲۴ آبان تا ۱۰ 
- دی (15 Nov – 31 Dec)\nThe post says Trump's chart is under strong pres
- sure in late November and December\, which may bring danger\, health issue
- s or sudden reactions.\nhttps://t.me/FarsiHoroscope/23912\n\n🔴 دوره
-  پرتنش و متحول‌کننده\n۲۴ آبان تا ۱۰ خرداد
-  (15 Nov – 31 May)\nدر این بازه فشار روانی و جسمی
-  بالاست؛ از تصمیم‌های شتاب‌زده، کارهای 
- پرخطر و سفرهای غیرضروری پرهیز کنید.\nhttps://
- t.me/FarsiHoroscope/23908\n\n🔴 ادامه فشارهای قدرت تا 
- تابستان\n۱۲ آبان تا ۳۱ شهریور (3 Nov – 22 Sep)\nT
- he post says the power and economic pressures on Trump's chart will contin
- ue until summer 2027\, and events from November and December may return.\n
- https://t.me/FarsiHoroscope/23912
+ \n🔴 دوره اثرگذاری پیوند سه‌گانه\n۱۸ تا ۲
+ ۹ آبان (9–20 Nov)\nدر این بازه احتمال تنش، خش
+ م و درگیری میان رهبران سیاسی بالاتر از مع
+ مول است؛ از تصمیم‌های تند و واکنش‌های ه
+ یجانی پرهیز کنید.\nhttps://t.me/FarsiHoroscope/23931\n\n🔴
+  نیمه دوم نوامبر پرتنش و سریع\n۲۴ آبان تا 
+ ۹ آذر (15–30 Nov)\nTension is expected to rise and events may move f
+ ast in the second half of November\, so avoid rushed decisions.\nhttps://t
+ .me/FarsiHoroscope/23912\n\n🔴 پرتنش‌ترین دوره سال ۲
+ ۰۲۶\n۱۷ آبان تا ۵ آذر (8–26 Nov)\nدر این بازه ا
+ ز تصمیم‌های بزرگ و درگیری‌های تند پرهیز
+  کن؛ احتمال تغییرات سیاسی هم هست.\nhttps://t.me/
+ FarsiHoroscope/23821\n\n🔴 نوسان سنگین در هفته‌های 
+ پیش رو\n۵ تا ۲۹ آبان (27 Oct – 20 Nov)\nExpect heavy swing
+ s in finance\, banking\, loans\, insurance and resources\; avoid big finan
+ cial bets and keep reserves liquid.\nhttps://t.me/FarsiHoroscope/23861\n\n
+ 🔴 فشار بالا در کل ماه آبان\n۱ تا ۳۰ آبان (2
+ 3 Oct – 21 Nov)\nاین ماه فشار زیادی وارد می‌شو
+ د؛ از تصمیم‌های عجولانه و درگیری‌های بی
+ ‌دلیل پرهیز کن.\nhttps://t.me/FarsiHoroscope/23846\n\n🔴 م
+ اهی پرچالش و سخت\n۱۰ آبان تا ۹ آذر (1–30 Nov)\n
+ در گفتار و رفتار دقت و هوشیاری بیشتری داش
+ ته باشید.\nhttps://t.me/FarsiHoroscope/23763\n\n🔴 صبر تا آ
+ خر نوامبر\n۱۰ آبان تا ۹ آذر (1–30 Nov)\nدرباره
+  بازگشت رابطه‌های گذشته تا پایان نوامبر 
+ تصمیم قطعی نگیرید.\nhttps://t.me/FarsiHoroscope/23898\n\n
+ 🔴 اوج تنش و احتمال درگیری\n۱۰ آبان تا ۹ آ
+ ذر (1–30 Nov)\nدر کل این ماه احتمال جنگ، حمله 
+ و حوادث ناگهانی بیشتر است؛ از تصمیم‌های 
+ مهم و سفرهای پرریسک دوری کنید.\nhttps://t.me/Farsi
+ Horoscope/23908\n\n🔴 سختی برای کسانی که به انرژی
+ ‌های کهنه چسبیده‌اند\n۱۰ آبان تا ۹ آذر (1
+ –30 Nov)\nکسانی که کارمای قبلی را تمام نکرده
+  و به انرژی‌های مرده وابسته‌اند، در این 
+ ماه با جدا شدن از آن رشته‌ها درگیر سختی خ
+ واهند بود.\nhttps://t.me/FarsiHoroscope/23910\n\n🔴 احتمال
+  زلزله و سیل بالاتر\n۱۰ آبان تا ۹ آذر (1–30 N
+ ov)\nThe post warns of a higher chance of earthquakes and floods this mont
+ h\, so stay alert to official warnings.\nhttps://t.me/FarsiHoroscope/23912
+ \n\n🔴 روزهای پرتنش و بی‌ثبات\n۳۰ مهر تا ۹ 
+ آذر (22 Oct – 30 Nov)\nدر این بازه منتظر آرامش ن
+ باشید؛ از واکنش هیجانی به تماس‌ها و یادآ
+ وری زخم‌های قدیمی دوری کنید.\nhttps://t.me/FarsiHo
+ roscope/23768\n\n🔴 بدرقه‌ها و خداحافظی‌های سن
+ گین\n۲۴ آبان تا ۱۰ دی (15 Nov – 31 Dec)\nبرای پای
+ ان‌ها و جدایی‌های بازگشت‌ناپذیر آماده 
+ باش و آن‌ها را بپذیر.\nhttps://t.me/FarsiHoroscope/23815
+ \n\n🔴 فشار بر چارت ترامپ\n۲۴ آبان تا ۱۰ دی (
+ 15 Nov – 31 Dec)\nThe post says Trump's chart is under strong pressure i
+ n late November and December\, which may bring danger\, health issues or s
+ udden reactions.\nhttps://t.me/FarsiHoroscope/23912\n\n🔴 دوره پر
+ تنش و متحول‌کننده\n۲۴ آبان تا ۱۰ خرداد (15 
+ Nov – 31 May)\nدر این بازه فشار روانی و جسمی با
+ لاست؛ از تصمیم‌های شتاب‌زده، کارهای پر
+ خطر و سفرهای غیرضروری پرهیز کنید.\nhttps://t.me
+ /FarsiHoroscope/23908\n\n🔴 ادامه فشارهای قدرت تا تا
+ بستان\n۱۲ آبان تا ۳۱ شهریور (3 Nov – 22 Sep)\nThe p
+ ost says the power and economic pressures on Trump's chart will continue u
+ ntil summer 2027\, and events from November and December may return.\nhttp
+ s://t.me/FarsiHoroscope/23912
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🔴 نیمه دوم نوامبر پرتنش و سریع +۱۲
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:bad_2026-11-21_2026-11-21@astro-calendar
 SEQUENCE:13
 DESCRIPTION:۳۰ آبان (21 Nov)\n\n🔴 نیمه دوم نوامبر پ
@@ -2512,7 +3116,7 @@ BEGIN:VEVENT
 SUMMARY:🟢 فضای باز برای انرژی‌های مطلوب +۱
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:good_2026-11-21_2026-11-21@astro-calendar
 SEQUENCE:2
 DESCRIPTION:۳۰ آبان (21 Nov)\n\n🟢 فضای باز برای انر
@@ -2531,7 +3135,7 @@ BEGIN:VEVENT
 SUMMARY:⚪ زمان بررسی ادامه ماجرا +۶
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:neutral_2026-11-21_2026-11-21@astro-calendar
 SEQUENCE:7
 DESCRIPTION:۳۰ آبان (21 Nov)\n\n⚪ زمان بررسی ادامه 
@@ -2569,7 +3173,7 @@ BEGIN:VEVENT
 SUMMARY:🟢 ملاقات دوم ونوس و اسپایکا +۲
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261124
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:good_2026-11-22_2026-11-23@astro-calendar
 SEQUENCE:3
 DESCRIPTION:۱ تا ۲ آذر (22–23 Nov)\n\n🟢 ملاقات دوم و
@@ -2592,7 +3196,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 نیمه دوم نوامبر پرتنش و سریع +۱۱
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261127
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:bad_2026-11-22_2026-11-26@astro-calendar
 SEQUENCE:12
 DESCRIPTION:۱ تا ۵ آذر (22–26 Nov)\n\n🔴 نیمه دوم نوا
@@ -2648,7 +3252,7 @@ BEGIN:VEVENT
 SUMMARY:⚪ زمان بررسی ادامه ماجرا +۲
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261201
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:neutral_2026-11-22_2026-11-30@astro-calendar
 SEQUENCE:3
 DESCRIPTION:۱ تا ۹ آذر (22–30 Nov)\n\n⚪ زمان بررسی ا
@@ -2670,7 +3274,7 @@ BEGIN:VEVENT
 SUMMARY:🟢 فضای باز برای انرژی‌های مطلوب +۱
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:good_2026-11-24_2026-11-27@astro-calendar
 SEQUENCE:2
 DESCRIPTION:۳ تا ۶ آذر (24–27 Nov)\n\n🟢 فضای باز برا
@@ -2689,7 +3293,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 نیمه دوم نوامبر پرتنش و سریع +۱۰
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261201
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:bad_2026-11-27_2026-11-30@astro-calendar
 SEQUENCE:11
 DESCRIPTION:۶ تا ۹ آذر (27–30 Nov)\n\n🔴 نیمه دوم نوا
@@ -2741,7 +3345,7 @@ BEGIN:VEVENT
 SUMMARY:🟢 زمان تصمیم‌گیری و پیشرفت +۲
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:good_2026-11-28_2026-11-28@astro-calendar
 SEQUENCE:3
 DESCRIPTION:۷ آذر (28 Nov)\n\n🟢 زمان تصمیم‌گیری و 
@@ -2763,7 +3367,7 @@ BEGIN:VEVENT
 SUMMARY:🟢 فضای باز برای انرژی‌های مطلوب +۱
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261201
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:good_2026-11-29_2026-11-30@astro-calendar
 SEQUENCE:2
 DESCRIPTION:۸ تا ۹ آذر (29–30 Nov)\n\n🟢 فضای باز برا
@@ -2782,7 +3386,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 سومین مربع ونوس و پلوتو +۵
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:bad_2026-12-01_2026-12-09@astro-calendar
 SEQUENCE:6
 DESCRIPTION:۱۰ تا ۱۸ آذر (1–9 Dec)\n\n🔴 سومین مربع 
@@ -2815,7 +3419,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 سومین مربع ونوس و پلوتو +۶
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:bad_2026-12-10_2026-12-31@astro-calendar
 SEQUENCE:7
 DESCRIPTION:۱۹ آذر تا ۱۰ دی (10–31 Dec)\n\n🔴 سومین م
@@ -2853,7 +3457,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 گره‌خوردن مریخ و مشتری در اسد +۲
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270201
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:bad_2027-01-01_2027-01-31@astro-calendar
 SEQUENCE:3
 DESCRIPTION:۱۱ دی تا ۱۱ بهمن (1–31 Jan)\n\n🔴 گره‌خ
@@ -2875,7 +3479,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 اوج انرژی‌های متحول‌کننده +۳
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270301
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:bad_2027-02-01_2027-02-28@astro-calendar
 SEQUENCE:4
 DESCRIPTION:۱۲ بهمن تا ۹ اسفند (1–28 Feb)\n\n🔴 اوج 
@@ -2901,7 +3505,7 @@ BEGIN:VEVENT
 SUMMARY:⚪ ادامه داستان تا فوریه +۱
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270301
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:neutral_2027-02-01_2027-02-28@astro-calendar
 SEQUENCE:2
 DESCRIPTION:۱۲ بهمن تا ۹ اسفند (1–28 Feb)\n\n⚪ ادام
@@ -2919,7 +3523,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 اوج تنش و آشفتگی +۳
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270401
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:bad_2027-03-01_2027-03-31@astro-calendar
 SEQUENCE:4
 DESCRIPTION:۱۰ اسفند تا ۱۱ فروردین (1–31 Mar)\n\n🔴 
@@ -2945,7 +3549,7 @@ BEGIN:VEVENT
 SUMMARY:⚪ مریخ در لئو؛ هدایت انرژی به خلاقیت
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270516
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:neutral_2027-03-01_2027-05-15@astro-calendar
 SEQUENCE:1
 DESCRIPTION:۱۰ اسفند تا ۲۵ اردیبهشت (1 Mar – 15 May)
@@ -2960,7 +3564,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 دوره پرتنش و متحول‌کننده +۱
 DTSTART;VALUE=DATE:20270401
 DTEND;VALUE=DATE:20270601
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:bad_2027-04-01_2027-05-31@astro-calendar
 SEQUENCE:2
 DESCRIPTION:۱۲ فروردین تا ۱۰ خرداد (1 Apr – 31 May)\n
@@ -2978,7 +3582,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 ادامه فشارهای قدرت تا تابستان
 DTSTART;VALUE=DATE:20270601
 DTEND;VALUE=DATE:20270923
-DTSTAMP:20261104T201646Z
+DTSTAMP:20261104T221631Z
 UID:bad_2027-06-01_2027-09-22@astro-calendar
 SEQUENCE:1
 DESCRIPTION:۱۱ خرداد تا ۳۱ شهریور (1 Jun – 22 Sep)\n\n
