@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:⚪ ماه روشن شدن پنهان‌ها
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20261021
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:neutral_2026-09-23_2026-10-20@astro-calendar
 SEQUENCE:1
 DESCRIPTION:۱ تا ۲۸ مهر (23 Sep – 20 Oct)\n\n⚪ ماه روشن
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 انرژی سنگین برای نشان‌های ثابت
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261021
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:bad_2026-10-19_2026-10-20@astro-calendar
 SEQUENCE:1
 DESCRIPTION:۲۷ تا ۲۸ مهر (19–20 Oct)\n\n🔴 انرژی سنگ
@@ -34,7 +34,7 @@ SUMMARY:⚪ دوره درون‌نگری و مواجهه با زخم‌ه
  ا +۱
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:neutral_2026-10-21_2026-10-21@astro-calendar
 SEQUENCE:2
 DESCRIPTION:۲۹ مهر (21 Oct)\n\n⚪ دوره درون‌نگری و م
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 روابط پرتنش و داغ +۳
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:bad_2026-10-22_2026-10-22@astro-calendar
 SEQUENCE:4
 DESCRIPTION:۳۰ مهر (22 Oct)\n\n🔴 روابط پرتنش و داغ\n
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:⚪ آخرین روز خورشید در ترازو +۳
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:neutral_2026-10-22_2026-10-22@astro-calendar
 SEQUENCE:4
 DESCRIPTION:۳۰ مهر (22 Oct)\n\n⚪ آخرین روز خورشید د
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 فشار انرژی بسیار بالا +۶
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:bad_2026-10-23_2026-10-23@astro-calendar
 SEQUENCE:7
 DESCRIPTION:۱ آبان (23 Oct)\n\n🔴 فشار انرژی بسیار ب
@@ -134,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:⚪ ورود خورشید به عقرب +۶
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:neutral_2026-10-23_2026-10-23@astro-calendar
 SEQUENCE:7
 DESCRIPTION:۱ آبان (23 Oct)\n\n⚪ ورود خورشید به عقر
@@ -172,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 آغاز مرکوری برگشتی +۱۰
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:bad_2026-10-24_2026-10-24@astro-calendar
 SEQUENCE:11
 DESCRIPTION:۲ آبان (24 Oct)\n\n🔴 آغاز مرکوری برگشت
@@ -224,7 +224,7 @@ BEGIN:VEVENT
 SUMMARY:⚪ کازیمی ونوس در عقرب +۸
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:neutral_2026-10-24_2026-10-24@astro-calendar
 SEQUENCE:9
 DESCRIPTION:۲ آبان (24 Oct)\n\n⚪ کازیمی ونوس در عقر
@@ -270,7 +270,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 فشار انرژی بسیار بالا +۱۰
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:bad_2026-10-25_2026-10-25@astro-calendar
 SEQUENCE:11
 DESCRIPTION:۳ آبان (25 Oct)\n\n🔴 فشار انرژی بسیار ب
@@ -321,7 +321,7 @@ BEGIN:VEVENT
 SUMMARY:⚪ ونوس برگشتی وارد ترازو +۸
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:neutral_2026-10-25_2026-10-25@astro-calendar
 SEQUENCE:9
 DESCRIPTION:۳ آبان (25 Oct)\n\n⚪ ونوس برگشتی وارد ت
@@ -368,7 +368,7 @@ SUMMARY:🔴 ماه کامل و احتمال تنش و بلایای طبی
  عی +۱۲
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:bad_2026-10-26_2026-10-26@astro-calendar
 SEQUENCE:13
 DESCRIPTION:۴ آبان (26 Oct)\n\n🔴 ماه کامل و احتمال 
@@ -429,7 +429,7 @@ BEGIN:VEVENT
 SUMMARY:🟢 روز آرامش و کندی
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:good_2026-10-26_2026-10-26@astro-calendar
 SEQUENCE:1
 DESCRIPTION:۴ آبان (26 Oct)\n\n🟢 روز آرامش و کندی\n۴
@@ -441,7 +441,7 @@ BEGIN:VEVENT
 SUMMARY:⚪ ماه کامل و امور مالی +۹
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:neutral_2026-10-26_2026-10-26@astro-calendar
 SEQUENCE:10
 DESCRIPTION:۴ آبان (26 Oct)\n\n⚪ ماه کامل و امور مال
@@ -491,7 +491,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 فوران احساسی بعد از ماه کامل +۱۲
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261029
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:bad_2026-10-27_2026-10-28@astro-calendar
 SEQUENCE:13
 DESCRIPTION:۵ تا ۶ آبان (27–28 Oct)\n\n🔴 فوران احسا
@@ -551,7 +551,7 @@ BEGIN:VEVENT
 SUMMARY:🟢 فرصت التیام در روابط +۱
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261029
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:good_2026-10-27_2026-10-28@astro-calendar
 SEQUENCE:2
 DESCRIPTION:۵ تا ۶ آبان (27–28 Oct)\n\n🟢 فرصت التیا
@@ -570,7 +570,7 @@ BEGIN:VEVENT
 SUMMARY:⚪ دوره پوست‌اندازی و تخلیه درونی +۸
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:neutral_2026-10-27_2026-10-31@astro-calendar
 SEQUENCE:9
 DESCRIPTION:۵ تا ۹ آبان (27–31 Oct)\n\n⚪ دوره پوست‌
@@ -616,7 +616,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 هفته سخت مرکوری برگشتی +۱۰
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:bad_2026-10-29_2026-10-29@astro-calendar
 SEQUENCE:11
 DESCRIPTION:۷ آبان (29 Oct)\n\n🔴 هفته سخت مرکوری بر
@@ -668,7 +668,7 @@ BEGIN:VEVENT
 SUMMARY:🟢 فرصت ترمیم زخم‌های عاطفی
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:good_2026-10-29_2026-10-29@astro-calendar
 SEQUENCE:1
 DESCRIPTION:۷ آبان (29 Oct)\n\n🟢 فرصت ترمیم زخم‌ها
@@ -682,7 +682,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 تنش مرکوری برگشتی با مریخ +۱۳
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:bad_2026-10-30_2026-10-30@astro-calendar
 SEQUENCE:14
 DESCRIPTION:۸ آبان (30 Oct)\n\n🔴 تنش مرکوری برگشتی 
@@ -746,7 +746,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 امضای قرارداد در ۲۴ ساعت آینده +۱۱
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:bad_2026-10-31_2026-10-31@astro-calendar
 SEQUENCE:12
 DESCRIPTION:۹ آبان (31 Oct)\n\n🔴 امضای قرارداد در ۲
@@ -801,7 +801,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 دو هفته تنش بالقوه بالا +۱۳
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:bad_2026-11-01_2026-11-01@astro-calendar
 SEQUENCE:14
 DESCRIPTION:۱۰ آبان (1 Nov)\n\n🔴 دو هفته تنش بالقو
@@ -862,25 +862,29 @@ DESCRIPTION:۱۰ آبان (1 Nov)\n\n🔴 دو هفته تنش بالقو
  ‌های قدیمی دوری کنید.\nhttps://t.me/FarsiHoroscope/23768
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🟢 فضای باز برای انرژی‌های مطلوب
+SUMMARY:🟢 فضای باز برای انرژی‌های مطلوب +۱
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261104
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:good_2026-11-01_2026-11-03@astro-calendar
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:۱۰ تا ۱۲ آبان (1–3 Nov)\n\n🟢 فضای باز ب
  رای انرژی‌های مطلوب\n۱۰ آبان تا ۹ آذر (1–3
  0 Nov)\nکسانی که رفتنی‌ها را پذیرفته و به مو
  ج جدایی نچسبیده‌اند، در این ماه می‌توان
  ند از کارمای نیک گذشته‌شان برای ورود انر
  ژی‌های خوب بهره ببرند.\nhttps://t.me/FarsiHoroscope/239
- 10
+ 10\n\n🟢 زمان مناسب برای بررسی احساسات\n۱۰ آ
+ بان تا ۹ آذر (1–30 Nov)\nدر نوامبر می‌توانید 
+ احساساتی را که در تابستان روشن نشد، با دی
+ د عمیق‌تری دوباره بررسی کنید.\nhttps://t.me/Farsi
+ Horoscope/23927
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚪ نیمه اول نوامبر آرام +۱۰
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261104
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:neutral_2026-11-01_2026-11-03@astro-calendar
 SEQUENCE:11
 DESCRIPTION:۱۰ تا ۱۲ آبان (1–3 Nov)\n\n⚪ نیمه اول ن
@@ -933,7 +937,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 اتصال ماه و مریخ در لئو +۱۵
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:bad_2026-11-02_2026-11-02@astro-calendar
 SEQUENCE:16
 DESCRIPTION:۱۱ آبان (2 Nov)\n\n🔴 اتصال ماه و مریخ د
@@ -1006,7 +1010,7 @@ SUMMARY:🔴 دوره برگشتی؛ پرهیز از برون‌ریزی
  هیجانات +۱۶
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:bad_2026-11-03_2026-11-03@astro-calendar
 SEQUENCE:17
 DESCRIPTION:۱۲ آبان (3 Nov)\n\n🔴 دوره برگشتی؛ پرهی
@@ -1081,12 +1085,12 @@ DESCRIPTION:۱۲ آبان (3 Nov)\n\n🔴 دوره برگشتی؛ پرهی
  pe/23912
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🟢 گفتگوی صادقانه از قلب +۴
+SUMMARY:🟢 گفتگوی صادقانه از قلب +۵
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:good_2026-11-04_2026-11-04@astro-calendar
-SEQUENCE:5
+SEQUENCE:6
 DESCRIPTION:۱۳ آبان (4 Nov)\n\n🟢 گفتگوی صادقانه از
   قلب\n۱۳ آبان (4 Nov)\nدر این روز می‌توانید ب
  ا صداقت و بدون خودخواهی با طرف مقابل صحبت
@@ -1105,13 +1109,18 @@ DESCRIPTION:۱۳ آبان (4 Nov)\n\n🟢 گفتگوی صادقانه از
  نی که رفتنی‌ها را پذیرفته و به موج جدایی 
  نچسبیده‌اند، در این ماه می‌توانند از کا
  رمای نیک گذشته‌شان برای ورود انرژی‌های 
- خوب بهره ببرند.\nhttps://t.me/FarsiHoroscope/23910
+ خوب بهره ببرند.\nhttps://t.me/FarsiHoroscope/23910\n\n🟢 ز
+ مان مناسب برای بررسی احساسات\n۱۰ آبان تا 
+ ۹ آذر (1–30 Nov)\nدر نوامبر می‌توانید احساسا
+ تی را که در تابستان روشن نشد، با دید عمیق
+ ‌تری دوباره بررسی کنید.\nhttps://t.me/FarsiHoroscope/2
+ 3927
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚪ کازیمی مرکوری برگشتی در عقرب +۱۱
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:neutral_2026-11-04_2026-11-04@astro-calendar
 SEQUENCE:12
 DESCRIPTION:۱۳ آبان (4 Nov)\n\n⚪ کازیمی مرکوری برگ
@@ -1170,7 +1179,7 @@ SUMMARY:🔴 دوره برگشتی؛ پرهیز از برون‌ریزی
  هیجانات +۱۷
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:bad_2026-11-04_2026-11-05@astro-calendar
 SEQUENCE:18
 DESCRIPTION:۱۳ تا ۱۴ آبان (4–5 Nov)\n\n🔴 دوره برگش
@@ -1249,25 +1258,29 @@ DESCRIPTION:۱۳ تا ۱۴ آبان (4–5 Nov)\n\n🔴 دوره برگش
  from November and December may return.\nhttps://t.me/FarsiHoroscope/23912
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🟢 فضای باز برای انرژی‌های مطلوب
+SUMMARY:🟢 فضای باز برای انرژی‌های مطلوب +۱
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261110
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:good_2026-11-05_2026-11-09@astro-calendar
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:۱۴ تا ۱۸ آبان (5–9 Nov)\n\n🟢 فضای باز ب
  رای انرژی‌های مطلوب\n۱۰ آبان تا ۹ آذر (1–3
  0 Nov)\nکسانی که رفتنی‌ها را پذیرفته و به مو
  ج جدایی نچسبیده‌اند، در این ماه می‌توان
  ند از کارمای نیک گذشته‌شان برای ورود انر
  ژی‌های خوب بهره ببرند.\nhttps://t.me/FarsiHoroscope/239
- 10
+ 10\n\n🟢 زمان مناسب برای بررسی احساسات\n۱۰ آ
+ بان تا ۹ آذر (1–30 Nov)\nدر نوامبر می‌توانید 
+ احساساتی را که در تابستان روشن نشد، با دی
+ د عمیق‌تری دوباره بررسی کنید.\nhttps://t.me/Farsi
+ Horoscope/23927
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚪ نیمه اول نوامبر آرام +۱۰
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261110
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:neutral_2026-11-05_2026-11-09@astro-calendar
 SEQUENCE:11
 DESCRIPTION:۱۴ تا ۱۸ آبان (5–9 Nov)\n\n⚪ نیمه اول ن
@@ -1321,7 +1334,7 @@ SUMMARY:🔴 دوره برگشتی؛ پرهیز از برون‌ریزی
  هیجانات +۱۶
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:bad_2026-11-06_2026-11-07@astro-calendar
 SEQUENCE:17
 DESCRIPTION:۱۵ تا ۱۶ آبان (6–7 Nov)\n\n🔴 دوره برگش
@@ -1401,7 +1414,7 @@ SUMMARY:🔴 دوره برگشتی؛ پرهیز از برون‌ریزی
  هیجانات +۲۲
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261110
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:bad_2026-11-08_2026-11-09@astro-calendar
 SEQUENCE:23
 DESCRIPTION:۱۷ تا ۱۸ آبان (8–9 Nov)\n\n🔴 دوره برگش
@@ -1504,7 +1517,7 @@ SUMMARY:🔴 پرهیز از تصمیم نهایی در دوره برگش
  تی +۲۴
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:bad_2026-11-10_2026-11-13@astro-calendar
 SEQUENCE:25
 DESCRIPTION:۱۹ تا ۲۲ آبان (10–13 Nov)\n\n🔴 پرهیز از 
@@ -1616,7 +1629,7 @@ SUMMARY:⚪ تصمیم‌های قاطع پس از مستقیم شدن +۱
  ۱
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:neutral_2026-11-10_2026-11-15@astro-calendar
 SEQUENCE:12
 DESCRIPTION:۱۹ تا ۲۴ آبان (10–15 Nov)\n\n⚪ تصمیم‌ها
@@ -1671,12 +1684,12 @@ DESCRIPTION:۱۹ تا ۲۴ آبان (10–15 Nov)\n\n⚪ تصمیم‌ها
  tps://t.me/FarsiHoroscope/23907
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🟢 مستقیم شدن عطارد و ونوس +۱
+SUMMARY:🟢 مستقیم شدن عطارد و ونوس +۲
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261121
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:good_2026-11-10_2026-11-20@astro-calendar
-SEQUENCE:2
+SEQUENCE:3
 DESCRIPTION:۱۹ تا ۲۹ آبان (10–20 Nov)\n\n🟢 مستقیم ش
  دن عطارد و ونوس\n۱۹ تا ۲۹ آبان (10–20 Nov)\nبا 
  مستقیم شدن عطارد و ونوس در نیمه نوامبر، ک
@@ -1688,13 +1701,17 @@ DESCRIPTION:۱۹ تا ۲۹ آبان (10–20 Nov)\n\n🟢 مستقیم ش
   موج جدایی نچسبیده‌اند، در این ماه می‌ت
  وانند از کارمای نیک گذشته‌شان برای ورود 
  انرژی‌های خوب بهره ببرند.\nhttps://t.me/FarsiHorosco
- pe/23910
+ pe/23910\n\n🟢 زمان مناسب برای بررسی احساسات\n
+ ۱۰ آبان تا ۹ آذر (1–30 Nov)\nدر نوامبر می‌توا
+ نید احساساتی را که در تابستان روشن نشد، ب
+ ا دید عمیق‌تری دوباره بررسی کنید.\nhttps://t.m
+ e/FarsiHoroscope/23927
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🔴 اوج فشار و بیرون ریختن دردها +۲۲
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:bad_2026-11-14_2026-11-14@astro-calendar
 SEQUENCE:23
 DESCRIPTION:۲۳ آبان (14 Nov)\n\n🔴 اوج فشار و بیرون 
@@ -1796,7 +1813,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 اوج فشار و بیرون ریختن دردها +۲۳
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:bad_2026-11-15_2026-11-15@astro-calendar
 SEQUENCE:24
 DESCRIPTION:۲۴ آبان (15 Nov)\n\n🔴 اوج فشار و بیرون 
@@ -1901,7 +1918,7 @@ BEGIN:VEVENT
 SUMMARY:⚪ تصمیم‌های قاطع پس از مستقیم شدن +۸
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:neutral_2026-11-16_2026-11-16@astro-calendar
 SEQUENCE:9
 DESCRIPTION:۲۵ آبان (16 Nov)\n\n⚪ تصمیم‌های قاطع پ
@@ -1948,7 +1965,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 اوج فشار و بیرون ریختن دردها +۲۱
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261119
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:bad_2026-11-16_2026-11-18@astro-calendar
 SEQUENCE:22
 DESCRIPTION:۲۵ تا ۲۷ آبان (16–18 Nov)\n\n🔴 اوج فشار 
@@ -2044,7 +2061,7 @@ BEGIN:VEVENT
 SUMMARY:⚪ تصمیم‌های قاطع پس از مستقیم شدن +۷
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261121
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:neutral_2026-11-17_2026-11-20@astro-calendar
 SEQUENCE:8
 DESCRIPTION:۲۶ تا ۲۹ آبان (17–20 Nov)\n\n⚪ تصمیم‌ها
@@ -2087,7 +2104,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 اوج چالش انرژی در اواسط نوامبر +۱۶
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261121
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:bad_2026-11-19_2026-11-20@astro-calendar
 SEQUENCE:17
 DESCRIPTION:۲۸ تا ۲۹ آبان (19–20 Nov)\n\n🔴 اوج چالش 
@@ -2164,7 +2181,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 نیمه دوم نوامبر پرتنش و سریع +۱۲
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:bad_2026-11-21_2026-11-21@astro-calendar
 SEQUENCE:13
 DESCRIPTION:۳۰ آبان (21 Nov)\n\n🔴 نیمه دوم نوامبر پ
@@ -2224,7 +2241,7 @@ BEGIN:VEVENT
 SUMMARY:⚪ زمان بررسی ادامه ماجرا +۶
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:neutral_2026-11-21_2026-11-21@astro-calendar
 SEQUENCE:7
 DESCRIPTION:۳۰ آبان (21 Nov)\n\n⚪ زمان بررسی ادامه 
@@ -2259,25 +2276,29 @@ DESCRIPTION:۳۰ آبان (21 Nov)\n\n⚪ زمان بررسی ادامه
  های عمومی مطرح شود.\nhttps://t.me/FarsiHoroscope/23907
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🟢 فضای باز برای انرژی‌های مطلوب
+SUMMARY:🟢 فضای باز برای انرژی‌های مطلوب +۱
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:good_2026-11-21_2026-11-27@astro-calendar
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:۳۰ آبان تا ۶ آذر (21–27 Nov)\n\n🟢 فضای ب
  از برای انرژی‌های مطلوب\n۱۰ آبان تا ۹ آذر
   (1–30 Nov)\nکسانی که رفتنی‌ها را پذیرفته و ب
  ه موج جدایی نچسبیده‌اند، در این ماه می‌
  توانند از کارمای نیک گذشته‌شان برای ورو
  د انرژی‌های خوب بهره ببرند.\nhttps://t.me/FarsiHoro
- scope/23910
+ scope/23910\n\n🟢 زمان مناسب برای بررسی احساسات
+ \n۱۰ آبان تا ۹ آذر (1–30 Nov)\nدر نوامبر می‌تو
+ انید احساساتی را که در تابستان روشن نشد، 
+ با دید عمیق‌تری دوباره بررسی کنید.\nhttps://t
+ .me/FarsiHoroscope/23927
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🔴 نیمه دوم نوامبر پرتنش و سریع +۱۱
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261127
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:bad_2026-11-22_2026-11-26@astro-calendar
 SEQUENCE:12
 DESCRIPTION:۱ تا ۵ آذر (22–26 Nov)\n\n🔴 نیمه دوم نوا
@@ -2333,7 +2354,7 @@ BEGIN:VEVENT
 SUMMARY:⚪ زمان بررسی ادامه ماجرا +۲
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261201
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:neutral_2026-11-22_2026-11-30@astro-calendar
 SEQUENCE:3
 DESCRIPTION:۱ تا ۹ آذر (22–30 Nov)\n\n⚪ زمان بررسی ا
@@ -2355,7 +2376,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 نیمه دوم نوامبر پرتنش و سریع +۱۰
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261201
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:bad_2026-11-27_2026-11-30@astro-calendar
 SEQUENCE:11
 DESCRIPTION:۶ تا ۹ آذر (27–30 Nov)\n\n🔴 نیمه دوم نوا
@@ -2404,12 +2425,12 @@ DESCRIPTION:۶ تا ۹ آذر (27–30 Nov)\n\n🔴 نیمه دوم نوا
  eturn.\nhttps://t.me/FarsiHoroscope/23912
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🟢 زمان تصمیم‌گیری و پیشرفت +۱
+SUMMARY:🟢 زمان تصمیم‌گیری و پیشرفت +۲
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:good_2026-11-28_2026-11-28@astro-calendar
-SEQUENCE:2
+SEQUENCE:3
 DESCRIPTION:۷ آذر (28 Nov)\n\n🟢 زمان تصمیم‌گیری و 
  پیشرفت\n۷ آذر (28 Nov)\nDecide or move forward on the matter tha
  t returned on 4 November\, now with more awareness and different condition
@@ -2418,27 +2439,37 @@ DESCRIPTION:۷ آذر (28 Nov)\n\n🟢 زمان تصمیم‌گیری و
  کسانی که رفتنی‌ها را پذیرفته و به موج جد
  ایی نچسبیده‌اند، در این ماه می‌توانند ا
  ز کارمای نیک گذشته‌شان برای ورود انرژی‌
- های خوب بهره ببرند.\nhttps://t.me/FarsiHoroscope/23910
+ های خوب بهره ببرند.\nhttps://t.me/FarsiHoroscope/23910\n\n
+ 🟢 زمان مناسب برای بررسی احساسات\n۱۰ آبان
+  تا ۹ آذر (1–30 Nov)\nدر نوامبر می‌توانید احس
+ اساتی را که در تابستان روشن نشد، با دید ع
+ میق‌تری دوباره بررسی کنید.\nhttps://t.me/FarsiHoros
+ cope/23927
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🟢 فضای باز برای انرژی‌های مطلوب
+SUMMARY:🟢 فضای باز برای انرژی‌های مطلوب +۱
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261201
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:good_2026-11-29_2026-11-30@astro-calendar
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:۸ تا ۹ آذر (29–30 Nov)\n\n🟢 فضای باز برا
  ی انرژی‌های مطلوب\n۱۰ آبان تا ۹ آذر (1–30 No
  v)\nکسانی که رفتنی‌ها را پذیرفته و به موج 
  جدایی نچسبیده‌اند، در این ماه می‌توانن
  د از کارمای نیک گذشته‌شان برای ورود انرژ
  ی‌های خوب بهره ببرند.\nhttps://t.me/FarsiHoroscope/23910
+ \n\n🟢 زمان مناسب برای بررسی احساسات\n۱۰ آب
+ ان تا ۹ آذر (1–30 Nov)\nدر نوامبر می‌توانید ا
+ حساساتی را که در تابستان روشن نشد، با دید
+  عمیق‌تری دوباره بررسی کنید.\nhttps://t.me/FarsiHo
+ roscope/23927
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🔴 سومین مربع ونوس و پلوتو +۵
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:bad_2026-12-01_2026-12-09@astro-calendar
 SEQUENCE:6
 DESCRIPTION:۱۰ تا ۱۸ آذر (1–9 Dec)\n\n🔴 سومین مربع 
@@ -2471,7 +2502,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 سومین مربع ونوس و پلوتو +۶
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:bad_2026-12-10_2026-12-31@astro-calendar
 SEQUENCE:7
 DESCRIPTION:۱۹ آذر تا ۱۰ دی (10–31 Dec)\n\n🔴 سومین م
@@ -2509,7 +2540,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 گره‌خوردن مریخ و مشتری در اسد +۲
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270201
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:bad_2027-01-01_2027-01-31@astro-calendar
 SEQUENCE:3
 DESCRIPTION:۱۱ دی تا ۱۱ بهمن (1–31 Jan)\n\n🔴 گره‌خ
@@ -2531,7 +2562,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 اوج انرژی‌های متحول‌کننده +۳
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270301
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:bad_2027-02-01_2027-02-28@astro-calendar
 SEQUENCE:4
 DESCRIPTION:۱۲ بهمن تا ۹ اسفند (1–28 Feb)\n\n🔴 اوج 
@@ -2557,7 +2588,7 @@ BEGIN:VEVENT
 SUMMARY:⚪ ادامه داستان تا فوریه +۱
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270301
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:neutral_2027-02-01_2027-02-28@astro-calendar
 SEQUENCE:2
 DESCRIPTION:۱۲ بهمن تا ۹ اسفند (1–28 Feb)\n\n⚪ ادام
@@ -2575,7 +2606,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 اوج تنش و آشفتگی +۳
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270401
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:bad_2027-03-01_2027-03-31@astro-calendar
 SEQUENCE:4
 DESCRIPTION:۱۰ اسفند تا ۱۱ فروردین (1–31 Mar)\n\n🔴 
@@ -2601,7 +2632,7 @@ BEGIN:VEVENT
 SUMMARY:⚪ مریخ در لئو؛ هدایت انرژی به خلاقیت
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270516
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:neutral_2027-03-01_2027-05-15@astro-calendar
 SEQUENCE:1
 DESCRIPTION:۱۰ اسفند تا ۲۵ اردیبهشت (1 Mar – 15 May)
@@ -2616,7 +2647,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 دوره پرتنش و متحول‌کننده +۱
 DTSTART;VALUE=DATE:20270401
 DTEND;VALUE=DATE:20270601
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:bad_2027-04-01_2027-05-31@astro-calendar
 SEQUENCE:2
 DESCRIPTION:۱۲ فروردین تا ۱۰ خرداد (1 Apr – 31 May)\n
@@ -2634,7 +2665,7 @@ BEGIN:VEVENT
 SUMMARY:🔴 ادامه فشارهای قدرت تا تابستان
 DTSTART;VALUE=DATE:20270601
 DTEND;VALUE=DATE:20270923
-DTSTAMP:20261104T121525Z
+DTSTAMP:20261104T121824Z
 UID:bad_2027-06-01_2027-09-22@astro-calendar
 SEQUENCE:1
 DESCRIPTION:۱۱ خرداد تا ۳۱ شهریور (1 Jun – 22 Sep)\n\n
