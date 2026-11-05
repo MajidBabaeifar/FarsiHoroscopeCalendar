@@ -1,6 +1,6 @@
 # Page: findable in Persian search
 
-Status: Live: none
+Status: Live: PAGE-1..12
 
 The calendar page at `https://majidbabaeifar.github.io/FarsiHoroscopeCalendar/` (`index.html`, called "the page" below) is a single static page on GitHub Pages with no build step. These requirements make it findable by people searching in Persian and link it with the two Telegram channels. All are Draft until the code PR builds them.
 
