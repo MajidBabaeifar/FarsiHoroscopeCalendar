@@ -176,13 +176,13 @@ class TestPage(unittest.TestCase):
         self.assertIn("کانال تقویم", text)
 
     def test_verification_artifacts_match_owner_provided_tokens(self):
-        # No tokens are provided yet, so none may be invented.
+        # Only tokens the owner provided: Google's meta tag (2026-11-06); Bing not yet.
         names = os.listdir(ROOT)
         self.assertFalse([n for n in names if re.match(r"google[0-9a-f]+\.html$", n)])
         self.assertFalse([n for n in names if n == "BingSiteAuth.xml"])
         p = page()
-        for k in ("google-site-verification", "msvalidate.01"):
-            self.assertIsNone(p.meta("name", k))
+        self.assertEqual(p.meta("name", "google-site-verification"), "Q1LRKFA0k1pRLpnWkPTuuPnh9vKvHWUSoyArRkvz6qU")
+        self.assertIsNone(p.meta("name", "msvalidate.01"))
 
     def test_subscribe_links_still_work(self):
         p = page()
